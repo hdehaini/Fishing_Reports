@@ -1,8 +1,8 @@
 /* General Styles */
 body {
     font-family: Arial, sans-serif;
-    background: url('oceanbackground.jpg') no-repeat center center fixed; /* Adjust path as needed */
-    background-size: cover; /* Ensure the background image covers the whole screen */
+    background: url('oceanbackground.jpg') no-repeat center center fixed;
+    background-size: cover;
     margin: 0;
     padding: 0;
     color: #333;
@@ -12,29 +12,34 @@ h1 {
     text-align: center;
     padding: 20px 0;
     color: black;
-    font-size: 3.5em;
-    background: rgba(255, 255, 255, 0); /* Background color for readability */
+    font-size: 3em;
+    background: rgba(255, 255, 255, 0);
 }
 
 h2 {
     color: black;
     text-align: center;
     margin-bottom: 20px;
-    font-size: 1.5em;
-    background: rgba(255, 255, 255, 0); /* Background color for readability */
+    font-size: 2em;
+    background: rgba(255, 255, 255, 0);
 }
 
 #averages ul {
     list-style-type: none;
-    padding: 0;
     text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.5);
+    width: 50%;
+    margin: 0 auto;
 }
 
 #averages ul li {
-    display: inline-block;
+    display: block;
     margin: 0 15px;
-    font-size: 1.3em;
-    background: rgba(255, 255, 255, 0); /* Background color for readability */
+    font-size: 1.1em;
 }
 
 .container {
@@ -42,7 +47,7 @@ h2 {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
-    background: rgba(255, 255, 255, 0); /* Background color for readability */
+    background: rgba(255, 255, 255, 0);
 }
 
 label {
@@ -50,15 +55,6 @@ label {
     margin-right: 10px;
     display: inline-block;
     margin-bottom: 10px;
-    width: 30%;
-    margin-left: 15px;
-}
-
-input[type="text"], input[type="number"] {
-    margin-bottom: 20px;
-    padding: 5px;
-    font-size: 1em;
-    width: 100%;
 }
 
 select {
@@ -112,6 +108,36 @@ table.dataTable tbody td {
     float: left;
 }
 
+.filter-section {
+    /* display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap; */
+    padding: 20px 0;
+    background: rgba(255, 255, 255, 0);
+}
+
+.filter-group {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.5);
+}
+
+.filter-group label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.filter-options {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.filter-options label {
+    margin-right: 10px;
+}
+
 /* Responsive Styles */
 @media (max-width: 768px) {
     h1 {
@@ -140,5 +166,20 @@ table.dataTable tbody td {
     #averages ul li {
         display: block;
         margin: 10px 0;
+    }
+
+    .filter-section {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .filter-group {
+        width: 100%;
+        max-width: 400px;
+    }
+
+    .filter-options label {
+        width: 100%;
+        margin: 5px 0;
     }
 }
