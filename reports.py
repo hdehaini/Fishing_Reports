@@ -104,7 +104,7 @@ def calculate_averages(df):
     
     return averages
 
-def generate_html(df, averages, title_date, template_path='index.html', output_path='output.html'):
+def generate_html(df, averages, title_date, template_path='schema.html', output_path='index.html'):
     with open(template_path, 'r') as file:
         template = file.read()
 
