@@ -1,5 +1,4 @@
 document.addEventListener("DOMContentLoaded", function () {
-  // Get the current date
   var currentDate = new Date();
   var options = { year: "numeric", month: "long", day: "numeric" };
   var title = `Fishing Reports ${currentDate.toLocaleDateString(
@@ -9,11 +8,9 @@ document.addEventListener("DOMContentLoaded", function () {
   document.title = title;
   document.querySelector("h1").textContent = title;
 
-  // Initialize DataTable
   var table = $("#reports").DataTable();
 
-  // Fetch data from the sources
-  var corsProxy = "https://cors-anywhere.herokuapp.com/";
+  var corsProxy = "https://bright-hill-peach.glitch.me/"; // Replace with your Glitch project URL
   var urls = [
     corsProxy +
       "https://www.sportfishingreport.com/landings/seaforth-sportfishing.php",
@@ -30,7 +27,16 @@ document.addEventListener("DOMContentLoaded", function () {
 
   var reports = [];
 
-  Promise.all(urls.map((url) => fetch(url).then((response) => response.text())))
+  Promise.all(
+    urls.map((url) =>
+      fetch(url, {
+        headers: {
+          Origin: window.location.origin,
+          "x-requested-with": "XMLHttpRequest",
+        },
+      }).then((response) => response.text())
+    )
+  )
     .then((responses) => {
       responses.forEach((html, index) => {
         var parser = new DOMParser();
@@ -58,9 +64,8 @@ document.addEventListener("DOMContentLoaded", function () {
         }
       });
 
-      console.log("Reports:", reports); // Debugging: Check the reports data
+      console.log("Reports:", reports);
 
-      // Update DataTable
       table.clear();
       reports.forEach((report) => {
         table.row
@@ -74,7 +79,6 @@ document.addEventListener("DOMContentLoaded", function () {
           .draw();
       });
 
-      // Calculate averages
       calculateAverages(reports);
     })
     .catch((error) => console.error("Error fetching data:", error));
@@ -110,21 +114,26 @@ document.addEventListener("DOMContentLoaded", function () {
     document.getElementById("averages").innerHTML = averagesHtml;
   }
 
-  $("#tripTypeFilter").on("change", function () {
-    var selectedTripTypes = $(this).val();
-    if (selectedTripTypes.length > 0) {
-      table.column(2).search(selectedTripTypes.join("|"), true, false).draw();
-    } else {
-      table.column(2).search("").draw();
-    }
-  });
+  function filterTable() {
+    var selectedTripTypes = [];
+    $("#tripTypeFilter input:checked").each(function () {
+      selectedTripTypes.push($(this).val());
+    });
 
-  $("#fishCountFilter").on("change", function () {
-    var selectedFishCounts = $(this).val();
-    if (selectedFishCounts.length > 0) {
-      table.column(4).search(selectedFishCounts.join("|"), true, false).draw();
-    } else {
-      table.column(4).search("").draw();
-    }
-  });
+    var selectedFishCounts = [];
+    $("#fishCountFilter input:checked").each(function () {
+      selectedFishCounts.push($(this).val());
+    });
+
+    var tripTypeRegex =
+      selectedTripTypes.length > 0 ? selectedTripTypes.join("|") : "";
+    var fishCountRegex =
+      selectedFishCounts.length > 0 ? selectedFishCounts.join("|") : "";
+
+    table.column(2).search(tripTypeRegex, true, false).draw();
+    table.column(4).search(fishCountRegex, true, false).draw();
+  }
+
+  $("#tripTypeFilter input").on("change", filterTable);
+  $("#fishCountFilter input").on("change", filterTable);
 });

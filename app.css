@@ -1,0 +1,144 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background: url('oceanbackground.jpg') no-repeat center center fixed; /* Adjust path as needed */
+    background-size: cover; /* Ensure the background image covers the whole screen */
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px 0;
+    color: black;
+    font-size: 3.5em;
+    background: rgba(255, 255, 255, 0); /* Background color for readability */
+}
+
+h2 {
+    color: black;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+    background: rgba(255, 255, 255, 0); /* Background color for readability */
+}
+
+#averages ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+#averages ul li {
+    display: inline-block;
+    margin: 0 15px;
+    font-size: 1.3em;
+    background: rgba(255, 255, 255, 0); /* Background color for readability */
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0); /* Background color for readability */
+}
+
+label {
+    font-weight: bold;
+    margin-right: 10px;
+    display: inline-block;
+    margin-bottom: 10px;
+    width: 30%;
+    margin-left: 15px;
+}
+
+input[type="text"], input[type="number"] {
+    margin-bottom: 20px;
+    padding: 5px;
+    font-size: 1em;
+    width: 100%;
+}
+
+select {
+    margin-bottom: 20px;
+    padding: 5px;
+    font-size: 1em;
+    width: 100%;
+}
+
+table.dataTable {
+    width: 100% !important;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+table.dataTable thead th {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+table.dataTable tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+table.dataTable tbody tr:hover {
+    background-color: #e9ecef;
+}
+
+table.dataTable tbody td {
+    padding: 10px;
+    text-align: center;
+}
+
+.dataTables_wrapper .dataTables_filter {
+    float: right;
+    text-align: right;
+}
+
+.dataTables_wrapper .dataTables_paginate {
+    float: right;
+    text-align: right;
+}
+
+.dataTables_wrapper .dataTables_info {
+    float: left;
+}
+
+.dataTables_wrapper .dataTables_length {
+    float: left;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 1.2em;
+    }
+
+    h2 {
+        font-size: 1em;
+    }
+
+    label {
+        width: 100%;
+        margin-bottom: 5px;
+    }
+
+    select {
+        width: 100%;
+        font-size: 1em;
+    }
+
+    table.dataTable thead th, table.dataTable tbody td {
+        padding: 5px;
+        font-size: 0.8em;
+    }
+
+    #averages ul li {
+        display: block;
+        margin: 10px 0;
+    }
+}
