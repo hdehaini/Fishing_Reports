@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fishing Reports</title>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+    <script src="script.js"></script>
+</head>
+<body>
+    <h1>Fishing Reports</h1>
+
+    <div id="averages">
+        <h2>Averages</h2>
+        <!-- Averages will be inserted here by the script -->
+    </div>
+
+    <div>
+        <label for="tripTypeFilter">Filter by Trip Type:</label>
+        <select id="tripTypeFilter" multiple>
+            <option value="">All</option>
+            <option value="1/2 Day">1/2 Day</option>
+            <option value="3/4 Day">3/4 Day</option>
+            <option value="Full Day">Full Day</option>
+            <option value="Overnight">Overnight</option>
+            <option value="2.5 Day">2.5 Day</option>
+            <option value="4 Day">4 Day</option>
+            <!-- Add more options as needed -->
+        </select>
+        
+        <label for="fishCountFilter">Filter by Fish Count:</label>
+        <select id="fishCountFilter" multiple>
+            <option value="">All</option>
+            <option value="Yellowtail">Yellowtail</option>
+            <option value="Bluefin Tuna">Bluefin Tuna</option>
+            <option value="Yellowfin Tuna">Yellowfin Tuna</option>
+            <option value="Dorado">Dorado</option>
+            <option value="Rockfish">Rockfish</option>
+            <option value="Sanddab">Sanddab</option>
+            <option value="Calico Bass">Calico Bass</option>
+            <option value="Sand Bass">Sand Bass</option>
+            <option value="Halibut">Halibut</option>
+            <option value="Lingcod">Lingcod</option>
+            <option value="Barracuda">Barracuda</option>
+            <option value="Sculpin">Sculpin</option>
+            <!-- Add more options as needed -->
+        </select>
+    </div>
+
+    <table id="reports" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>Source</th>
+                <th>Boat Name</th>
+                <th>Trip Type</th>
+                <th>Anglers</th>
+                <th>Fish Count</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Data will be inserted here by the script -->
+        </tbody>
+    </table>
+</body>
+</html>
