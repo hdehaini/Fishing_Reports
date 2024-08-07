@@ -84,9 +84,9 @@ select {
 }
 
 table.dataTable {
-    width: 100% !important;
+    width: 95% !important;
     border-collapse: collapse;
-    margin: 20px 0;
+    margin: 0 auto;
 }
 
 table.dataTable thead th {

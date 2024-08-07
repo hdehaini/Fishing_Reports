@@ -108,7 +108,9 @@ def generate_html(df, averages, title_date, template_path='template.html', outpu
     with open(template_path, 'r') as file:
         template = file.read()
 
+    # Replace the title placeholder with the actual title
     title = f"Fishing Reports {title_date}"
+    html_content = template.replace('<!--TITLE-->', title)
     
     # Convert DataFrame to HTML table rows
     table_rows = ''
@@ -121,9 +123,8 @@ def generate_html(df, averages, title_date, template_path='template.html', outpu
         table_rows += f'<td>{row["Fish Count"]}</td>'
         table_rows += '</tr>'
 
-    # Insert table rows and title into the template
-    html_content = template.replace('<!-- Data will be inserted here by the Python script -->', table_rows)
-    html_content = html_content.replace('<!--TITLE-->', title)
+    # Insert table rows into the template
+    html_content = html_content.replace('<!-- Data will be inserted here by the Python script -->', table_rows)
     
     # Insert averages into the template
     averages_html = '<div class="averages-list">'
@@ -132,6 +133,9 @@ def generate_html(df, averages, title_date, template_path='template.html', outpu
     averages_html += '</div>'
     
     html_content = html_content.replace('<!-- Averages will be inserted here by the Python script -->', averages_html)
+    
+    # Insert the date into the template
+    html_content = html_content.replace('<!--DATE-->', title_date)
     
     with open(output_path, 'w') as file:
         file.write(html_content)
