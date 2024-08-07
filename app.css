@@ -24,12 +24,25 @@ h2 {
     background: rgba(255, 255, 255, 0);
 }
 
+hr {
+    border: 0;
+    height: 3px;
+    background: #333;
+    margin: 20px 0;
+    width: 80%;
+    margin: 0 auto;
+}
+
 .averages-list {
     display: flex;
     flex-direction: column;
     width: 20%;
     margin: 0 auto;
     font-size: large;
+    background: rgba(255, 255, 255, 0.3);
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .average-item {
@@ -127,6 +140,7 @@ table.dataTable tbody td {
     border: 1px solid #ccc;
     border-radius: 8px;
     background: rgba(255, 255, 255, 0.5);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .filter-group label {
