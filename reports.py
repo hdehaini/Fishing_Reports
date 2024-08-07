@@ -104,7 +104,7 @@ def calculate_averages(df):
     
     return averages
 
-def generate_html(df, averages, title_date, template_path='schema.html', output_path='index.html'):
+def generate_html(df, averages, title_date, template_path='template.html', output_path='index.html'):
     with open(template_path, 'r') as file:
         template = file.read()
 
@@ -126,10 +126,10 @@ def generate_html(df, averages, title_date, template_path='schema.html', output_
     html_content = html_content.replace('<!--TITLE-->', title)
     
     # Insert averages into the template
-    averages_html = '<ul>'
+    averages_html = '<div class="averages-list">'
     for fish, avg in averages.items():
-        averages_html += f'<li>Average {fish} per angler: {avg:.2f}</li>'
-    averages_html += '</ul>'
+        averages_html += f'<div class="average-item"><span>Average {fish} per angler:</span><span class="average-value">{avg:.2f}</span></div>'
+    averages_html += '</div>'
     
     html_content = html_content.replace('<!-- Averages will be inserted here by the Python script -->', averages_html)
     

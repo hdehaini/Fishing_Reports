@@ -24,22 +24,27 @@ h2 {
     background: rgba(255, 255, 255, 0);
 }
 
-#averages ul {
-    list-style-type: none;
-    text-align: center;
-    margin: 10px;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    background: rgba(255, 255, 255, 0.5);
-    width: 50%;
+.averages-list {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
     margin: 0 auto;
+    font-size: large;
 }
 
-#averages ul li {
-    display: block;
-    margin: 0 15px;
-    font-size: 1.1em;
+.average-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+}
+
+.average-item span {
+    display: inline-block;
+}
+
+.average-item .average-value {
+    text-align: right;
+    width: 50px; /* Adjust as necessary */
 }
 
 .container {
