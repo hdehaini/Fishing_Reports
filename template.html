@@ -91,7 +91,7 @@
             };
 
             // Initialize DataTable
-            $('#reports').DataTable({
+            var table = $('#reports').DataTable({
                 paging: false, // Disables pagination
                 info: false, // Hides the 'Showing x to y of z entries' info
                 order: [[2, 'asc']], // Sets default sorting on the third column (Trip Type), ascending order
