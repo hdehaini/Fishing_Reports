@@ -87,6 +87,7 @@ table.dataTable {
     width: 95% !important;
     border-collapse: collapse;
     margin: 0 auto;
+    margin-bottom: 25px;
 }
 
 table.dataTable thead th {
