@@ -106,7 +106,7 @@ table.dataTable tbody td {
 .dataTables_wrapper .dataTables_filter {
     float: left;
     text-align: left;
-    margin-left: 45px;
+    margin-left: 48px;
     color: black;
     font-size: large;
     background: rgba(255, 255, 255, 0.5);
@@ -147,7 +147,7 @@ table.dataTable tbody td {
 }
 
 .filter-group {
-    margin: 10px;
+    margin: 48px;
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 8px;
