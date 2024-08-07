@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+from pandas.api.types import CategoricalDtype
 import re
 from datetime import datetime, timedelta
 
@@ -13,6 +14,13 @@ urls = {
     'oceanside': 'https://www.sportfishingreport.com/landings/oceanside-sea-center.php',
     'ironclad': 'https://www.sportfishingreport.com/landings/ironclad-sportfishing.php'
 }
+
+# Define your custom sorting order
+trip_type_order = [
+    "1/2 Day AM", "1/2 Day PM", "1/2 Day Twilight", "3/4 Day", "Full Day",
+    "Overnight", "1.5 Day", "2 Day", "2.5 Day", "3 Day", "3.5 Day", "4 Day"
+]
+trip_type_cat = CategoricalDtype(categories=trip_type_order, ordered=True)
 
 def remove_ordinal_suffix(date_str):
     return re.sub(r'(\d+)(st|nd|rd|th)', r'\1', date_str)
@@ -140,6 +148,18 @@ def generate_html(df, averages, title_date, template_path='template.html', outpu
     with open(output_path, 'w') as file:
         file.write(html_content)
 
+def sort_dataframe(df):
+    # Convert 'Trip Type' column to ordered categorical type
+    df['Trip Type'] = df['Trip Type'].astype(trip_type_cat)
+    # Sort DataFrame by 'Trip Type'
+    return df.sort_values('Trip Type')
+
+def save_to_csv(df, filename):
+    # Save the sorted DataFrame to a CSV file
+    df.to_csv(filename, index=False)
+    print(f"Saved sorted data to {filename}")
+
+
 if __name__ == '__main__':
     current_date = datetime.now().date()
     previous_date = current_date - timedelta(days=1)
@@ -154,8 +174,10 @@ if __name__ == '__main__':
         title_date = current_date.strftime("%B %d, %Y")
 
     if not all_reports_df.empty:
-        averages = calculate_averages(all_reports_df)
-        generate_html(all_reports_df, averages, title_date)
+        sorted_df = sort_dataframe(all_reports_df)  # Sort the DataFrame
+        save_to_csv(sorted_df, 'sorted_fishing_reports.csv')  # Save to CSV
+        averages = calculate_averages(sorted_df)
+        generate_html(sorted_df, averages, title_date)  # Note: Pass sorted_df to generate_html if you want HTML sorted too
         print(f"Generated report for {title_date}")
     else:
         print("No reports available.")
