@@ -24,20 +24,10 @@ h2 {
     background: rgba(255, 255, 255, 0);
 }
 
-hr {
-    border: 0;
-    height: 3px;
-    background: #333;
-    margin: 20px 0;
-    width: 80%;
-    margin: 0 auto;
-    border-radius: 5px;
-}
-
 .averages-list {
     display: flex;
     flex-direction: column;
-    width: 20%;
+    width: 50%;
     margin: 0 auto;
     font-size: large;
     background: rgba(255, 255, 255, 0.3);
