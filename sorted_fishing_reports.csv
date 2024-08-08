@@ -1,4 +1,9 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
+seaforth,New Seaforth,1/2 Day AM,31,26 Sand Bass
+seaforth,New Seaforth,1/2 Day Twilight,28,140 Calico Bass
+seaforth,Tribute,1.5 Day,29,"58 Calico Bass, 3 Yellowtail"
+seaforth,Apollo,2.5 Day,14,"56 Bluefin Tuna, 1 Yellowtail"
+seaforth,Aztec,2.5 Day,15,"60 Bluefin Tuna, 23 Yellowtail"
 hmlanding,Legend,3 Day,20,112 Bluefin Tuna
 hmlanding,Poseidon,3.5 Day,18,"108 Bluefin Tuna, 31 Bonito, 7 Yellowtail, 1 Albacore"
 hmlanding,Ranger 85,3.5 Day,20,84 Bluefin Tuna
