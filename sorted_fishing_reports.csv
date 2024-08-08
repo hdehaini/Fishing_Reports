@@ -1,23 +1,15 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-hmlanding,Premier,1/2 Day AM,38,"54 Sand Bass, 1 Bonito"
-pointloma,Daily Double,1/2 Day AM,37,"185 Barred Sand Bass, 4 Bonito"
-oceanside,Southern Cal,1/2 Day AM,18,"78 Rockfish, 25 Sculpin, 20 Sculpin Released, 5 Whitefish"
-seaforth,New Seaforth,1/2 Day AM,15,"15 Rockfish, 2 Calico Bass, 2 Halibut, 1 Sand Bass"
-fisherman,Dolphin,1/2 Day PM,22,"110 Sand Bass, 24 Rockfish, 11 Bonito, 1 Lingcod"
-seaforth,New Seaforth,1/2 Day PM,38,"3 Rockfish, 1 Calico Bass, 1 Halibut, 1 Sand Bass, 1 Sculpin, 1 Sheephead"
-hmlanding,Premier,1/2 Day PM,14,"70 Sand Bass, 3 Bonito"
-seaforth,New Seaforth,1/2 Day Twilight,24,"17 Rockfish, 6 Calico Bass"
-hmlanding,Grande,Full Day,27,"21 Yellowtail, 1 Dorado"
-seaforth,Sea Watch,Full Day,18,"16 Barracuda, 16 Yellowtail, 15 Calico Bass"
-pointloma,Mission Belle,Full Day,29,"25 Yellowtail, 11 Calico Bass, 4 Sculpin"
-seaforth,San Diego,Full Day,32,"21 Yellowtail, 5 Calico Bass, 2 Lingcod"
-seaforth,Voyager,Full Day,17,"49 Calico Bass, 23 Sand Bass, 17 Yellowtail, 3 Whitefish"
-seaforth,El Gato Dos,Full Day,4,"7 Yellowtail, 1 Bluefin Tuna"
-hmlanding,Old Glory,Overnight,17,65 Yellowtail
-seaforth,Tribute,1.5 Day,30,9 Yellowtail
-fisherman,Pegasus,2 Day,15,"59 Bluefin Tuna, 2 Yellowtail"
-pointloma,Oceanside 95,2 Day,30,"24 Calico Bass, 15 Bonito, 10 Yellowtail, 1 Yellowfin Tuna"
-fisherman,Fortune,2 Day,0,"30 Bluefin Tuna, 18 Yellowtail"
-fisherman,Liberty,2 Day,18,"38 Yellowtail, 24 Bluefin Tuna"
-fisherman,Pacific Dawn,2 Day,9,19 Bluefin Tuna
-fisherman,Pacific Queen,2 Day,30,"120 Bluefin Tuna, 3 Yellowtail"
+seaforth,New Seaforth,1/2 Day AM,32,"20 Sand Bass, 7 Bonito"
+pointloma,Daily Double,1/2 Day AM,27,"58 Barred Sand Bass, 6 Bonito, 4 Whitefish"
+oceanside,Southern Cal,1/2 Day AM,23,"45 Sanddab, 40 Rockfish"
+seaforth,Sea Watch,Full Day,17,"75 Barracuda Released, 21 Yellowtail, 15 Calico Bass Released, 8 Barracuda, 2 Calico Bass, 1 Bluefin Tuna"
+seaforth,Voyager,Overnight,18,"11 Yellowtail, 1 Dorado"
+hmlanding,Producer,Overnight,20,"70 Yellowtail, 18 Dorado, 1 Yellowfin Tuna"
+hmlanding,Vendetta 2,Overnight,13,41 Yellowtail
+hmlanding,Horizon,1.5 Day,21,0
+seaforth,Highliner,2 Day,25,"100 Bluefin Tuna, 7 Yellowtail"
+seaforth,Polaris Supreme,2 Day,24,"55 Bluefin Tuna, 7 Yellowtail"
+seaforth,Pacifica,2.5 Day,24,68 Bluefin Tuna
+hmlanding,Ocean Odyssey,2.5 Day,22,"42 Bluefin Tuna, 7 Yellowtail"
+pointloma,New Lo-An,2.5 Day,20,56 Bluefin Tuna (up to 217 pounds)
+hmlanding,Sea Adventure 80,3 Day,21,"48 Bluefin Tuna, 25 Yellowtail, 19 Bonito, 2 Calico Bass"
