@@ -1,20 +1,5 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-oceanside,Southern Cal,1/2 Day AM,23,"45 Sanddab, 40 Rockfish"
-seaforth,New Seaforth,1/2 Day AM,32,"20 Sand Bass, 7 Bonito"
-pointloma,Daily Double,1/2 Day AM,27,"58 Barred Sand Bass, 6 Bonito, 4 Whitefish"
-seaforth,New Seaforth,1/2 Day PM,36,96 Sand Bass
-seaforth,San Diego,Full Day,33,26 Yellowtail
-seaforth,Sea Watch,Full Day,17,"75 Barracuda Released, 21 Yellowtail, 15 Calico Bass Released, 8 Barracuda, 2 Calico Bass, 1 Bluefin Tuna"
-hmlanding,Grande,Full Day,19,29 Yellowtail
-fisherman,Liberty,Full Day,31,15 Yellowtail
-hmlanding,Vendetta 2,Overnight,13,41 Yellowtail
-seaforth,Voyager,Overnight,18,"11 Yellowtail, 1 Dorado"
-hmlanding,Producer,Overnight,20,"70 Yellowtail, 18 Dorado, 1 Yellowfin Tuna"
-hmlanding,Horizon,1.5 Day,21,0
-seaforth,Polaris Supreme,2 Day,24,"55 Bluefin Tuna, 7 Yellowtail"
-seaforth,Highliner,2 Day,25,"100 Bluefin Tuna, 7 Yellowtail"
-seaforth,Pacifica,2.5 Day,24,68 Bluefin Tuna
-pointloma,New Lo-An,2.5 Day,20,56 Bluefin Tuna (up to 217 pounds)
-fisherman,Condor,2.5 Day,26,42 Yellowtail
-hmlanding,Ocean Odyssey,2.5 Day,22,"42 Bluefin Tuna, 7 Yellowtail"
-hmlanding,Sea Adventure 80,3 Day,21,"48 Bluefin Tuna, 25 Yellowtail, 19 Bonito, 2 Calico Bass"
+hmlanding,Legend,3 Day,20,112 Bluefin Tuna
+hmlanding,Poseidon,3.5 Day,18,"108 Bluefin Tuna, 31 Bonito, 7 Yellowtail, 1 Albacore"
+hmlanding,Ranger 85,3.5 Day,20,84 Bluefin Tuna
+hmlanding,Top Gun 80,3.5 Day,13,0
