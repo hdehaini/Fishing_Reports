@@ -94,21 +94,19 @@
             var table = $('#reports').DataTable({
                 paging: false,
                 info: false,
-                order: [], // Remove any default ordering
+                order: [[2, 'asc']], // Set default sorting on the third column, ascending order
                 columnDefs: [{
                     targets: 2,
                     render: function(data, type, row) {
-                        if (type === 'sort') {
-                            return customOrder[data];
-                        }
-                        return data;
-                    }
+                        return type === 'sort' ? customOrder[data] : data;
+                    },
+                    type: 'num' // Ensure the sorting is handled as numeric
                 }]
             });
 
             $('#tripTypeFilter input[type="checkbox"]').on('change', function() {
                 var selectedTripTypes = $('#tripTypeFilter input[type="checkbox"]:checked').map(function() {
-                    return this.value;
+                    return "\\b" + this.value + "\\b";  // Ensure exact match
                 }).get().join('|');
                 table.column(2).search(selectedTripTypes, true, false).draw();
             });
