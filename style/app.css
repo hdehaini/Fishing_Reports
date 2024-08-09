@@ -1,7 +1,7 @@
 /* General Styles */
 body {
     font-family: Arial, sans-serif;
-    background: url('../images/oceanbackground.jpg') no-repeat center center fixed;
+    background: url('../assets/images/oceanbackground.jpg') no-repeat center center fixed;
     background-size: cover;
     margin: 0;
     padding: 0;
@@ -167,23 +167,29 @@ table.dataTable tbody td {
 }
 
 .navbar {
-    background-color: #333; /* Dark background */
-    overflow: hidden; /* Clears floats */
-    display: flex; /* Aligns items in a row */
-    justify-content: space-around; /* Distributes space */
+    position: fixed;  /* Fixes the navbar at the top of the viewport */
+    top: 0;           /* Aligns the navbar at the very top */
+    width: 100%;      /* Ensures the navbar extends full width */
+    background-color: #333; /* Sets the background color */
+    color: white;     /* Sets the text color */
+    z-index: 1000;    /* Ensures the navbar is above other content */
+    text-align: center;
 }
+/* Styling for the rest of the navbar */
 .navbar a {
-    float: left; /* Align links to the left side */
-    display: block; /* Changes links to block level for width/height */
-    color: white; /* Text color */
-    text-align: center; /* Center text */
-    padding: 14px 16px; /* Padding for spacing */
-    text-decoration: none; /* No underline */
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
+
 .navbar a:hover {
-    background-color: #ddd; /* Change background on hover */
-    color: black; /* Change text color on hover */
+    background-color: #ddd;
+    color: black;
 }
+
 
 #fishChart {
     width: 100%; /* Makes the chart responsive to the container width */
