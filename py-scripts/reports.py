@@ -1,3 +1,4 @@
+import os
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -114,26 +115,6 @@ def calculate_averages(df):
             averages[fish] = 0  # If no reports mention this fish, set average to zero
     
     return averages
-# def calculate_averages(df):
-#     full_day_boats = df[df['Trip Type'].str.contains('Full Day')]
-#     fish_types = ['Yellowtail', 'Bluefin Tuna', 'Yellowfin Tuna', 'Dorado']
-    
-#     averages = {}
-#     for fish in fish_types:
-#         # Extract the fish count for each specific fish type
-#         fish_counts = full_day_boats['Fish Count'].str.extractall(f'(\d+)\s+{fish}')
-#         if not fish_counts.empty:
-#             fish_counts = fish_counts[0].astype(float)
-#             total_fish = fish_counts.sum()
-#             total_anglers = full_day_boats['Anglers'].sum()
-#             if total_anglers > 0:
-#                 averages[fish] = total_fish / total_anglers
-#             else:
-#                 averages[fish] = 0
-#         else:
-#             averages[fish] = 0
-    
-#     return averages
 
 def generate_html(df, averages, title_date, template_path='template.html', output_path='index.html'):
     with open(template_path, 'r') as file:
@@ -182,12 +163,22 @@ def sort_dataframe(df):
     return sorted_df
 
 
+def ensure_directory_exists(filename):
+    """ Ensure the directory exists. If not, create it. """
+    directory = os.path.dirname(filename)
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+
 def save_to_csv(df, filename):
-    # Save the sorted DataFrame to a CSV file
+    ensure_directory_exists(filename)  # Ensure the directory exists
     df.to_csv(filename, index=False)
     print(f"Saved sorted data to {filename}")
 
 def append_averages_to_csv(averages):
+    # Define the filename
+    filename = '../database/daily_averages.csv'
+    ensure_directory_exists(filename)  # Ensure the directory exists
+
     # Get current date and time
     now = datetime.now()
     today = now.date()
@@ -204,13 +195,11 @@ def append_averages_to_csv(averages):
         data.update(averages)
         df = pd.DataFrame([data])
         # Append to CSV, creating the file if it does not exist
-        with open('daily_averages.csv', 'a') as f:
-            df.to_csv(f, header=f.tell()==0, index=False)  # Write header only if file is new (file position is at 0)
+        with open(filename, 'a') as f:
+            df.to_csv(f, header=f.tell()==0, index=False)
         print("Averages recorded.")
     else:
         print("Current time is outside the recording window. No action taken.")
-
-
 
 if __name__ == '__main__':
     current_date = datetime.now().date()
@@ -226,7 +215,7 @@ if __name__ == '__main__':
     if not all_reports_df.empty:
         print("Sorting DataFrame...")
         sorted_df = sort_dataframe(all_reports_df)
-        save_to_csv(sorted_df, 'sorted_fishing_reports.csv')
+        save_to_csv(sorted_df, '../database/sorted_fishing_reports.csv')
         averages = calculate_averages(sorted_df)
         append_averages_to_csv(averages)
         generate_html(sorted_df, averages, title_date)
