@@ -97,20 +97,43 @@ def calculate_averages(df):
     
     averages = {}
     for fish in fish_types:
-        # Extract the fish count for each specific fish type
-        fish_counts = full_day_boats['Fish Count'].str.extractall(f'(\d+)\s+{fish}')
+        # Filter reports that mention the specific fish type
+        relevant_reports = full_day_boats[full_day_boats['Fish Count'].str.contains(f'{fish}', na=False)]
+        # Extract the fish count for each specific fish type from relevant reports
+        fish_counts = relevant_reports['Fish Count'].str.extractall(f'(\d+)\s+{fish}').astype(int)
+        
         if not fish_counts.empty:
-            fish_counts = fish_counts[0].astype(float)
-            total_fish = fish_counts.sum()
-            total_anglers = full_day_boats['Anglers'].sum()
+            total_fish = fish_counts[0].sum()  # Sum up all counts of this fish
+            total_anglers = relevant_reports['Anglers'].sum()  # Sum of anglers only in relevant reports
+            
             if total_anglers > 0:
-                averages[fish] = total_fish / total_anglers
+                averages[fish] = total_fish / total_anglers  # Calculate average
             else:
-                averages[fish] = 0
+                averages[fish] = 0  # Avoid division by zero
         else:
-            averages[fish] = 0
+            averages[fish] = 0  # If no reports mention this fish, set average to zero
     
     return averages
+# def calculate_averages(df):
+#     full_day_boats = df[df['Trip Type'].str.contains('Full Day')]
+#     fish_types = ['Yellowtail', 'Bluefin Tuna', 'Yellowfin Tuna', 'Dorado']
+    
+#     averages = {}
+#     for fish in fish_types:
+#         # Extract the fish count for each specific fish type
+#         fish_counts = full_day_boats['Fish Count'].str.extractall(f'(\d+)\s+{fish}')
+#         if not fish_counts.empty:
+#             fish_counts = fish_counts[0].astype(float)
+#             total_fish = fish_counts.sum()
+#             total_anglers = full_day_boats['Anglers'].sum()
+#             if total_anglers > 0:
+#                 averages[fish] = total_fish / total_anglers
+#             else:
+#                 averages[fish] = 0
+#         else:
+#             averages[fish] = 0
+    
+#     return averages
 
 def generate_html(df, averages, title_date, template_path='template.html', output_path='index.html'):
     with open(template_path, 'r') as file:
@@ -137,8 +160,8 @@ def generate_html(df, averages, title_date, template_path='template.html', outpu
     # Insert averages into the template
     averages_html = '<div class="averages-list">'
     for fish, avg in averages.items():
-        averages_html += f'<div class="average-item"><span>Average {fish} per angler:</span><span class="average-value">{avg:.2f}</span></div>'
-    averages_html += '</div>'
+        averages_html += f'<div class="average-item"><span>Average <u>{fish}</u> per angler:</span><span class="average-value">{avg:.2f}</span></div>'
+    averages_html += '<p>Averages reflect counts from boats catching specific fish types only</p></div>'
     
     html_content = html_content.replace('<!-- Averages will be inserted here by the Python script -->', averages_html)
     
