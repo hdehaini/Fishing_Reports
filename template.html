@@ -92,21 +92,18 @@
 
             // Initialize DataTable
             var table = $('#reports').DataTable({
-                paging: false, // Disables pagination
-                info: false, // Hides the 'Showing x to y of z entries' info
-                order: [[2, 'asc']], // Sets default sorting on the third column (Trip Type), ascending order
-                columnDefs: [
-                    {
-                        targets: 2, // assuming the "Trip Type" is the third column (index 2)
-                        render: function(data, type, row) {
-                            // Use the custom order for sorting, but return the original data for display
-                            if (type === 'sort') {
-                                return customOrder[data];
-                            }
-                            return data; // return original data for display
+                paging: false,
+                info: false,
+                order: [], // Remove any default ordering
+                columnDefs: [{
+                    targets: 2,
+                    render: function(data, type, row) {
+                        if (type === 'sort') {
+                            return customOrder[data];
                         }
+                        return data;
                     }
-                ]
+                }]
             });
 
             $('#tripTypeFilter input[type="checkbox"]').on('change', function() {

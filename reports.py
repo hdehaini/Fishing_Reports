@@ -151,8 +151,13 @@ def generate_html(df, averages, title_date, template_path='template.html', outpu
 def sort_dataframe(df):
     # Convert 'Trip Type' column to ordered categorical type
     df['Trip Type'] = df['Trip Type'].astype(trip_type_cat)
+    # Check categories after conversion
+    print(df['Trip Type'].cat.categories)
     # Sort DataFrame by 'Trip Type'
-    return df.sort_values('Trip Type')
+    sorted_df = df.sort_values('Trip Type')
+    print(sorted_df['Trip Type'])  # Debugging to see the order after sorting
+    return sorted_df
+
 
 def save_to_csv(df, filename):
     # Save the sorted DataFrame to a CSV file
@@ -165,19 +170,18 @@ if __name__ == '__main__':
     previous_date = current_date - timedelta(days=1)
 
     all_reports_df, dates = get_all_reports(urls, current_date)
-    
     if all_reports_df.empty:
-        # No current day reports, get previous day's reports
         all_reports_df, _ = get_all_reports(urls, previous_date)
         title_date = previous_date.strftime("%B %d, %Y")
     else:
         title_date = current_date.strftime("%B %d, %Y")
 
     if not all_reports_df.empty:
-        sorted_df = sort_dataframe(all_reports_df)  # Sort the DataFrame
-        save_to_csv(sorted_df, 'sorted_fishing_reports.csv')  # Save to CSV
+        print("Sorting DataFrame...")
+        sorted_df = sort_dataframe(all_reports_df)
+        save_to_csv(sorted_df, 'sorted_fishing_reports.csv')
         averages = calculate_averages(sorted_df)
-        generate_html(sorted_df, averages, title_date)  # Note: Pass sorted_df to generate_html if you want HTML sorted too
+        generate_html(sorted_df, averages, title_date)
         print(f"Generated report for {title_date}")
     else:
         print("No reports available.")
