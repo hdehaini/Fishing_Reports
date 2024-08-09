@@ -6,8 +6,10 @@ trip_type_order = [
 ]
 trip_type_cat = CategoricalDtype(categories=trip_type_order, ordered=True)
 
+TRIP_TYPE = 'Trip Type'
+
 def calculate_averages(df):
-    full_day_boats = df[df['Trip Type'].str.contains('Full Day')]
+    full_day_boats = df[df[TRIP_TYPE].str.contains('Full Day')]
     fish_types = ['Yellowtail', 'Bluefin Tuna', 'Yellowfin Tuna', 'Dorado']
     
     averages = {}
@@ -31,11 +33,11 @@ def calculate_averages(df):
     return averages
 
 def sort_dataframe(df):
-    # Convert 'Trip Type' column to ordered categorical type
-    df['Trip Type'] = df['Trip Type'].astype(trip_type_cat)
+    # Convert TRIP_TYPE column to ordered categorical type
+    df[TRIP_TYPE] = df[TRIP_TYPE].astype(trip_type_cat)
     # Check categories after conversion
-    print(df['Trip Type'].cat.categories)
-    # Sort DataFrame by 'Trip Type'
-    sorted_df = df.sort_values('Trip Type')
-    print(sorted_df['Trip Type'])  # Debugging to see the order after sorting
+    print(df[TRIP_TYPE].cat.categories)
+    # Sort DataFrame by TRIP_TYPE
+    sorted_df = df.sort_values(TRIP_TYPE)
+    print(sorted_df[TRIP_TYPE])  # Debugging to see the order after sorting
     return sorted_df

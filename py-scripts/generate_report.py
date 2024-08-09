@@ -42,7 +42,6 @@ def append_averages_to_csv(averages, filename):
 def generate_html(df, averages, title_date, template_path, output_path):
     base_dir = os.path.dirname(os.path.dirname(__file__))  # Get the parent directory of the script file
     full_template_path = os.path.join(base_dir, template_path)
-    full_output_path = os.path.join(base_dir, output_path)
     
     try:
         with open(full_template_path, 'r') as file:
