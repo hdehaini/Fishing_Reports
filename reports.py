@@ -188,15 +188,27 @@ def save_to_csv(df, filename):
     print(f"Saved sorted data to {filename}")
 
 def append_averages_to_csv(averages):
-    # Current date for logging
-    today = datetime.now().strftime('%Y-%m-%d')
-    # Create a DataFrame from the averages dictionary
-    data = {'Date': today}
-    data.update(averages)
-    df = pd.DataFrame([data])
-    # Append to CSV, creating the file if it does not exist
-    with open('daily_averages.csv', 'a') as f:
-        df.to_csv(f, header=f.tell()==0, index=False)  # Write header only if file is new (file position is at 0)
+    # Get current date and time
+    now = datetime.now()
+    today = now.date()
+    current_time = now.time()
+
+    # Define the time window
+    start_time = datetime.strptime('19:50', '%H:%M').time()
+    end_time = datetime.strptime('20:15', '%H:%M').time()
+
+    # Check if current time is within the time window
+    if start_time <= current_time <= end_time:
+        # Create a DataFrame from the averages dictionary with today's date
+        data = {'Date': today}
+        data.update(averages)
+        df = pd.DataFrame([data])
+        # Append to CSV, creating the file if it does not exist
+        with open('daily_averages.csv', 'a') as f:
+            df.to_csv(f, header=f.tell()==0, index=False)  # Write header only if file is new (file position is at 0)
+        print("Averages recorded.")
+    else:
+        print("Current time is outside the recording window. No action taken.")
 
 
 
@@ -216,9 +228,8 @@ if __name__ == '__main__':
         sorted_df = sort_dataframe(all_reports_df)
         save_to_csv(sorted_df, 'sorted_fishing_reports.csv')
         averages = calculate_averages(sorted_df)
+        append_averages_to_csv(averages)
         generate_html(sorted_df, averages, title_date)
         print(f"Generated report for {title_date}")
     else:
         print("No reports available.")
-
-        

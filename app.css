@@ -185,6 +185,22 @@ table.dataTable tbody td {
     color: black; /* Change text color on hover */
 }
 
+#fishChart {
+    width: 100%; /* Makes the chart responsive to the container width */
+    max-height: 650px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Subtle shadow for depth */
+    margin: 20px; /* Adds margin around the chart for spacing */
+    background-color: rgba(255, 255, 255, 0.5);
+    border: 1px solid #ccc; /* Light grey border for slight definition */
+    padding: 15px; /* Padding inside the canvas */
+}
+
+@media (max-width: 600px) {
+    #fishChart {
+        height: 300px; /* Smaller height for smaller devices */
+    }
+}
+
 /* Responsive Styles */
 @media (max-width: 768px) {
     h1 {

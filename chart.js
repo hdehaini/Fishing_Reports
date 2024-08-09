@@ -8,7 +8,8 @@ fetch("daily_averages.csv")
     const dates = data.map((row) => row[0]);
     const yellowtailAvg = data.map((row) => +row[1]);
     const bluefinAvg = data.map((row) => +row[2]);
-    // Other fish types similarly...
+    const doradoAvg = data.map((row) => +row[3]);
+    const yellowfinAvg = data.map((row) => +row[4]);
 
     const ctx = document.getElementById("fishChart").getContext("2d");
     const fishChart = new Chart(ctx, {
@@ -28,7 +29,18 @@ fetch("daily_averages.csv")
             borderColor: "rgb(54, 162, 235)",
             backgroundColor: "rgba(54, 162, 235, 0.5)",
           },
-          // Add other datasets for different fish types...
+          {
+            label: "Dorado",
+            data: doradoAvg,
+            borderColor: "rgb(255, 206, 86)",
+            backgroundColor: "rgba(255, 206, 86, 0.5)",
+          },
+          {
+            label: "Yellowfin Tuna",
+            data: yellowfinAvg,
+            borderColor: "rgb(75, 192, 192)",
+            backgroundColor: "rgba(75, 192, 192, 0.5)",
+          },
         ],
       },
       options: {
