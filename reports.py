@@ -187,6 +187,18 @@ def save_to_csv(df, filename):
     df.to_csv(filename, index=False)
     print(f"Saved sorted data to {filename}")
 
+def append_averages_to_csv(averages):
+    # Current date for logging
+    today = datetime.now().strftime('%Y-%m-%d')
+    # Create a DataFrame from the averages dictionary
+    data = {'Date': today}
+    data.update(averages)
+    df = pd.DataFrame([data])
+    # Append to CSV, creating the file if it does not exist
+    with open('daily_averages.csv', 'a') as f:
+        df.to_csv(f, header=f.tell()==0, index=False)  # Write header only if file is new (file position is at 0)
+
+
 
 if __name__ == '__main__':
     current_date = datetime.now().date()
@@ -208,3 +220,5 @@ if __name__ == '__main__':
         print(f"Generated report for {title_date}")
     else:
         print("No reports available.")
+
+        

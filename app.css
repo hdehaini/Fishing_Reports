@@ -166,6 +166,25 @@ table.dataTable tbody td {
     margin-right: 10px;
 }
 
+.navbar {
+    background-color: #333; /* Dark background */
+    overflow: hidden; /* Clears floats */
+    display: flex; /* Aligns items in a row */
+    justify-content: space-around; /* Distributes space */
+}
+.navbar a {
+    float: left; /* Align links to the left side */
+    display: block; /* Changes links to block level for width/height */
+    color: white; /* Text color */
+    text-align: center; /* Center text */
+    padding: 14px 16px; /* Padding for spacing */
+    text-decoration: none; /* No underline */
+}
+.navbar a:hover {
+    background-color: #ddd; /* Change background on hover */
+    color: black; /* Change text color on hover */
+}
+
 /* Responsive Styles */
 @media (max-width: 768px) {
     h1 {
