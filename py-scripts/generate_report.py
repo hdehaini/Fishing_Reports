@@ -72,7 +72,7 @@ def generate_html(df, averages, title_date, template_path, output_path):
     averages_html = '<div class="averages-list">'
     for fish, avg in averages.items():
         averages_html += f'<div class="average-item"><span>Average <u>{fish}</u> per angler:</span><span class="average-value">{avg:.2f}</span></div>'
-    averages_html += '<p>Averages reflect counts from boats catching specific fish types only</p></div>'
+    averages_html += '<p>Averages reflect counts from full day boats that caught  specific fish types only</p></div>'
     
     html_content = html_content.replace('<!-- Averages will be inserted here by the Python script -->', averages_html)
     
