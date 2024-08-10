@@ -28,7 +28,7 @@ if __name__ == '__main__':
         save_to_csv(sorted_df, '../database/sorted_fishing_reports.csv')
         averages = calculate_averages(sorted_df)
         append_averages_to_csv(averages, '../database/daily_averages.csv')
-        generate_html(sorted_df, averages, title_date, 'webpages\\template.html', '..\\index.html')
+        generate_html(sorted_df, averages, title_date, 'template.html', 'index.html')
         print(f"Generated report for {title_date}")
     else:
         print("No reports available.")

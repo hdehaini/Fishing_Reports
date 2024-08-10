@@ -173,17 +173,17 @@ table.dataTable tbody td {
     background-color: #333; /* Sets the background color */
     color: white;     /* Sets the text color */
     z-index: 1000;    /* Ensures the navbar is above other content */
-    text-align: center;
     margin-top: 20px;
 }
 /* Styling for the rest of the navbar */
 .navbar a {
-    float: left;
+    float: right;
     display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    margin-right: 30px;
 }
 
 .navbar a:hover {

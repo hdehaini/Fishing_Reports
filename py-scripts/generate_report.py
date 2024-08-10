@@ -14,34 +14,26 @@ def save_to_csv(df, filename):
     print(f"Saved sorted data to {filename}")
 
 def append_averages_to_csv(averages, filename):
-    # Ensure the directory exists
-    ensure_directory_exists(filename)
-
-    # Get current date and time
     now = datetime.now()
     today = now.date()
     current_time = now.time()
-
-    # Define the time window
     start_time = datetime.strptime('19:50', '%H:%M').time()
     end_time = datetime.strptime('20:15', '%H:%M').time()
 
-    # Check if current time is within the time window
     if start_time <= current_time <= end_time:
-        # Create a DataFrame from the averages dictionary with today's date
         data = {'Date': today}
         data.update(averages)
         df = pd.DataFrame([data])
-        # Append to CSV, creating the file if it does not exist
         with open(filename, 'a') as f:
             df.to_csv(f, header=f.tell()==0, index=False)
         print("Averages recorded.")
     else:
-        print("Current time is outside the recording window. No action taken.")
+        print(f"Current time {current_time} is outside the recording window ({start_time} - {end_time}). No action taken.")
 
 def generate_html(df, averages, title_date, template_path, output_path):
-    base_dir = os.path.dirname(os.path.dirname(__file__))  # Get the parent directory of the script file
-    full_template_path = os.path.join(base_dir, template_path)
+    # Assuming the script is run from within the py-scripts directory, adjust accordingly if not
+    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    full_template_path = os.path.join(project_root, template_path)
     
     try:
         with open(full_template_path, 'r') as file:
