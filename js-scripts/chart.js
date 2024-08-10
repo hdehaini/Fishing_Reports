@@ -3,13 +3,20 @@ fetch("../database/daily_averages.csv")
   .then((csv) => {
     const data = csv
       .split("\n")
+      .filter((line) => line)
       .slice(1)
       .map((row) => row.split(","));
-    const dates = data.map((row) => row[0]);
+    const dates = data.map((row) => {
+      const date = new Date(row[0] + "T00:00:00Z"); // Append time and timezone designator for UTC
+      return isNaN(date) ? "Invalid Date" : date.toLocaleDateString();
+    });
+
     const yellowtailAvg = data.map((row) => +row[1]);
     const bluefinAvg = data.map((row) => +row[2]);
     const doradoAvg = data.map((row) => +row[3]);
     const yellowfinAvg = data.map((row) => +row[4]);
+
+    console.log(dates, yellowtailAvg, bluefinAvg, doradoAvg, yellowfinAvg);
 
     const ctx = document.getElementById("fishChart").getContext("2d");
     const fishChart = new Chart(ctx, {
