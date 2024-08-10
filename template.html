@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="style/app.css">
     <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
     <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
     <h1>Fishing Reports | <!--DATE--></h1>
@@ -71,10 +72,13 @@
         </tbody>
     </table>
 
-    <div class="navbar">
+    <!-- <div class="navbar">
         <a class="chartLink" href="/webpages/charts.html">Charts</a>
-    </div>
+    </div> -->
 
+    <canvas id="fishChart"></canvas>
+
+    <script src="js-scripts/chart.js"></script>
     <script src="js-scripts/script.js"></script>
 </body>
 </html>
