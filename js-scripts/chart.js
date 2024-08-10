@@ -13,12 +13,13 @@ document.addEventListener("DOMContentLoaded", function () {
 
       const dates = validData.map((row) => {
         const [year, month, day] = row[0].split("-");
-        const date = new Date(Date.UTC(year, month - 1, day));
+        // Create a date that is midday UTC to avoid any timezone causing a date shift
+        const date = new Date(Date.UTC(year, month - 1, day, 12));
         return date.toLocaleDateString("en-US", {
-          // Specify 'en-US' locale to use North American date formatting
           year: "numeric",
           month: "2-digit",
           day: "2-digit",
+          timeZone: "UTC", // Ensure we are considering the date in UTC
         });
       });
 

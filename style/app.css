@@ -209,6 +209,13 @@ table.dataTable tbody td {
     padding: 15px; /* Padding inside the canvas */
 }
 
+#chartFilters {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    padding-left: 48px;
+}
+
 @media (max-width: 600px) {
     #fishChart {
         height: 300px; /* Smaller height for smaller devices */

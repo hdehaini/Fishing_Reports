@@ -76,19 +76,19 @@
         <a class="chartLink" href="/webpages/charts.html">Charts</a>
     </div> -->
 
-    <div>
+    <div class="filter-group">
         <label><input type="checkbox" name="fishType" value="Yellowtail" checked> Yellowtail</label>
         <label><input type="checkbox" name="fishType" value="Bluefin Tuna" checked> Bluefin Tuna</label>
         <label><input type="checkbox" name="fishType" value="Dorado" checked> Dorado</label>
         <label><input type="checkbox" name="fishType" value="Yellowfin Tuna" checked> Yellowfin Tuna</label>
+    
+
+        <label for="startDate">Start Date:</label>
+        <input type="date" id="startDate">
+        <label for="endDate">End Date:</label>
+        <input type="date" id="endDate">
+        <button onclick="filterByDate()">Apply Date Filter</button>
     </div>
-
-    <label for="startDate">Start Date:</label>
-    <input type="date" id="startDate">
-    <label for="endDate">End Date:</label>
-    <input type="date" id="endDate">
-    <button onclick="filterByDate()">Apply Date Filter</button>
-
     <canvas id="fishChart"></canvas>
 
     <script src="js-scripts/chart.js"></script>
