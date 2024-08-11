@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  fetch("../database/daily_averages.csv")
+  fetch("./database/daily_averages.csv")
     .then((response) => response.text())
     .then((csv) => {
       const data = csv
