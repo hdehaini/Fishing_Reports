@@ -1,13 +1,17 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 seaforth,New Seaforth,1/2 Day AM,31,"56 Calico Bass, 9 Yellowtail, 1 Rockfish"
 hmlanding,Premier,1/2 Day AM,34,"170 Sand Bass, 1 Yellowtail"
+seaforth,New Seaforth,1/2 Day PM,48,"111 Calico Bass, 70 Calico Bass Released, 40 White Seabass Released"
 seaforth,New Seaforth,1/2 Day Twilight,22,110 Calico Bass
 seaforth,El Gato Dos,Full Day,4,5 Yellowtail
+seaforth,San Diego,Full Day,35,"96 Yellowtail, 12 Barracuda, 8 Calico Bass"
+seaforth,Sea Watch,Full Day,26,"38 Yellowtail, 14 Barracuda, 10 Calico Bass, 10 Sculpin, 4 Lingcod"
 seaforth,Voyager,Full Day,12,"27 Yellowtail, 15 Barracuda"
+pointloma,Mission Belle,Full Day,29,"47 Yellowtail, 18 Barracuda"
 hmlanding,Old Glory,Overnight,22,25 Bluefin Tuna
-hmlanding,Jig Strike,1.5 Day,12,"24 Bluefin Tuna, 14 Calico Bass, 1 Yellowtail"
 seaforth,Voyager,1.5 Day,16,"30 Barracuda, 20 Calico Bass, 20 Yellowtail"
 pointloma,El Capitan,1.5 Day,17,"34 Bluefin Tuna, 13 Yellowtail"
+hmlanding,Jig Strike,1.5 Day,12,"24 Bluefin Tuna, 14 Calico Bass, 1 Yellowtail"
 hmlanding,Ocean Odyssey,1.5 Day,29,"58 Bluefin Tuna, 32 Yellowtail"
 seaforth,Apollo,2 Day,21,"84 Bluefin Tuna, 62 Yellowtail"
 seaforth,Polaris Supreme,3 Day,23,"154 Yellowtail, 138 Bluefin Tuna"
