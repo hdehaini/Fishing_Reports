@@ -1,25 +1,26 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 oceanside,Southern Cal,1/2 Day AM,25,"60 Rockfish, 31 Sculpin, 30 Sculpin Released"
+seaforth,New Seaforth,1/2 Day AM,49,"80 Calico Bass, 11 Sand Bass, 3 Sheephead, 3 Vermilion Rockfish"
+fisherman,Dolphin,1/2 Day AM,30,"150 Calico Bass Released, 97 Calico Bass, 10 White Seabass Released, 5 Yellowtail, 1 White Seabass, 1 Sheephead"
 pointloma,Daily Double,1/2 Day AM,36,137 Barred Sand Bass
 oceanside,Pronto,1/2 Day AM,9,"25 Rockfish, 8 Calico Bass"
-hmlanding,Patriot (SD),1/2 Day AM,7,43 Rockfish
 hmlanding,Alicia,1/2 Day AM,9,"25 Calico Bass Released, 20 Calico Bass, 13 Barracuda Released, 10 Rockfish, 5 Red Rockfish, 4 Sand Bass, 2 Barracuda"
-fisherman,Dolphin,1/2 Day AM,30,"150 Calico Bass Released, 97 Calico Bass, 10 White Seabass Released, 5 Yellowtail, 1 White Seabass, 1 Sheephead"
-seaforth,New Seaforth,1/2 Day AM,49,"80 Calico Bass, 11 Sand Bass, 3 Sheephead, 3 Vermilion Rockfish"
+hmlanding,Patriot (SD),1/2 Day AM,7,43 Rockfish
 seaforth,New Seaforth,1/2 Day PM,42,"107 Calico Bass, 15 Rockfish, 10 Sheephead, 2 Sand Bass"
 seaforth,New Seaforth,1/2 Day Twilight,36,"200 Calico Bass Released, 56 Calico Bass, 2 Yellowtail, 1 Sand Bass"
+oceanside,Chubasco II,Full Day,9,"17 Calico Bass, 12 Calico Bass Released, 3 Rockfish"
+fisherman,Lucky B Sportfishing,Full Day,3,"15 Yellowtail, 6 Bluefin Tuna"
+fisherman,Liberty,Full Day,26,60 Yellowtail
+pointloma,Mission Belle,Full Day,13,"43 Yellowtail, 18 Barracuda, 5 Barred Sand Bass, 5 Calico Bass, 2 Bluefin Tuna"
+hmlanding,Premier,Full Day,31,"155 Sand Bass, 23 Rockfish, 3 Bonito, 2 Lingcod"
 seaforth,San Diego,Full Day,28,76 Yellowtail
 seaforth,Sea Watch,Full Day,7,"18 Calico Bass, 4 Yellowtail"
-fisherman,Liberty,Full Day,26,60 Yellowtail
-fisherman,Lucky B Sportfishing,Full Day,3,"15 Yellowtail, 6 Bluefin Tuna"
-hmlanding,Premier,Full Day,31,"155 Sand Bass, 23 Rockfish, 3 Bonito, 2 Lingcod"
-oceanside,Chubasco II,Full Day,9,"17 Calico Bass, 12 Calico Bass Released, 3 Rockfish"
-hmlanding,Producer,Overnight,29,"10 Yellowtail, 10 Bluefin Tuna, 1 Bonito"
 seaforth,Voyager,Overnight,10,"30 Barracuda, 7 Yellowtail"
-seaforth,Pacifica,1.5 Day,25,"50 Bluefin Tuna, 1 Yellowtail"
-seaforth,Tribute,1.5 Day,18,"36 Bluefin Tuna, 15 Bonito, 9 Yellowtail"
+hmlanding,Producer,Overnight,29,"10 Yellowtail, 10 Bluefin Tuna, 1 Bonito"
 hmlanding,Sea Adventure 80,1.5 Day,27,"31 Bonito, 30 Yellowtail, 7 Bluefin Tuna, 1 Whitefish"
+seaforth,Tribute,1.5 Day,18,"36 Bluefin Tuna, 15 Bonito, 9 Yellowtail"
 pointloma,Oceanside 95,1.5 Day,27,"50 Bonito, 38 Bluefin Tuna, 21 Yellowtail"
+seaforth,Pacifica,1.5 Day,25,"50 Bluefin Tuna, 1 Yellowtail"
 fisherman,Pacific Queen,2 Day,16,"98 Yellowtail, 47 Bluefin Tuna"
 seaforth,Aztec,2 Day,24,"37 Yellowtail, 18 Bluefin Tuna"
 fisherman,Condor,2 Day,32,"54 Yellowtail, 20 Bluefin Tuna (up to 120 pounds)"
