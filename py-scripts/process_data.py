@@ -9,13 +9,13 @@ trip_type_cat = CategoricalDtype(categories=trip_type_order, ordered=True)
 TRIP_TYPE = 'Trip Type'
 
 def calculate_averages(df):
-    full_day_boats = df[df[TRIP_TYPE].str.contains('Full Day')]
+    full_day_boats = df[df[TRIP_TYPE].astype(str).str.contains('Full Day', na=False)]
     fish_types = ['Yellowtail', 'Bluefin Tuna', 'Yellowfin Tuna', 'Dorado']
     
     averages = {}
     for fish in fish_types:
         # Filter reports that mention the specific fish type
-        relevant_reports = full_day_boats[full_day_boats['Fish Count'].str.contains(f'{fish}', na=False)]
+        relevant_reports = full_day_boats[full_day_boats['Fish Count'].astype(str).str.contains(f'{fish}', na=False)]
         # Extract the fish count for each specific fish type from relevant reports
         fish_counts = relevant_reports['Fish Count'].str.extractall(f'(\d+)\s+{fish}').astype(int)
         
