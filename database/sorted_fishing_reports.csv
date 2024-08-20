@@ -1,13 +1,20 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-seaforth,New Seaforth,1/2 Day AM,14,"100 Calico Bass Released, 44 Calico Bass, 5 Rockfish, 3 Sheephead, 1 Sand Bass"
 hmlanding,Premier,1/2 Day AM,24,"120 Sand Bass, 2 Rockfish, 1 Whitefish, 1 Sheephead, 1 Soupfin Shark"
+fisherman,Dolphin,1/2 Day AM,12,"60 Calico Bass, 5 Rockfish, 4 White Seabass Released, 3 Sheephead"
 pointloma,Daily Double,1/2 Day AM,12,"39 Calico Bass, 1 Barred Sand Bass, 1 Bonito"
 oceanside,Southern Cal,1/2 Day AM,18,"60 Calico Bass Released, 10 Calico Bass, 7 Sheephead, 5 Whitefish, 5 Sheephead Released"
+seaforth,New Seaforth,1/2 Day AM,14,"100 Calico Bass Released, 44 Calico Bass, 5 Rockfish, 3 Sheephead, 1 Sand Bass"
 seaforth,New Seaforth,1/2 Day PM,36,"100 Calico Bass Released, 78 Calico Bass, 6 Rockfish, 4 Sheephead, 2 Sand Bass"
 seaforth,New Seaforth,1/2 Day Twilight,28,"175 Calico Bass Released, 57 Calico Bass, 2 Rockfish, 1 Sculpin"
-seaforth,El Gato Dos,Full Day,3,8 Yellowtail
 hmlanding,Grande,Full Day,16,1 Bluefin Tuna
+pointloma,Oceanside 95,Full Day,29,"45 Yellowtail, 5 Calico Bass, 3 Rockfish, 1 Lingcod"
+seaforth,El Gato Dos,Full Day,3,8 Yellowtail
 seaforth,Pacifica,Overnight,17,11 Yellowtail
 hmlanding,Producer,Overnight,20,3 Yellowtail
+fisherman,Condor,1.5 Day,35,70 Bluefin Tuna (up to 80 pounds)
+fisherman,Pegasus,2.5 Day,15,"55 Bluefin Tuna, 47 Yellowtail"
+fisherman,Fortune,2.5 Day,12,"50 Yellowtail, 4 Bluefin Tuna (up to 140 pounds)"
+fisherman,Pacific Queen,2.5 Day,19,"76 Bluefin Tuna, 72 Yellowtail"
 seaforth,Aztec,2.5 Day,25,"100 Bluefin Tuna, 67 Yellowtail"
 hmlanding,Constitution,3 Day,25,"106 Yellowtail, 33 Bluefin Tuna, 9 Sheephead, 6 Calico Bass"
+fisherman,Pacific Dawn,,19,23 Bluefin Tuna (up to 120 pounds)
