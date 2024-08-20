@@ -16,6 +16,9 @@ $(document).ready(function () {
     "4 Day": 12,
   };
 
+  var lastOrderIndex = 12; // Last known index
+  var dynamicOrderMap = {}; // Map to store the order of the trip types
+
   // Initialize DataTable
   var table = $("#reports").DataTable({
     paging: false,
@@ -25,9 +28,17 @@ $(document).ready(function () {
       {
         targets: 2,
         render: function (data, type, row) {
-          return type === "sort" ? customOrder[data] : data;
+          if (type === "sort") {
+            if (customOrder.hasOwnProperty(data)) {
+              return customOrder[data];
+            } else if (!dynamicOrderMap.hasOwnProperty(data)) {
+              dynamicOrderMap[data] = ++lastOrderIndex; // Assign a new order index
+            }
+            return dynamicOrderMap[data];
+          }
+          return data;
         },
-        type: "num", // Ensure the sorting is handled as numeric
+        type: "num",
       },
     ],
   });
@@ -35,7 +46,8 @@ $(document).ready(function () {
   $('#tripTypeFilter input[type="checkbox"]').on("change", function () {
     var selectedTripTypes = $('#tripTypeFilter input[type="checkbox"]:checked')
       .map(function () {
-        return "\\b" + this.value + "\\b"; // Ensure exact match
+        var escapedValue = this.value.replace(/[-\/\\^$*+?.()|[\]{}]/g, "\\$&"); // Escape regex special chars
+        return "\\b" + escapedValue + "\\b"; // Use word boundaries to ensure exact matches
       })
       .get()
       .join("|");

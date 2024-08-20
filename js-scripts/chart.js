@@ -1,26 +1,29 @@
 document.addEventListener("DOMContentLoaded", function () {
-  // Fetch the CSV data from daily_averages.csv in the database folder
   fetch("../database/daily_averages.csv")
-    .then((response) => response.text())
+    .then((response) => {
+      if (!response.ok) {
+        throw new Error("Network response was not ok");
+      }
+      return response.text();
+    })
     .then((csv) => {
       const data = csv
         .split("\n")
         .map((row) => row.split(","))
-        .slice(1); // Split CSV into rows and cells, and skip the header row
+        .slice(1);
 
       const validData = data.filter(
-        (row) => row.length === 5 && row.every((value) => value.trim() !== "") // Ensure every row has exactly 5 values and no empty strings
+        (row) => row.length === 5 && row.every((value) => value.trim() !== "")
       );
 
       const dates = validData.map((row) => {
         const [year, month, day] = row[0].split("-");
-        // Create a date that is midday UTC to avoid any timezone causing a date shift
         const date = new Date(Date.UTC(year, month - 1, day, 12));
         return date.toLocaleDateString("en-US", {
           year: "numeric",
           month: "2-digit",
           day: "2-digit",
-          timeZone: "UTC", // Ensure we are considering the date in UTC
+          timeZone: "UTC",
         });
       });
 
@@ -70,17 +73,8 @@ document.addEventListener("DOMContentLoaded", function () {
           ],
         },
         options: {
-          scales: {
-            y: {
-              beginAtZero: true,
-            },
-          },
-          elements: {
-            line: {
-              tension: 0, // Disables bezier curves
-              fill: false,
-            },
-          },
+          scales: { y: { beginAtZero: true } },
+          elements: { line: { tension: 0, fill: false } },
           responsive: true,
           maintainAspectRatio: false,
         },
@@ -90,11 +84,14 @@ document.addEventListener("DOMContentLoaded", function () {
         input.addEventListener("change", function () {
           fishChart.data.datasets.forEach((dataset) => {
             if (dataset.label === this.value) {
-              dataset.hidden = !this.checked; // Toggle the visibility of the dataset
+              dataset.hidden = !this.checked;
             }
           });
           fishChart.update();
         });
       });
+    })
+    .catch((error) => {
+      console.error("Error fetching or parsing the data:", error);
     });
 });
