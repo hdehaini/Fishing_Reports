@@ -9,6 +9,7 @@ $(document).ready(function () {
     "Full Day": 5,
     Overnight: 6,
     "1.5 Day": 7,
+    "Extended 1.5 Day": 7.5,
     "2 Day": 8,
     "2.5 Day": 9,
     "3 Day": 10,
