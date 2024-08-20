@@ -8,6 +8,7 @@
     <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
     <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
 </head>
 <body>
     <h1>Fishing Reports | August 19, 2024</h1>
@@ -83,11 +84,9 @@
         <label><input type="checkbox" name="fishType" value="Yellowfin Tuna" checked> Yellowfin Tuna</label>
     
 
-        <label for="startDate">Start Date:</label>
-        <input type="date" id="startDate">
-        <label for="endDate">End Date:</label>
-        <input type="date" id="endDate">
-        <button onclick="filterByDate()">Apply Date Filter</button>
+        <button id="pastWeek">Past Week</button>
+        <button id="pastMonth">Past Month</button>
+        <button id="pastYear">Past Year</button>
     </div>
     <canvas id="fishChart"></canvas>
 
