@@ -1,18 +1,19 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-oceanside,Southern Cal,1/2 Day AM,17,"40 Calico Bass Released, 12 Whitefish, 5 Calico Bass, 3 Sheephead, 1 Rockfish"
-seaforth,New Seaforth,1/2 Day AM,32,"32 Calico Bass, 13 Yellowtail, 1 Bonito, 1 Rockfish"
 hmlanding,Premier,1/2 Day AM,30,"50 Sand Bass, 11 Rockfish, 7 Calico Bass"
 fisherman,Dolphin,1/2 Day AM,20,"98 Calico Bass, 50 Calico Bass Released, 2 White Seabass, 1 Yellowtail"
+oceanside,Southern Cal,1/2 Day AM,17,"40 Calico Bass Released, 12 Whitefish, 5 Calico Bass, 3 Sheephead, 1 Rockfish"
+seaforth,New Seaforth,1/2 Day AM,32,"32 Calico Bass, 13 Yellowtail, 1 Bonito, 1 Rockfish"
 seaforth,New Seaforth,1/2 Day PM,34,"38 Calico Bass, 6 Yellowtail, 1 Barracuda, 1 Sheephead"
 fisherman,Dolphin,1/2 Day PM,28,"104 Calico Bass, 26 Sand Bass, 3 White Seabass Released, 1 Halibut"
-fisherman,Lucky B Sportfishing,Full Day,3,15 Yellowtail
-fisherman,Liberty,Full Day,32,"33 Yellowtail, 1 Bluefin Tuna"
 seaforth,San Diego,Full Day,33,"46 Yellowtail, 20 Rockfish, 10 Calico Bass, 1 Bluefin Tuna"
 seaforth,Sea Watch,Full Day,13,"30 Yellowtail, 22 Barracuda, 5 Calico Bass"
+hmlanding,Alicia,Full Day,5,"17 Whitefish, 14 Sculpin, 11 Rockfish, 10 Yellowtail, 3 Red Rockfish"
 pointloma,Mission Belle,Full Day,18,"65 Yellowtail, 5 Barracuda, 4 Bluefin Tuna, 4 Calico Bass, 3 Sculpin"
+fisherman,Liberty,Full Day,32,"33 Yellowtail, 1 Bluefin Tuna"
+fisherman,Lucky B Sportfishing,Full Day,3,15 Yellowtail
 seaforth,Apollo,Overnight,22,3 Yellowtail
-pointloma,Oceanside 95,1.5 Day,32,"31 Bluefin Tuna, 5 Yellowtail"
 seaforth,Pacifica,1.5 Day,26,7 Bluefin Tuna
+pointloma,Oceanside 95,1.5 Day,32,"31 Bluefin Tuna, 5 Yellowtail"
 fisherman,Tomahawk,2 Day,28,"11 Bluefin Tuna, 5 Yellowtail"
 hmlanding,Ocean Odyssey,2.5 Day,23,"76 Bluefin Tuna, 5 Yellowtail"
 hmlanding,Ranger 85,2.5 Day,28,"58 Bluefin Tuna, 8 Yellowtail"
