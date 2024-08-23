@@ -1,19 +1,20 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-seaforth,New Seaforth,1/2 Day AM,36,"38 Calico Bass, 13 Yellowtail, 1 Sand Bass"
 pointloma,Daily Double,1/2 Day AM,12,"8 Calico Bass, 6 Rockfish, 2 Sheephead"
+seaforth,New Seaforth,1/2 Day AM,36,"38 Calico Bass, 13 Yellowtail, 1 Sand Bass"
 fisherman,Dolphin,1/2 Day AM,31,"80 Calico Bass Released, 40 Barracuda Released, 18 Calico Bass, 13 Sheephead, 7 Rockfish"
 seaforth,New Seaforth,1/2 Day PM,31,"50 Calico Bass Released, 29 Calico Bass, 5 Yellowtail"
 seaforth,New Seaforth,1/2 Day Twilight,42,"200 Calico Bass Released, 74 Calico Bass, 7 Yellowtail, 1 White Seabass"
-fisherman,Liberty,Full Day,30,"61 Yellowtail, 12 Calico Bass, 1 Bluefin Tuna"
-seaforth,El Gato Dos,Full Day,6,"1 Striped Marlin, 1 Yellowtail"
-seaforth,San Diego,Full Day,28,50 Yellowtail
-seaforth,Sea Watch,Full Day,17,"33 Yellowtail, 24 Barracuda, 1 Bluefin Tuna"
-pointloma,Mission Belle,Full Day,9,"36 Yellowtail, 2 Calico Bass, 1 Bluefin Tuna"
 hmlanding,Malihini,Full Day,25,"3 Yellowfin Tuna, 2 Bluefin Tuna"
+hmlanding,Reel Champion,Full Day,5,2 Yellowtail
+fisherman,Liberty,Full Day,30,"61 Yellowtail, 12 Calico Bass, 1 Bluefin Tuna"
+seaforth,Sea Watch,Full Day,17,"33 Yellowtail, 24 Barracuda, 1 Bluefin Tuna"
+seaforth,San Diego,Full Day,28,50 Yellowtail
+seaforth,El Gato Dos,Full Day,6,"1 Striped Marlin, 1 Yellowtail"
+pointloma,Mission Belle,Full Day,9,"36 Yellowtail, 2 Calico Bass, 1 Bluefin Tuna"
+hmlanding,Old Glory,Overnight,17,"107 Rockfish, 1 Bluefin Tuna, 1 Yellowtail"
 hmlanding,Grande,Overnight,38,0
 hmlanding,Jig Strike,Overnight,6,1 Yellowtail
 hmlanding,Producer,Overnight,25,0
-hmlanding,Old Glory,Overnight,17,"107 Rockfish, 1 Bluefin Tuna, 1 Yellowtail"
 hmlanding,Sea Adventure 80,1.5 Day,18,"14 Bluefin Tuna, 1 Yellowtail"
 hmlanding,Legend,1.5 Day,29,25 Bluefin Tuna
 seaforth,Tribute,1.5 Day,30,"5 Yellowtail, 1 Skipjack Tuna"
