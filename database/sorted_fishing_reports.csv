@@ -3,18 +3,19 @@ oceanside,Southern Cal,1/2 Day AM,22,"80 Rockfish, 30 Sanddab, 20 Whitefish, 5 S
 seaforth,New Seaforth,1/2 Day AM,36,"50 Calico Bass Released, 21 Bonito, 20 Barracuda Released, 15 Calico Bass, 4 Sheephead"
 fisherman,Dolphin,1/2 Day AM,45,0
 pointloma,Daily Double,1/2 Day AM,18,"27 Barred Sand Bass, 22 Calico Bass, 6 Rockfish, 3 Sheephead"
-fisherman,Dolphin,1/2 Day PM,31,"124 Bonito, 46 Calico Bass, 5 Rockfish, 2 Sheephead"
 seaforth,New Seaforth,1/2 Day PM,35,"100 Calico Bass Released, 52 Calico Bass, 3 Rockfish, 3 Yellowtail, 1 Bonito, 1 Halibut"
+fisherman,Dolphin,1/2 Day PM,31,"124 Bonito, 46 Calico Bass, 5 Rockfish, 2 Sheephead"
 seaforth,New Seaforth,1/2 Day Twilight,20,"22 Calico Bass, 1 Yellowtail (up to 33 pounds)"
 oceanside,Pronto,1/2 Day Twilight,6,"200 Calico Bass Released, 30 Calico Bass, 4 Sand Bass Released, 3 Bonito"
-hmlanding,Premier,Full Day,28,"50 Sand Bass, 16 Calico Bass, 2 Bonito, 1 Sculpin"
-hmlanding,Grande,Full Day,20,1 Dorado
-seaforth,Sea Watch,Full Day,10,"30 Calico Bass Released, 14 Calico Bass, 4 Sand Bass"
-seaforth,San Diego,Full Day,33,"25 Calico Bass, 15 Rockfish, 11 Yellowtail, 1 Bluefin Tuna"
 seaforth,El Gato Dos,Full Day,4,"3 Yellowtail, 1 Bluefin Tuna"
+seaforth,San Diego,Full Day,33,"25 Calico Bass, 15 Rockfish, 11 Yellowtail, 1 Bluefin Tuna"
+seaforth,Sea Watch,Full Day,10,"30 Calico Bass Released, 14 Calico Bass, 4 Sand Bass"
+hmlanding,Grande,Full Day,20,1 Dorado
+hmlanding,Premier,Full Day,28,"50 Sand Bass, 16 Calico Bass, 2 Bonito, 1 Sculpin"
+fisherman,Pacific Queen,Overnight,17,21 Yellowtail
 hmlanding,Old Glory,Overnight,16,"19 Calico Bass, 12 Bonito, 1 Yellowtail, 1 Sheephead"
 seaforth,Pacifica,Overnight,18,4 Bluefin Tuna
-fisherman,Pacific Queen,Overnight,17,21 Yellowtail
+hmlanding,Poseidon,Overnight,24,"6 Yellowtail, 1 Barracuda"
 seaforth,Tribute,1.5 Day,23,"46 Bluefin Tuna (up to 60 pounds), 46 Bonito, 25 Yellowtail (up to 35 pounds)"
 pointloma,New Lo-An,2 Day,22,88 Bluefin Tuna (up to 200 pounds)
 seaforth,Voyager,2 Day,13,"37 Bluefin Tuna, 10 Bonito, 2 Yellowfin Tuna"
