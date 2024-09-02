@@ -1,4 +1,4 @@
-name: Get Fishihng Reports Every 5 Minutes
+name: Get Fishing Reports Every 5 Minutes
 
 on:
   schedule:
