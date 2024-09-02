@@ -81,7 +81,7 @@ table.dataTable {
 }
 
 table.dataTable thead th {
-    background-color: #007bff;
+    background-color: #015cbe;
     color: white;
     padding: 10px;
     text-align: center;
@@ -204,7 +204,7 @@ table.dataTable tbody td {
     max-height: 650px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Subtle shadow for depth */
     margin: 20px; /* Adds margin around the chart for spacing */
-    background-color: rgba(255, 255, 255, 0.7);
+    background-color: rgba(255, 255, 255, 0.5);
     border: 1px solid #ccc; /* Light grey border for slight definition */
     padding: 15px; /* Padding inside the canvas */
 }
