@@ -17,6 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
       const originalData = validData.map((row) => {
         const [year, month, day] = row[0].split("-");
         const date = new Date(Date.UTC(year, month - 1, day));
+        date.setMinutes(date.getMinutes() + date.getTimezoneOffset());
         console.log("Parsed Date:", date.toISOString()); // Log each date as it's parsed
         return {
           date: date,
