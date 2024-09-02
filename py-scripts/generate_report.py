@@ -17,8 +17,8 @@ def append_averages_to_csv(averages, filename):
     now = datetime.now()
     today = now.date()
     current_time = now.time()
-    start_time = datetime.strptime('19:50', '%H:%M').time()
-    end_time = datetime.strptime('20:15', '%H:%M').time()
+    start_time = datetime.strptime('19:57', '%H:%M').time()
+    end_time = datetime.strptime('20:02', '%H:%M').time()
 
     if start_time <= current_time <= end_time:
         data = {'Date': today}
