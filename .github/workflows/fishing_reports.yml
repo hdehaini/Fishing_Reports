@@ -1,8 +1,6 @@
 name: Get Fishing Reports Every Minute
 
 on:
-  schedule:
-    - cron: "*/5 * * * *"
   workflow_dispatch: # Allows the workflow to be triggered manually via API
 
 permissions:
