@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0,10,20,30,40,50 * * * *"
 
+permissions:
+  contents: write # Grant write access to the repository contents
+
 jobs:
   fishing-reports:
     runs-on: ubuntu-latest
