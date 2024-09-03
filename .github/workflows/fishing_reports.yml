@@ -1,8 +1,8 @@
-name: Get Fishing Reports Every 5 Minutes
+name: Get Fishing Reports Every 1 Minute
 
 on:
   schedule:
-    - cron: "0,10,20,30,40,50 * * * *"
+    - cron: "*/1 * * * *"
 
 permissions:
   contents: write # Grant write access to the repository contents
