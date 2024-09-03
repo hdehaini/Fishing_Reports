@@ -27,7 +27,7 @@ jobs:
       # Configure Git with your details
       - name: Configure Git
         run: |
-          git config user.name "hdehaini"
+          git config user.name "hsdehaini"
           git config user.email "hsdehaini@hotmail.com"
 
       # Commit changes
