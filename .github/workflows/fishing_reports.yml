@@ -1,4 +1,5 @@
 name: Get Fishing Reports Every Minute
+# Using Cronhub to schedule the workflow to run every minute
 
 on:
   workflow_dispatch: # Allows the workflow to be triggered manually via API
