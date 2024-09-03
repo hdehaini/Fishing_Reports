@@ -1,19 +1,24 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 oceanside,Southern Cal,1/2 Day AM,40,"15 Calico Bass Released, 9 Whitefish, 5 Calico Bass, 4 Sand Bass, 3 Rockfish, 1 Sheephead, 1 Halibut, 1 Sculpin, 1 Bonito, 1 Thresher Shark"
 seaforth,New Seaforth,1/2 Day AM,50,"153 Bonito, 19 Rockfish, 17 Calico Bass, 1 Lingcod"
-pointloma,Daily Double,1/2 Day AM,35,"83 Bonito, 36 Barred Sand Bass, 8 Rockfish, 6 Calico Bass, 4 Whitefish, 1 Sheephead, 1 Halibut"
+fisherman,Dolphin,1/2 Day AM,53,"189 Bonito, 30 Sheephead, 27 Rockfish, 10 Calico Bass"
 hmlanding,Premier,1/2 Day AM,28,"117 Sand Bass, 50 Bonito, 11 Rockfish, 9 Calico Bass, 2 Sheephead"
+pointloma,Daily Double,1/2 Day AM,35,"83 Bonito, 36 Barred Sand Bass, 8 Rockfish, 6 Calico Bass, 4 Whitefish, 1 Sheephead, 1 Halibut"
 fisherman,Dolphin,1/2 Day PM,58,"62 Bonito, 20 Sheephead, 17 Rockfish, 7 Calico Bass"
+hmlanding,Premier,1/2 Day PM,39,"103 Bonito, 18 Sand Bass, 6 Calico Bass, 3 Rockfish"
 seaforth,New Seaforth,1/2 Day Twilight,46,"150 Calico Bass Released, 37 Calico Bass, 15 Bonito, 5 Sculpin, 4 Sand Bass, 3 Rockfish"
 hmlanding,Malihini,3/4 Day,34,"75 Calico Bass Released, 67 Bonito, 20 Rockfish, 13 Calico Bass, 9 Whitefish, 8 Red Rockfish, 5 Sheephead, 2 Sand Bass, 1 Sculpin, 1 Lingcod"
 seaforth,San Diego,Full Day,34,"5 Yellowfin Tuna, 1 Blue Perch, 1 Bluefin Tuna"
 seaforth,Sea Watch,Full Day,26,0
+fisherman,Liberty,Full Day,41,30 Yellowtail
 hmlanding,Grande,Full Day,39,"65 Rockfish, 63 Yellowtail, 1 Yellowfin Tuna"
 seaforth,Highliner,Overnight,21,9 Yellowtail
 hmlanding,Old Glory,Overnight,36,"93 Rockfish, 3 Calico Bass, 2 Bluefin Tuna (up to 150 pounds)"
-hmlanding,Ranger 85,2.5 Day,23,"92 Bluefin Tuna, 10 Yellowtail"
 seaforth,Apollo,2.5 Day,23,"92 Bluefin Tuna, 1 Yellowtail"
+hmlanding,Ranger 85,2.5 Day,23,"92 Bluefin Tuna, 10 Yellowtail"
+hmlanding,Horizon,2.5 Day,25,"54 Bluefin Tuna, 25 Bonito, 14 Yellowtail"
 seaforth,Tribute,2.5 Day,29,"116 Bluefin Tuna, 7 Yellowtail"
 hmlanding,Patriot (SD),2.5 Day,6,"60 Rockfish, 24 Bluefin Tuna, 1 Yellowtail"
-hmlanding,Horizon,2.5 Day,25,"54 Bluefin Tuna, 25 Bonito, 14 Yellowtail"
+fisherman,Islander,3 Day,26,103 Bluefin Tuna
+fisherman,Pacific Queen,3.5 Day,22,"132 Bluefin Tuna, 3 Yellowtail, 1 White Seabass"
 hmlanding,Sea Adventure 80,3.5 Day,24,"126 Bluefin Tuna, 50 Yellowtail"
