@@ -39,4 +39,4 @@ jobs:
       # Push changes back to the repository
       - name: Push changes
         run: |
-          git push origin gh-pages  # Replace 'gh-pages' with the branch that deploys to GitHub Pages
+          git push origin main
