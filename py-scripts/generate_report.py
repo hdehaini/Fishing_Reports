@@ -17,7 +17,7 @@ def append_averages_to_csv(averages, filename):
     now = datetime.now()
     today = now.date()
     current_time = now.time()
-    start_time = datetime.strptime('22:00', '%H:%M').time()
+    start_time = datetime.strptime('19:00', '%H:%M').time()
     end_time = datetime.strptime('23:59', '%H:%M').time()
 
     if start_time <= current_time <= end_time:
@@ -26,6 +26,7 @@ def append_averages_to_csv(averages, filename):
             df = pd.read_csv(filename)
             if not df.empty:
                 last_entry_date = pd.to_datetime(df['Date'].iloc[-1]).date()
+                print(f"Last entry date: {last_entry_date}")
                 # Check if the last entry is today's date
                 if last_entry_date == today:
                     print(f"Daily average already recorded for {today}. No action taken.")
