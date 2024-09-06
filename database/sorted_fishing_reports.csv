@@ -9,7 +9,6 @@ hmlanding,Grande,Full Day,29,26 Yellowtail
 seaforth,San Diego,Full Day,34,0
 seaforth,Sea Watch,Full Day,12,"5 Yellowtail, 1 Dorado"
 seaforth,Voyager,Full Day,13,"56 Bonito, 23 Calico Bass, 10 Rockfish, 3 Sheephead, 1 Yellowtail"
-hmlanding,Daiwa Pacific,Full Day,16,"12 Bonito, 1 Rockfish, 1 Sculpin"
 pointloma,Mission Belle,Full Day,21,"22 Rockfish, 15 Whitefish, 7 Calico Bass, 4 Yellowtail, 4 Lingcod, 1 Halibut"
 seaforth,Tribute,1.5 Day,30,"47 Bluefin Tuna, 3 Yellowtail"
 seaforth,Voyager,1.5 Day,9,18 Bluefin Tuna
@@ -18,3 +17,4 @@ pointloma,El Capitan,1.5 Day,16,"55 Rockfish, 8 Bluefin Tuna"
 fisherman,Islander,3 Day,27,"112 Bluefin Tuna, 1 Yellowtail"
 hmlanding,Legend,3 Day,25,138 Bluefin Tuna (up to 180 pounds)
 seaforth,Aztec,3.5 Day,16,"96 Bluefin Tuna (up to 180 pounds), 40 Bonito, 15 Calico Bass, 10 Barracuda, 7 Yellowtail, 2 White Seabass"
+hmlanding,Daiwa Pacific,,16,"12 Bonito, 1 Rockfish, 1 Sculpin"
