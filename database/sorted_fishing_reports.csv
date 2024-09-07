@@ -11,11 +11,12 @@ seaforth,Sea Watch,Full Day,27,0
 pointloma,Mission Belle,Full Day,28,"34 Yellowtail, 9 Rockfish, 4 Calico Bass, 1 Lingcod"
 seaforth,San Diego,Full Day,30,"117 Rockfish, 7 Calico Bass, 5 Yellowtail, 1 Bluefin Tuna"
 hmlanding,Vendetta 2,Full Day,15,"41 Triggerfish, 22 Calico Bass, 9 Sand Bass, 5 Sheephead"
+hmlanding,Daiwa Pacific,Full Day,12,"24 Bonito, 12 Calico Bass, 6 Calico Bass Released, 5 Barracuda, 1 Mako Shark, 1 Sand Bass, 1 Whitefish"
+seaforth,Aztec,Overnight,24,"60 Calico Bass, 7 Yellowtail"
 hmlanding,Old Glory,Overnight,34,1 Yellowfin Tuna
 hmlanding,Producer,Overnight,25,0
-hmlanding,Horizon,Overnight,21,0
 hmlanding,Grande,Overnight,24,0
-seaforth,Aztec,Overnight,24,"60 Calico Bass, 7 Yellowtail"
+hmlanding,Horizon,Overnight,21,0
 fisherman,Tomahawk,1.5 Day,19,11 Bluefin Tuna
 seaforth,Pacifica,1.5 Day,28,36 Bluefin Tuna
 seaforth,Highliner,1.5 Day,22,0
@@ -25,5 +26,5 @@ fisherman,Pacific Dawn,2.5 Day,16,60 Bluefin Tuna (up to 175 pounds)
 hmlanding,Ocean Odyssey,2.5 Day,25,"69 Bluefin Tuna, 6 Yellowtail"
 pointloma,New Lo-An,3 Day,17,85 Bluefin Tuna (up to 200 pounds)
 hmlanding,Ranger 85,3.5 Day,28,"148 Bluefin Tuna, 2 White Seabass, 1 Yellowtail"
-fisherman,Fortune,3.5 Day,14,"74 Bluefin Tuna (up to 180 pounds), 2 Yellowtail"
 fisherman,Pacific Queen,3.5 Day,24,"144 Bluefin Tuna, 1 Yellowtail"
+fisherman,Fortune,3.5 Day,14,"74 Bluefin Tuna (up to 180 pounds), 2 Yellowtail"
