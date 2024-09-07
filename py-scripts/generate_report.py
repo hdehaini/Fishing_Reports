@@ -26,7 +26,6 @@ def append_averages_to_csv(averages, filename):
             df = pd.read_csv(filename)
             if not df.empty:
                 last_entry_date = pd.to_datetime(df['Date'].iloc[-1]).date()
-                print(f"Last entry date: {last_entry_date}")
                 # Check if the last entry is today's date
                 if last_entry_date == today:
                     print(f"Daily average already recorded for {today}. No action taken.")
