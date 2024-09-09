@@ -1,26 +1,27 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 oceanside,Southern Cal,1/2 Day AM,30,"150 Calico Bass Released, 13 Bonito, 12 Calico Bass, 2 Sheephead"
+seaforth,New Seaforth,1/2 Day AM,52,"100 Calico Bass Released, 69 Calico Bass, 50 Barracuda Released, 14 Bonito, 5 Sheephead, 3 Rockfish"
 fisherman,Dolphin,1/2 Day AM,59,"150 Calico Bass Released, 81 Bonito, 62 Calico Bass, 17 Rockfish, 4 Sheephead"
 pointloma,Daily Double,1/2 Day AM,22,"92 Barred Sand Bass, 45 Bonito, 18 Calico Bass, 1 Sheephead"
-seaforth,New Seaforth,1/2 Day AM,52,"100 Calico Bass Released, 69 Calico Bass, 50 Barracuda Released, 14 Bonito, 5 Sheephead, 3 Rockfish"
 hmlanding,Premier,3/4 Day,39,"133 Sand Bass, 45 Bonito, 31 Calico Bass, 1 Sheephead"
-hmlanding,Malihini,Full Day,27,1 Yellowtail
 seaforth,El Gato Dos,Full Day,3,"6 Bluefin Tuna, 1 Yellowtail"
+seaforth,San Diego,Full Day,23,"22 Yellowtail, 9 Bluefin Tuna"
+hmlanding,Malihini,Full Day,27,1 Yellowtail
 hmlanding,Vendetta 2,Full Day,25,"5 Calico Bass, 4 Bluefin Tuna, 2 Yellowtail, 2 Halibut"
-hmlanding,Relentless,Overnight,20,0
 seaforth,Voyager,Overnight,8,"12 Whitefish, 6 Calico Bass, 6 Rockfish, 4 Yellowtail, 3 Bluefin Tuna, 1 Lingcod, 1 Sand Bass, 1 Sheephead"
 hmlanding,Daiwa Pacific,Overnight,18,0
 hmlanding,Grande,Overnight,27,0
 hmlanding,Producer,Overnight,28,60 Rockfish
+hmlanding,Relentless,Overnight,20,0
 fisherman,Tomahawk,1.5 Day,29,24 Bluefin Tuna (up to 150 pounds)
 fisherman,Condor,1.5 Day,20,36 Bluefin Tuna
+hmlanding,Ocean Odyssey,1.5 Day,20,21 Bluefin Tuna
+fisherman,Tradition,1.5 Day,25,50 Bluefin Tuna (up to 180 pounds)
+hmlanding,Horizon,1.5 Day,28,"56 Bluefin Tuna, 2 Bonito"
 seaforth,Tribute,1.5 Day,16,"32 Bluefin Tuna (up to 160 pounds), 1 Yellowtail"
 seaforth,Pacifica,1.5 Day,20,0
-fisherman,Tradition,1.5 Day,25,50 Bluefin Tuna (up to 180 pounds)
-hmlanding,Ocean Odyssey,1.5 Day,20,21 Bluefin Tuna
-hmlanding,Horizon,1.5 Day,28,"56 Bluefin Tuna, 2 Bonito"
-seaforth,Highliner,2 Day,18,43 Bluefin Tuna (up to 160 pounds)
 fisherman,Fortune,2 Day,19,38 Bluefin Tuna
+seaforth,Highliner,2 Day,18,43 Bluefin Tuna (up to 160 pounds)
 seaforth,Aztec,2 Day,26,"67 Bluefin Tuna, 1 Yellowtail"
 fisherman,Pegasus,2.5 Day,10,40 Bluefin Tuna (up to 120 pounds)
 hmlanding,Sea Adventure 80,3.5 Day,16,"96 Bluefin Tuna, 36 Yellowtail"
