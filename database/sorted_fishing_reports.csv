@@ -1,21 +1,2 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-hmlanding,Premier,1/2 Day AM,16,"80 Sand Bass, 22 Bonito, 7 Rockfish, 1 Sculpin, 1 Sheephead"
-fisherman,Dolphin,1/2 Day AM,18,"90 Bonito, 70 Calico Bass, 20 Sand Bass, 6 Sheephead, 5 Rockfish"
-pointloma,Daily Double,1/2 Day AM,18,"43 Calico Bass, 40 Bonito, 35 Barred Sand Bass Released, 22 Barred Sand Bass, 3 Rockfish, 2 Sheephead"
-oceanside,Southern Cal,1/2 Day AM,16,"60 Rockfish, 3 Sculpin, 2 Whitefish"
-seaforth,New Seaforth,1/2 Day AM,36,"80 Bonito, 75 Calico Bass Released, 43 Calico Bass, 24 Rockfish, 2 Sheephead"
-fisherman,Dolphin,1/2 Day PM,17,"75 Calico Bass Released, 54 Calico Bass, 34 Bonito, 15 Sheephead, 6 Sculpin"
-seaforth,New Seaforth,1/2 Day PM,15,"100 Calico Bass Released, 61 Calico Bass, 15 Bonito, 2 Yellowtail, 1 Sand Bass"
-seaforth,San Diego,Full Day,20,"13 Bluefin Tuna, 12 Yellowtail"
-seaforth,Sea Watch,Full Day,8,"27 Rockfish, 5 Yellowtail, 4 Bluefin Tuna"
-hmlanding,Grande,Full Day,18,15 Yellowtail
-pointloma,Mission Belle,Full Day,25,"13 Calico Bass, 13 Yellowtail, 12 Whitefish, 8 Bluefin Tuna"
-seaforth,El Gato Dos,Full Day,2,"2 Yellowtail, 1 Bluefin Tuna"
-hmlanding,Daiwa Pacific,Overnight,19,5 Yellowtail
-hmlanding,Vendetta 2,Overnight,14,"34 Yellowtail, 2 Calico Bass, 1 Bluefin Tuna"
-hmlanding,Legend,1.5 Day,28,56 Bluefin Tuna (up to 200 pounds)
-pointloma,Oceanside 95,1.5 Day,22,"35 Bluefin Tuna, 2 Yellowtail"
-seaforth,Apollo,2 Day,22,"81 Bluefin Tuna, 55 Calico Bass"
-hmlanding,Ranger 85,2.5 Day,21,"84 Bluefin Tuna, 2 Yellowfin Tuna, 1 Yellowtail"
-hmlanding,Top Gun 80,2.5 Day,19,"76 Bluefin Tuna, 4 Yellowtail"
-fisherman,Pacific Queen,3 Day,22,132 Bluefin Tuna (up to 150 pounds)
+pointloma,El Capitan,1.5 Day,11,17 Bluefin Tuna
