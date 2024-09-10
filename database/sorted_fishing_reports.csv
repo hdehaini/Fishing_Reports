@@ -1,13 +1,14 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-seaforth,New Seaforth,1/2 Day AM,36,"80 Bonito, 75 Calico Bass Released, 43 Calico Bass, 24 Rockfish, 2 Sheephead"
 hmlanding,Premier,1/2 Day AM,16,"80 Sand Bass, 22 Bonito, 7 Rockfish, 1 Sculpin, 1 Sheephead"
-pointloma,Daily Double,1/2 Day AM,18,"43 Calico Bass, 40 Bonito, 35 Barred Sand Bass Released, 22 Barred Sand Bass, 3 Rockfish, 2 Sheephead"
 fisherman,Dolphin,1/2 Day AM,18,"90 Bonito, 70 Calico Bass, 20 Sand Bass, 6 Sheephead, 5 Rockfish"
+pointloma,Daily Double,1/2 Day AM,18,"43 Calico Bass, 40 Bonito, 35 Barred Sand Bass Released, 22 Barred Sand Bass, 3 Rockfish, 2 Sheephead"
 oceanside,Southern Cal,1/2 Day AM,16,"60 Rockfish, 3 Sculpin, 2 Whitefish"
+seaforth,New Seaforth,1/2 Day AM,36,"80 Bonito, 75 Calico Bass Released, 43 Calico Bass, 24 Rockfish, 2 Sheephead"
 fisherman,Dolphin,1/2 Day PM,17,"75 Calico Bass Released, 54 Calico Bass, 34 Bonito, 15 Sheephead, 6 Sculpin"
+seaforth,Sea Watch,Full Day,8,"27 Rockfish, 5 Yellowtail, 4 Bluefin Tuna"
+hmlanding,Grande,Full Day,18,15 Yellowtail
 seaforth,El Gato Dos,Full Day,2,"2 Yellowtail, 1 Bluefin Tuna"
 seaforth,San Diego,Full Day,20,"13 Bluefin Tuna, 12 Yellowtail"
-seaforth,Sea Watch,Full Day,8,"27 Rockfish, 5 Yellowtail, 4 Bluefin Tuna"
 hmlanding,Daiwa Pacific,Overnight,19,5 Yellowtail
 hmlanding,Vendetta 2,Overnight,14,"34 Yellowtail, 2 Calico Bass, 1 Bluefin Tuna"
 hmlanding,Legend,1.5 Day,28,56 Bluefin Tuna (up to 200 pounds)
