@@ -21,7 +21,7 @@ def append_averages_to_csv(averages, filename):
     # Set your local timezone
     local_tz = pytz.timezone("America/Los_Angeles")
 
-    now = datetime.now()
+    now = datetime.now(local_tz)
     today = now.date()
     current_time = now.time()
     start_time = datetime.strptime("20:00", "%H:%M").time()
