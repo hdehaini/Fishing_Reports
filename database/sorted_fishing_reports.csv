@@ -1,12 +1,17 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 seaforth,New Seaforth,1/2 Day AM,28,"95 Bonito, 27 Calico Bass, 9 Sheephead, 8 Rockfish, 3 Sand Bass, 3 Sculpin, 2 Yellowtail"
+hmlanding,Premier,1/2 Day AM,16,"65 Sand Bass, 5 Bonito, 1 Sheephead, 1 Rockfish"
 pointloma,Daily Double,1/2 Day AM,18,"44 Bonito, 21 Calico Bass, 10 Sheephead, 8 Barred Sand Bass, 7 Rockfish, 3 Sculpin"
 fisherman,Dolphin,1/2 Day AM,24,"150 Calico Bass Released, 97 Bonito, 81 Calico Bass, 6 Sheephead"
 seaforth,New Seaforth,1/2 Day PM,47,"120 Bonito, 105 Calico Bass, 100 Calico Bass Released, 17 Sand Bass, 7 Rockfish, 4 Sheephead, 2 Halibut"
+hmlanding,Premier,1/2 Day PM,10,"60 Calico Bass Released, 50 Calico Bass, 10 Bonito, 1 Sheephead"
 fisherman,Dolphin,1/2 Day PM,53,"146 Bonito, 43 Calico Bass, 17 Rockfish, 1 Sheephead, 1 Halibut"
 seaforth,San Diego,Full Day,34,25 Yellowtail
+hmlanding,Grande,Full Day,26,"12 Yellowtail, 9 Calico Bass, 4 Rockfish, 1 Halibut"
 pointloma,Mission Belle,Full Day,23,"40 Yellowtail, 6 Rockfish, 3 Calico Bass, 1 Lingcod"
 seaforth,Voyager,Overnight,13,"5 Bluefin Tuna, 1 Yellowtail"
+hmlanding,Old Glory,Overnight,32,"51 Bonito, 41 Calico Bass, 36 Rockfish, 3 Sand Bass"
 fisherman,Condor,2 Day,14,"35 Bluefin Tuna, 4 Yellowtail"
 fisherman,Pegasus,2 Day,19,"15 Bluefin Tuna (up to 80 pounds), 14 Yellowtail"
+hmlanding,Top Gun 80,2.5 Day,23,"82 Bluefin Tuna, 3 Yellowtail"
 fisherman,Pacific Queen,2.5 Day,23,"92 Bluefin Tuna, 10 Yellowtail, 1 Halibut"
