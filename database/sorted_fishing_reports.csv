@@ -14,13 +14,13 @@ fisherman,Liberty,1.5 Day,29,58 Bluefin Tuna
 fisherman,Condor,1.5 Day,30,32 Bluefin Tuna
 hmlanding,Ranger 85,1.5 Day,24,32 Bluefin Tuna
 hmlanding,Producer,1.5 Day,27,0
+fisherman,Tomahawk,1.5 Day,20,24 Bluefin Tuna
 hmlanding,Ocean Odyssey,1.5 Day,26,31 Bluefin Tuna
-hmlanding,Nautilus,1.5 Day,6,0
 hmlanding,Horizon,1.5 Day,23,5 Bluefin Tuna
 hmlanding,Constitution,1.5 Day,27,10 Bluefin Tuna
 seaforth,Tribute,1.5 Day,28,"83 Whitefish, 55 Rockfish, 29 Bluefin Tuna, 18 Sheephead"
 seaforth,Highliner,1.5 Day,21,"38 Bluefin Tuna, 3 Bonito"
-fisherman,Tomahawk,1.5 Day,20,24 Bluefin Tuna
+hmlanding,Nautilus,1.5 Day,6,0
 pointloma,El Capitan,2 Day,18,"224 Rockfish, 22 Calico Bass, 10 Bluefin Tuna"
 seaforth,Aztec,2 Day,26,56 Bluefin Tuna
 hmlanding,Poseidon,2.5 Day,11,44 Bluefin Tuna
@@ -31,3 +31,4 @@ seaforth,Apollo,2.5 Day,19,66 Bluefin Tuna
 hmlanding,Legend,3 Day,27,"88 Bluefin Tuna, 5 Yellowtail, 1 Striped Marlin"
 seaforth,Pacifica,3 Day,19,61 Bluefin Tuna
 fisherman,Islander,3 Day,26,31 Bluefin Tuna
+fisherman,Pacific Queen,3.5 Day,22,50 Bluefin Tuna
