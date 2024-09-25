@@ -1,17 +1,21 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-seaforth,New Seaforth,1/2 Day AM,32,"61 Bonito, 10 Rockfish, 3 Calico Bass, 1 Sculpin, 1 Sheephead"
-hmlanding,Premier,1/2 Day AM,29,"48 Rockfish, 21 Bonito, 15 Sculpin, 5 Calico Bass, 3 Sand Bass, 3 Sheephead, 1 Yellowtail, 1 Lingcod"
-pointloma,Daily Double,1/2 Day AM,29,"36 Rockfish, 21 Bonito, 10 Calico Bass, 9 Whitefish, 3 Barred Sand Bass, 1 Sculpin"
 oceanside,Southern Cal,1/2 Day AM,13,"30 Whitefish, 5 Sand Bass Released, 4 Rockfish, 3 Sculpin"
+fisherman,Dolphin,1/2 Day AM,19,"39 Bonito, 12 Rockfish, 7 Calico Bass, 4 Sheephead, 2 Sculpin"
+seaforth,New Seaforth,1/2 Day AM,32,"61 Bonito, 10 Rockfish, 3 Calico Bass, 1 Sculpin, 1 Sheephead"
+pointloma,Daily Double,1/2 Day AM,29,"36 Rockfish, 21 Bonito, 10 Calico Bass, 9 Whitefish, 3 Barred Sand Bass, 1 Sculpin"
+hmlanding,Premier,1/2 Day AM,29,"48 Rockfish, 21 Bonito, 15 Sculpin, 5 Calico Bass, 3 Sand Bass, 3 Sheephead, 1 Yellowtail, 1 Lingcod"
+fisherman,Dolphin,1/2 Day PM,24,"30 Bonito, 24 Rockfish, 14 Calico Bass, 8 Sheephead, 8 Sculpin"
 seaforth,New Seaforth,1/2 Day PM,26,"50 Calico Bass Released, 35 Bonito, 26 Calico Bass, 12 Rockfish, 2 Sheephead"
 seaforth,San Diego,Full Day,36,"135 Rockfish, 7 Yellowtail, 2 Bluefin Tuna"
-seaforth,Cortez,1.5 Day,13,"12 Bonito, 3 Yellowtail, 2 Bluefin Tuna"
-seaforth,Pacifica,1.5 Day,13,"24 Bluefin Tuna, 5 Yellowtail"
-seaforth,Tribute,1.5 Day,20,"60 Rockfish, 50 Whitefish, 32 Bluefin Tuna, 6 Sheephead"
-hmlanding,Constitution,1.5 Day,19,27 Bluefin Tuna (up to 90 pounds)
-hmlanding,Ranger 85,1.5 Day,22,14 Bluefin Tuna
 hmlanding,Sea Adventure 80,1.5 Day,26,"36 Bonito, 1 Yellowtail"
+hmlanding,Ranger 85,1.5 Day,22,14 Bluefin Tuna
+hmlanding,Constitution,1.5 Day,19,27 Bluefin Tuna (up to 90 pounds)
+seaforth,Tribute,1.5 Day,20,"60 Rockfish, 50 Whitefish, 32 Bluefin Tuna, 6 Sheephead"
+seaforth,Pacifica,1.5 Day,13,"24 Bluefin Tuna, 5 Yellowtail"
+seaforth,Cortez,1.5 Day,13,"12 Bonito, 3 Yellowtail, 2 Bluefin Tuna"
+fisherman,Pacific Dawn,2 Day,20,10 Bluefin Tuna (up to 60 pounds)
 seaforth,Aztec,2 Day,25,70 Bluefin Tuna
+fisherman,Liberty,2 Day,24,60 Bluefin Tuna
 hmlanding,Excalibur,2 Day,27,51 Bluefin Tuna
 seaforth,Apollo,2.5 Day,20,36 Bluefin Tuna
 seaforth,Pacific Voyager,3 Day,13,63 Bluefin Tuna
