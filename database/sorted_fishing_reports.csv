@@ -1,17 +1,18 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-seaforth,New Seaforth,1/2 Day AM,20,"12 Rockfish, 9 Bonito, 5 Sheephead, 4 Calico Bass, 1 Sculpin, 1 Yellowtail"
 oceanside,Southern Cal,1/2 Day AM,10,"60 Sculpin Released, 22 Rockfish, 20 Sculpin, 10 Sanddab"
-seaforth,El Gato Dos,Full Day,4,5 Bluefin Tuna
-seaforth,San Diego,Full Day,31,"35 Rockfish, 16 Bluefin Tuna, 1 Yellowtail"
-hmlanding,Malihini,Full Day,21,"40 Red Rockfish, 29 Rockfish, 10 Whitefish, 2 Sculpin"
+seaforth,New Seaforth,1/2 Day AM,20,"12 Rockfish, 9 Bonito, 5 Sheephead, 4 Calico Bass, 1 Sculpin, 1 Yellowtail"
+seaforth,New Seaforth,1/2 Day PM,22,"35 Rockfish, 4 Bonito, 4 Whitefish, 2 Sculpin, 1 Calico Bass, 1 Sheephead"
 fisherman,Liberty,Full Day,31,"50 Rockfish, 20 Calico Bass, 3 Bluefin Tuna, 1 Yellowtail"
+seaforth,San Diego,Full Day,31,"35 Rockfish, 16 Bluefin Tuna, 1 Yellowtail"
+seaforth,El Gato Dos,Full Day,4,5 Bluefin Tuna
+hmlanding,Malihini,Full Day,21,"40 Red Rockfish, 29 Rockfish, 10 Whitefish, 2 Sculpin"
 seaforth,Tribute,Overnight,14,0
+fisherman,Pegasus,1.5 Day,18,36 Bluefin Tuna
 hmlanding,Nautilus,1.5 Day,3,6 Bluefin Tuna
 hmlanding,Old Glory,1.5 Day,20,40 Bluefin Tuna
-fisherman,Pegasus,1.5 Day,18,36 Bluefin Tuna
 hmlanding,Vendetta 2,2 Day,8,32 Bluefin Tuna
-seaforth,Highliner,2.5 Day,19,52 Bluefin Tuna
 hmlanding,Horizon,2.5 Day,26,"350 Rockfish, 29 Bluefin Tuna, 1 Yellowtail"
 hmlanding,Ocean Odyssey,2.5 Day,23,0
 fisherman,Condor,2.5 Day,28,13 Bluefin Tuna
+seaforth,Highliner,2.5 Day,19,52 Bluefin Tuna
 seaforth,Polaris Supreme,3 Day,24,122 Bluefin Tuna
