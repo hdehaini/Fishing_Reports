@@ -9,10 +9,11 @@ seaforth,El Gato Dos,Full Day,4,"1 Bluefin Tuna, 1 Yellowtail"
 seaforth,San Diego,Full Day,35,"75 Whitefish, 25 Rockfish, 13 Sculpin, 10 Calico Bass, 2 Bluefin Tuna, 1 Yellowtail"
 seaforth,Sea Watch,Full Day,17,"37 Rockfish, 26 Calico Bass"
 hmlanding,Malihini,Full Day,25,"36 Bocaccio, 12 Red Rockfish, 6 Rockfish, 1 Lingcod"
+hmlanding,Producer,Overnight,16,1 Yellowfin Tuna
 hmlanding,Old Glory,Overnight,22,"120 Rockfish, 4 Bluefin Tuna, 3 Lingcod, 2 Calico Bass, 1 Sheephead"
 seaforth,Aztec,Overnight,26,"3 Bluefin Tuna, 2 Bonito"
-seaforth,Tribute,Overnight,30,"40 Whitefish, 20 Rockfish, 6 Bonito, 3 Sheephead"
 hmlanding,Grande,Overnight,23,"29 Whitefish, 16 Rockfish, 3 Calico Bass, 3 Lingcod, 1 Bluefin Tuna, 1 Yellowtail, 1 Sheephead"
+seaforth,Tribute,Overnight,30,"40 Whitefish, 20 Rockfish, 6 Bonito, 3 Sheephead"
 hmlanding,Patriot (SD),1.5 Day,9,4 Bluefin Tuna
 hmlanding,Vendetta 2,1.5 Day,8,2 Bluefin Tuna
 seaforth,Highliner,1.5 Day,21,33 Bluefin Tuna
@@ -20,7 +21,7 @@ hmlanding,Horizon,1.5 Day,18,2 Bluefin Tuna
 seaforth,Voyager,2 Day,9,"12 Bluefin Tuna, 6 Bonito"
 hmlanding,Tradition,2 Day,15,"16 Yellowtail, 15 Bluefin Tuna"
 fisherman,Condor,2 Day,28,98 Bluefin Tuna
-fisherman,Pacific Dawn,2.5 Day,14,44 Bluefin Tuna
 seaforth,Cortez,2.5 Day,13,41 Bluefin Tuna
+fisherman,Pacific Dawn,2.5 Day,14,44 Bluefin Tuna
 seaforth,Pacific Voyager,3 Day,18,19 Bluefin Tuna (up to 80 pounds)
 fisherman,Islander,3 Day,25,150 Bluefin Tuna
