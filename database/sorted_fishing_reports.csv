@@ -1,21 +1,22 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 oceanside,Southern Cal,1/2 Day AM,24,"60 Sanddab, 32 Rockfish, 1 Whitefish"
 seaforth,New Seaforth,1/2 Day AM,49,"63 Rockfish, 37 Vermilion Rockfish, 31 Whitefish, 2 Sheephead, 1 Bonito"
-hmlanding,Alicia,1/2 Day AM,13,"26 Red Rockfish, 15 Rockfish, 10 Whitefish, 2 Sheephead"
 fisherman,Dolphin,1/2 Day AM,54,"203 Sculpin, 14 Sand Bass, 6 Whitefish"
+hmlanding,Alicia,1/2 Day AM,13,"26 Red Rockfish, 15 Rockfish, 10 Whitefish, 2 Sheephead"
 hmlanding,Premier,1/2 Day AM,55,"150 Sculpin Released, 117 Sculpin, 5 Bonito, 2 Sand Bass"
 seaforth,New Seaforth,1/2 Day PM,43,"63 Vermilion Rockfish, 53 Whitefish, 38 Rockfish, 5 Sheephead, 4 Sculpin, 1 Bonito"
 fisherman,Dolphin,1/2 Day PM,42,"224 Sculpin, 1 Bonito"
 hmlanding,Premier,1/2 Day PM,60,"150 Sculpin Released, 76 Sculpin, 1 Mako Shark"
 hmlanding,Alicia,1/2 Day Twilight,10,"37 Rock Crab, 14 Spiny Lobster Released, 4 Spiny Lobster"
-seaforth,San Diego,Full Day,16,"80 Whitefish, 9 Calico Bass, 3 Bluefin Tuna, 1 Halibut, 1 Lingcod"
-seaforth,Sea Watch,Full Day,25,0
-hmlanding,Grande,Full Day,18,"29 Whitefish, 21 Rockfish, 10 Calico Bass, 7 Sculpin, 5 Red Rockfish, 3 Lingcod, 2 Bluefin Tuna, 1 Sheephead, 1 Cabezon"
-hmlanding,Malihini,Full Day,25,"99 Red Rockfish, 97 Bocaccio, 40 Rockfish, 14 Lingcod"
 pointloma,Point Loma,Full Day,14,"63 Whitefish, 10 Rockfish, 8 Sculpin, 5 Calico Bass, 3 Yellowtail, 2 Lingcod"
+hmlanding,Reel Champion,Full Day,6,0
+hmlanding,Malihini,Full Day,25,"99 Red Rockfish, 97 Bocaccio, 40 Rockfish, 14 Lingcod"
+hmlanding,Grande,Full Day,18,"29 Whitefish, 21 Rockfish, 10 Calico Bass, 7 Sculpin, 5 Red Rockfish, 3 Lingcod, 2 Bluefin Tuna, 1 Sheephead, 1 Cabezon"
+seaforth,Sea Watch,Full Day,25,0
+seaforth,San Diego,Full Day,16,"80 Whitefish, 9 Calico Bass, 3 Bluefin Tuna, 1 Halibut, 1 Lingcod"
 hmlanding,Horizon,Overnight,20,0
-hmlanding,Old Glory,Overnight,36,0
 hmlanding,Producer,Overnight,30,0
+hmlanding,Old Glory,Overnight,36,0
 fisherman,Pacific Queen,1.5 Day,15,"15 Bluefin Tuna, 1 Yellowtail"
 seaforth,Apollo,2 Day,18,"39 Bluefin Tuna, 3 Yellowtail"
 seaforth,Polaris Supreme,3 Day,24,122 Bluefin Tuna
