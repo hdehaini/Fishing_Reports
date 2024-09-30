@@ -1,28 +1,30 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-hmlanding,Premier,1/2 Day AM,43,"183 Sculpin, 150 Sculpin Released, 2 Petrale Sole"
+oceanside,Southern Cal,1/2 Day AM,11,"80 Rockfish, 15 Whitefish, 15 Sculpin"
 fisherman,Dolphin,1/2 Day AM,54,"122 Sculpin, 100 Sculpin Released, 6 Sand Bass, 5 Rockfish, 1 Mako Shark (up to 60 pounds)"
 pointloma,Point Loma,1/2 Day AM,13,"120 Sculpin Released, 65 Sculpin, 8 Rockfish"
+seaforth,New Seaforth,1/2 Day AM,48,"100 Vermilion Rockfish Released, 94 Vermilion Rockfish, 88 Rockfish, 12 Sculpin, 5 Whitefish"
 pointloma,Daily Double,1/2 Day AM,25,"77 Sculpin, 10 Rockfish, 4 Whitefish, 1 Barred Sand Bass"
-oceanside,Southern Cal,1/2 Day AM,11,"80 Rockfish, 15 Whitefish, 15 Sculpin"
+hmlanding,Premier,1/2 Day AM,43,"183 Sculpin, 150 Sculpin Released, 2 Petrale Sole"
+seaforth,New Seaforth,1/2 Day PM,33,"66 Vermilion Rockfish, 57 Rockfish, 6 Whitefish, 5 Sculpin"
 hmlanding,Alicia,1/2 Day Twilight,10,"6 Spiny Lobster, 1 Spiny Lobster Released"
 hmlanding,Malihini,3/4 Day,32,"50 Sculpin, 50 Sculpin Released, 24 Red Rockfish, 6 Whitefish, 4 Rockfish, 1 Perch, 1 Sheephead"
 seaforth,Sea Watch,Full Day,25,0
 oceanside,Blue Horizon,Full Day,23,"93 Rockfish, 84 Whitefish, 2 Lingcod, 1 Sheephead"
-hmlanding,Old Glory,Overnight,26,1 Bluefin Tuna
 seaforth,Apollo,Overnight,20,30 Rockfish
+hmlanding,Old Glory,Overnight,26,1 Bluefin Tuna
 hmlanding,Ocean Odyssey,1.5 Day,25,3 Bluefin Tuna
-seaforth,Aztec,1.5 Day,23,46 Bluefin Tuna
 fisherman,Pacific Dawn,1.5 Day,16,25 Bluefin Tuna (up to 120 pounds)
 hmlanding,Tradition,1.5 Day,11,6 Bluefin Tuna
-seaforth,Highliner,2 Day,21,54 Bluefin Tuna (up to 120 pounds)
-fisherman,Fortune,2 Day,16,42 Bluefin Tuna
-fisherman,Liberty,2 Day,23,56 Bluefin Tuna
+seaforth,Aztec,1.5 Day,23,46 Bluefin Tuna
 fisherman,Tomahawk,2 Day,28,50 Bluefin Tuna
+fisherman,Liberty,2 Day,23,56 Bluefin Tuna
+fisherman,Fortune,2 Day,16,42 Bluefin Tuna
+seaforth,Highliner,2 Day,21,54 Bluefin Tuna (up to 120 pounds)
 hmlanding,Nautilus,2 Day,6,6 Bluefin Tuna
-hmlanding,Little G,2.5 Day,6,0
-seaforth,Pacifica,2.5 Day,30,53 Bluefin Tuna
 pointloma,El Capitan,2.5 Day,14,"54 Rockfish, 24 Bluefin Tuna, 2 Lingcod"
-hmlanding,Legend,3 Day,25,61 Bluefin Tuna
+seaforth,Pacifica,2.5 Day,30,53 Bluefin Tuna
+hmlanding,Little G,2.5 Day,6,0
 hmlanding,Excalibur,3 Day,27,46 Bluefin Tuna
+hmlanding,Legend,3 Day,25,61 Bluefin Tuna
 pointloma,New Lo-An,3 Day,17,61 Bluefin Tuna (up to 100 pounds)
 hmlanding,Ranger 85,3.5 Day,18,"35 Bluefin Tuna, 1 Yellowtail"
