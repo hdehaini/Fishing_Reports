@@ -1,13 +1,3 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-seaforth,New Seaforth,1/2 Day AM,29,"250 Rockfish, 37 Vermilion Rockfish"
-fisherman,Dolphin,1/2 Day AM,23,104 Rockfish
-seaforth,New Seaforth,1/2 Day PM,9,"23 Whitefish, 15 Sheephead, 7 Bonito, 7 Calico Bass, 5 Sand Bass"
-fisherman,Dolphin,1/2 Day PM,29,"20 Calico Bass Released, 15 Barracuda Released, 7 Whitefish, 1 Sand Bass, 1 Sheephead, 1 Calico Bass"
-hmlanding,Alicia,1/2 Day Twilight,10,"42 Spiny Lobster Released, 20 Spiny Lobster, 15 Rock Crab, 2 Spider Crab"
-seaforth,San Diego,Full Day,35,0
-seaforth,Tribute,1.5 Day,29,6 Bluefin Tuna
-pointloma,El Capitan,1.5 Day,9,4 Bluefin Tuna (up to 80 pounds)
-fisherman,Pegasus,2.5 Day,15,"24 Bluefin Tuna (up to 80 pounds), 11 Yellowtail"
-fisherman,Fortune,3 Day,21,100 Bluefin Tuna (up to 100 pounds)
-fisherman,Pacific Queen,3 Day,26,151 Bluefin Tuna (up to 120 pounds)
-hmlanding,Ranger 85,3.5 Day,15,"62 Bluefin Tuna, 1 Yellowtail"
+hmlanding,Excalibur,2.5 Day,21,35 Bluefin Tuna (up to 100 pounds)
+hmlanding,Top Gun 80,3.5 Day,18,56 Bluefin Tuna
