@@ -17,7 +17,7 @@ def calculate_averages(df):
         # Filter reports that mention the specific fish type
         relevant_reports = full_day_boats[full_day_boats['Fish Count'].astype(str).str.contains(f'{fish}', na=False)]
         # Extract the fish count for each specific fish type from relevant reports
-        fish_counts = relevant_reports['Fish Count'].str.extractall(f'(\d+)\s+{fish}').astype(int)
+        fish_counts = relevant_reports['Fish Count'].str.extractall(r'(\d+)\s+{fish}').astype(int)
         
         if not fish_counts.empty:
             total_fish = fish_counts[0].sum()  # Sum up all counts of this fish
