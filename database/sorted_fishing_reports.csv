@@ -2,10 +2,15 @@ Source,Boat Name,Trip Type,Anglers,Fish Count
 seaforth,New Seaforth,1/2 Day AM,20,200 Rockfish
 hmlanding,Premier,1/2 Day AM,18,125 Rockfish
 pointloma,Daily Double,1/2 Day AM,9,89 Rockfish
+fisherman,Dolphin,1/2 Day AM,14,"112 Rockfish, 28 Vermilion Rockfish"
 oceanside,Southern Cal,1/2 Day AM,14,140 Rockfish
 seaforth,New Seaforth,1/2 Day PM,20,"30 Whitefish, 27 Sheephead, 5 Sculpin, 1 Sand Bass"
+fisherman,Condor,1/2 Day PM,15,"15 Sculpin, 3 Sheephead, 2 Sand Bass, 2 Halibut"
 hmlanding,Alicia,1/2 Day Twilight,10,0
 seaforth,San Diego,Full Day,33,40 Yellowtail
 pointloma,Mission Belle,Full Day,26,"8 Yellowtail, 4 Rockfish, 2 Sculpin, 2 Calico Bass"
 hmlanding,Old Glory,1.5 Day,19,9 Bluefin Tuna
 hmlanding,Constitution,2 Day,15,0
+fisherman,Condor,2 Day,15,7 Bluefin Tuna
+fisherman,Pacific Dawn,2.5 Day,15,17 Bluefin Tuna (up to 60 pounds)
+fisherman,Fortune,3 Day,9,22 Bluefin Tuna
