@@ -23,8 +23,8 @@ document.addEventListener("DOMContentLoaded", function () {
           date: date,
           yellowtail: parseFloat(row[1]) || 0,
           bluefin: parseFloat(row[2]) || 0,
-          dorado: parseFloat(row[3]) || 0,
-          yellowfin: parseFloat(row[4]) || 0,
+          yellowfin: parseFloat(row[3]) || 0,
+          dorado: parseFloat(row[4]) || 0,
         };
       });
 
@@ -54,7 +54,7 @@ document.addEventListener("DOMContentLoaded", function () {
               label: "Dorado",
               data: originalData.map((d) => d.dorado),
               borderColor: "rgb(75, 192, 192)",
-              backgroundColor: "rgba(255, 99, 132, 0.5)",
+              backgroundColor: "rgba(75, 192, 192, 0.5)",
               borderWidth: 2,
               fill: false,
             },
@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", function () {
               label: "Yellowfin Tuna",
               data: originalData.map((d) => d.yellowfin),
               borderColor: "rgb(255, 99, 132)",
-              backgroundColor: "rgba(75, 192, 192, 0.5)",
+              backgroundColor: "rgba(255, 99, 132, 0.5)",
               borderWidth: 2,
               fill: false,
             },
