@@ -1,17 +1,3 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-seaforth,New Seaforth,1/2 Day AM,19,190 Rockfish
-pointloma,Daily Double,1/2 Day AM,8,"70 Rockfish, 10 Red Rockfish"
-oceanside,Southern Cal,1/2 Day AM,17,150 Rockfish
-seaforth,New Seaforth,1/2 Day PM,10,"57 Whitefish, 4 Sheephead, 1 Sculpin"
-seaforth,San Diego,Full Day,34,"45 Rockfish, 16 Yellowtail, 2 Lingcod, 2 Sheephead, 1 Bluefin Tuna"
-hmlanding,Grande,Full Day,23,"52 Rockfish, 5 Yellowtail, 4 Lingcod, 1 Halibut"
-hmlanding,Old Glory,1.5 Day,19,0
-fisherman,Fortune,1.5 Day,19,16 Bluefin Tuna
-seaforth,Apollo,2 Day,20,"50 Rockfish, 5 Bluefin Tuna"
-fisherman,Pacific Dawn,2 Day,18,10 Bluefin Tuna
-hmlanding,Relentless,2.5 Day,19,0
-hmlanding,Top Gun 80,2.5 Day,25,0
-fisherman,Pacific Queen,2.5 Day,28,44 Bluefin Tuna
-seaforth,Pacific Voyager,3 Day,20,"18 Yellowtail, 4 Bluefin Tuna"
-hmlanding,Horizon,3 Day,21,37 Bluefin Tuna
-fisherman,Condor,3 Day,24,48 Bluefin Tuna
+hmlanding,Alicia,1/2 Day Twilight,8,0
+hmlanding,Legend,2 Day,22,"15 Bluefin Tuna, 4 Yellowtail"
