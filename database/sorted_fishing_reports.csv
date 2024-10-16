@@ -1,6 +1,10 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
+seaforth,New Seaforth,1/2 Day AM,22,220 Rockfish
+fisherman,Dolphin,1/2 Day AM,19,"157 Rockfish, 25 Vermilion Rockfish, 1 Lingcod"
 oceanside,Southern Cal,1/2 Day AM,11,80 Rockfish
 hmlanding,Alicia,1/2 Day Twilight,8,0
+seaforth,San Diego,Full Day,35,"100 Whitefish, 30 Rockfish, 1 Bluefin Tuna, 1 Halibut"
+seaforth,Tribute,1.5 Day,23,31 Bluefin Tuna
 hmlanding,Ocean Odyssey,1.5 Day,20,0
 hmlanding,Legend,2 Day,22,"15 Bluefin Tuna, 4 Yellowtail"
 hmlanding,Ranger 85,2 Day,17,"48 Bluefin Tuna, 1 Yellowtail"
