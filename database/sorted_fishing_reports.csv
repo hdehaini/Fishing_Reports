@@ -1,17 +1,18 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
+fisherman,Dolphin,1/2 Day AM,33,"264 Rockfish, 66 Vermilion Rockfish"
 seaforth,New Seaforth,1/2 Day AM,20,200 Rockfish
 pointloma,Daily Double,1/2 Day AM,16,"108 Rockfish, 32 Red Rockfish"
-fisherman,Dolphin,1/2 Day AM,33,"264 Rockfish, 66 Vermilion Rockfish"
+hmlanding,Premier,1/2 Day PM,16,"55 Sand Bass Released, 22 Sand Bass, 1 Whitefish"
 seaforth,New Seaforth,1/2 Day PM,10,"5 Whitefish, 4 Sheephead, 2 Sculpin, 1 Sand Bass"
 hmlanding,Premier,1/2 Day PM,16,"55 Calico Bass Released, 20 Calico Bass, 15 Sculpin, 1 Whitefish, 1 Sand Bass"
-hmlanding,Premier,1/2 Day PM,16,"55 Sand Bass Released, 22 Sand Bass, 1 Whitefish"
 fisherman,Dolphin,1/2 Day PM,9,"17 Sculpin, 3 Calico Bass"
-hmlanding,Alicia,1/2 Day Twilight,10,"8 Spiny Lobster, 2 Rock Crab, 2 Spiny Lobster Released"
+hmlanding,Premier,1/2 Day PM,16,"55 Calico Bass Released, 20 Calico Bass, 15 Sculpin, 1 Sand Bass, 1 Whitefish"
 hmlanding,Reel Champion,1/2 Day Twilight,5,"69 Spiny Lobster Released, 2 Spiny Lobster"
+hmlanding,Alicia,1/2 Day Twilight,10,"8 Spiny Lobster, 2 Rock Crab, 2 Spiny Lobster Released"
 oceanside,Chubasco II,3/4 Day,15,"107 Rockfish, 61 Whitefish, 4 Sculpin"
 seaforth,El Gato Dos,Full Day,4,9 Yellowfin Tuna
 seaforth,San Diego,Full Day,21,"100 Whitefish, 78 Rockfish, 12 Yellowtail, 3 Lingcod"
 fisherman,Condor,2 Day,13,60 Yellowfin Tuna (up to 70 pounds)
 hmlanding,Top Gun 80,3.5 Day,25,0
-seaforth,Apollo,4 Day,10,"74 Yellowfin Tuna, 12 Bluefin Tuna, 5 Yellowtail"
 seaforth,Pacific Voyager,4 Day,12,82 Yellowfin Tuna (up to 80 pounds)
+seaforth,Apollo,4 Day,10,"74 Yellowfin Tuna, 12 Bluefin Tuna, 5 Yellowtail"
