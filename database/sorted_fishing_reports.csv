@@ -1,29 +1,26 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-oceanside,Southern Cal,1/2 Day AM,16,90 Rockfish
-oceanside,Blue Horizon,1/2 Day AM,7,70 Rockfish
-seaforth,New Seaforth,1/2 Day AM,38,380 Rockfish
-fisherman,Dolphin,1/2 Day AM,52,"207 Rockfish, 34 Vermilion Rockfish"
-pointloma,Daily Double,1/2 Day AM,36,171 Rockfish
 hmlanding,Premier,1/2 Day AM,50,336 Rockfish
-fisherman,Dolphin,1/2 Day PM,51,"97 Sculpin, 27 Sand Bass"
+oceanside,Blue Horizon,1/2 Day AM,7,70 Rockfish
+fisherman,Dolphin,1/2 Day AM,52,"207 Rockfish, 34 Vermilion Rockfish"
+oceanside,Southern Cal,1/2 Day AM,16,90 Rockfish
+seaforth,New Seaforth,1/2 Day AM,38,380 Rockfish
 hmlanding,Premier,1/2 Day PM,35,"73 Sculpin, 17 Sand Bass, 3 Calico Bass, 1 Perch"
+fisherman,Dolphin,1/2 Day PM,51,"97 Sculpin, 27 Sand Bass"
 hmlanding,Alicia,1/2 Day Twilight,10,"26 Spiny Lobster Released, 19 Spiny Lobster, 4 Rock Crab"
 oceanside,Chubasco II,3/4 Day,17,"165 Whitefish, 40 Rockfish, 15 Sculpin"
-pointloma,Mission Belle,Full Day,12,14 Yellowtail
 seaforth,San Diego,Full Day,35,"26 Yellowtail, 25 Rockfish, 9 Lingcod"
 fisherman,Freeman 34,Full Day,1,0
-hmlanding,Horizon,1.5 Day,25,25 Yellowfin Tuna (up to 90 pounds)
-seaforth,Cortez,1.5 Day,10,"55 Rockfish, 16 Bluefin Tuna"
-hmlanding,Old Glory,1.5 Day,29,21 Yellowfin Tuna
-hmlanding,Tradition,1.5 Day,11,14 Yellowfin Tuna (up to 90 pounds)
 seaforth,Tribute,1.5 Day,30,33 Yellowfin Tuna (up to 100 pounds)
+seaforth,Cortez,1.5 Day,10,"55 Rockfish, 16 Bluefin Tuna"
+hmlanding,Horizon,1.5 Day,25,25 Yellowfin Tuna (up to 90 pounds)
 fisherman,Islander,1.5 Day,29,37 Yellowfin Tuna (up to 90 pounds)
-pointloma,Oceanside 95,1.5 Day,20,17 Yellowfin Tuna (up to 80 pounds)
+hmlanding,Old Glory,1.5 Day,29,21 Yellowfin Tuna
 seaforth,Pacifica,1.5 Day,23,35 Yellowfin Tuna
+hmlanding,Tradition,1.5 Day,11,14 Yellowfin Tuna (up to 90 pounds)
 fisherman,Shogun,2 Day,23,45 Yellowfin Tuna (up to 70 pounds)
+seaforth,Aztec,2 Day,22,42 Yellowfin Tuna
 hmlanding,Excalibur,2 Day,21,"120 Rockfish, 34 Yellowfin Tuna, 1 Skipjack Tuna"
 hmlanding,Constitution,2 Day,19,45 Yellowfin Tuna
-seaforth,Aztec,2 Day,22,42 Yellowfin Tuna
 fisherman,Pacific Dawn,2.5 Day,16,46 Yellowfin Tuna
 hmlanding,Ranger 85,2.5 Day,13,"54 Yellowfin Tuna, 25 Skipjack Tuna"
 hmlanding,Legend,3 Day,26,"54 Yellowfin Tuna, 6 Yellowtail"
