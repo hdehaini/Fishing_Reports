@@ -1,16 +1,2 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-seaforth,New Seaforth,1/2 Day AM,47,400 Rockfish
-hmlanding,Premier,1/2 Day AM,34,263 Rockfish
-fisherman,Dolphin,1/2 Day AM,25,"200 Rockfish, 50 Vermilion Rockfish"
-oceanside,Southern Cal,1/2 Day AM,14,90 Rockfish
-seaforth,New Seaforth,1/2 Day PM,22,133 Rockfish
-hmlanding,Premier,1/2 Day PM,15,"75 Calico Bass Released, 27 Calico Bass, 24 Sculpin, 7 Perch, 3 Whitefish, 1 Sheephead"
-hmlanding,Alicia,1/2 Day Twilight,10,"33 Spiny Lobster Released, 17 Spiny Lobster, 1 Rock Crab"
-oceanside,Chubasco II,1/2 Day Twilight,13,"65 Sculpin, 4 Calico Bass, 3 Whitefish, 3 Sand Bass"
-seaforth,San Diego,Full Day,27,"50 Rockfish, 15 Yellowtail"
-seaforth,Pacifica,1.5 Day,19,"33 Yellowfin Tuna, 2 Skipjack Tuna"
-seaforth,Tribute,1.5 Day,28,18 Bluefin Tuna
-seaforth,Voyager,2 Day,11,"28 Yellowfin Tuna, 4 Yellowtail, 2 Sculpin, 1 Lingcod"
-fisherman,Condor,2 Day,24,44 Yellowfin Tuna (up to 70 pounds)
-fisherman,Pacific Dawn,2 Day,14,23 Yellowfin Tuna (up to 70 pounds)
-seaforth,Polaris Supreme,3 Day,24,72 Yellowfin Tuna
+hmlanding,Alicia,1/2 Day Twilight,10,"51 Spiny Lobster Released, 26 Spiny Lobster, 5 Rock Crab"
