@@ -1,28 +1,3 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-hmlanding,Premier,1/2 Day AM,35,"291 Rockfish, 1 Sand Bass"
-fisherman,Dolphin,1/2 Day AM,35,"305 Rockfish, 29 Vermilion Rockfish"
-pointloma,Daily Double,1/2 Day AM,33,277 Rockfish
-oceanside,Southern Cal,1/2 Day AM,19,145 Rockfish
-seaforth,New Seaforth,1/2 Day AM,28,280 Rockfish
-fisherman,Dolphin,1/2 Day PM,39,"43 Sculpin, 12 Sand Bass, 7 Whitefish, 5 Sheephead"
-seaforth,New Seaforth,1/2 Day PM,9,90 Rockfish
-hmlanding,Premier,1/2 Day PM,17,"31 Sculpin, 12 Sand Bass, 3 Calico Bass, 2 Sheephead"
-hmlanding,Alicia,1/2 Day Twilight,10,"42 Spiny Lobster Released, 15 Spiny Lobster, 3 Rock Crab"
-seaforth,San Diego,Full Day,28,42 Yellowtail
-seaforth,El Gato Dos,Full Day,2,3 Bluefin Tuna (up to 60 pounds)
-hmlanding,Daiwa Pacific,Overnight,20,120 Rockfish
-hmlanding,Old Glory,1.5 Day,30,28 Yellowfin Tuna
-hmlanding,Sea Adventure 80,1.5 Day,20,0
-hmlanding,Tradition,1.5 Day,10,30 Yellowfin Tuna
-pointloma,Oceanside 95,1.5 Day,30,64 Yellowfin Tuna (up to 80 pounds)
-fisherman,Condor,1.5 Day,28,"74 Yellowfin Tuna (up to 80 pounds), 3 Bluefin Tuna"
-fisherman,Liberty,2 Day,23,"62 Yellowfin Tuna (up to 90 pounds), 4 Bluefin Tuna"
-seaforth,Pacifica,2 Day,17,42 Yellowfin Tuna
-hmlanding,Constitution,2 Day,23,27 Yellowfin Tuna
-seaforth,Tribute,2 Day,25,56 Yellowfin Tuna
-hmlanding,Ocean Odyssey,2.5 Day,16,"70 Yellowfin Tuna, 2 Bluefin Tuna"
-hmlanding,Top Gun 80,2.5 Day,14,"67 Yellowfin Tuna, 2 Bluefin Tuna, 2 Yellowtail"
-hmlanding,Producer,2.5 Day,20,"83 Yellowfin Tuna, 2 Bluefin Tuna"
-hmlanding,Excalibur,3 Day,24,"120 Yellowfin Tuna, 10 Bluefin Tuna"
-fisherman,Islander,3 Day,26,130 Yellowfin Tuna
-hmlanding,Legend,3 Day,25,"131 Yellowfin Tuna, 2 Bluefin Tuna"
+hmlanding,Alicia,1/2 Day Twilight,10,"22 Spiny Lobster, 13 Spiny Lobster Released"
+hmlanding,Patriot (SD),1/2 Day Twilight,7,"145 Spiny Lobster Released, 7 Spiny Lobster"
