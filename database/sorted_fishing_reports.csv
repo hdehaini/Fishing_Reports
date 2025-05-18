@@ -1,16 +1,2 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-seaforth,New Seaforth,1/2 Day AM,16,45 Bonito
-seaforth,Sea Watch,1/2 Day AM,28,36 Bonito
-hmlanding,Premier,1/2 Day AM,49,"92 Rockfish, 13 Bonito"
-pointloma,Daily Double,1/2 Day AM,15,"40 Rockfish, 4 Bonito"
-fisherman,Dolphin,1/2 Day AM,56,4 Bonito
-oceanside,Pronto,1/2 Day AM,11,"80 Rockfish, 1 Whitefish"
-oceanside,Southern Cal,1/2 Day AM,18,"80 Rockfish, 20 Sanddab"
-seaforth,New Seaforth,1/2 Day PM,47,"140 Rockfish, 10 Sculpin, 5 Calico Bass, 4 Sheephead, 1 Whitefish"
-hmlanding,Nautilus,1/2 Day PM,4,"21 Rockfish, 8 Red Rockfish"
-hmlanding,Premier,1/2 Day PM,54,"81 Rockfish, 5 Sculpin, 1 Calico Bass, 1 Sheephead"
-fisherman,Dolphin,1/2 Day PM,45,"85 Vermilion Rockfish, 54 Rockfish, 6 Sculpin, 2 Sheephead, 1 Lingcod"
-seaforth,San Diego,Full Day,16,80 Bonito
-pointloma,Mission Belle,Full Day,21,"70 Bonito, 61 Whitefish, 35 Sculpin, 12 Rockfish, 1 Barred Sand Bass, 1 Sheephead, 1 Lingcod"
-pointloma,Point Loma,Full Day,17,"31 Bonito, 4 Yellowtail"
-seaforth,Highliner,Overnight,19,"20 Bonito, 5 Bluefin Tuna"
+hmlanding,Horizon,1.5 Day,23,52 Bonito
