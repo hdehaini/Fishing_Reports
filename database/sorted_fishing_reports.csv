@@ -1,19 +1,2 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-seaforth,New Seaforth,1/2 Day AM,51,"75 Calico Bass Released, 36 Calico Bass, 9 Rockfish, 3 Sheephead"
-fisherman,Dolphin,1/2 Day AM,39,"100 Calico Bass Released, 34 Rockfish, 27 Calico Bass, 5 Sculpin, 4 Sheephead, 1 Lingcod"
-pointloma,Point Loma,1/2 Day AM,19,"13 Calico Bass, 10 Rockfish, 2 Sculpin, 1 Barred Sand Bass, 1 Sheephead"
-pointloma,Daily Double,1/2 Day AM,38,"61 Rockfish, 10 Whitefish, 2 Barred Sand Bass"
-hmlanding,Premier,1/2 Day AM,53,264 Rockfish
-hmlanding,Nautilus,1/2 Day AM,6,51 Rockfish
-oceanside,Southern Cal,1/2 Day AM,26,"120 Calico Bass Released, 15 Calico Bass, 2 Sand Bass, 1 Whitefish, 1 Sheephead, 1 Barracuda"
-hmlanding,Premier,1/2 Day PM,31,"49 Calico Bass, 31 Rockfish, 11 Sculpin, 6 Sheephead"
-seaforth,New Seaforth,1/2 Day PM,50,"50 Calico Bass Released, 20 Calico Bass, 13 Rockfish, 3 Sand Bass, 2 Sheephead"
-fisherman,Dolphin,1/2 Day PM,58,"57 Bonito (up to 15 pounds), 16 Rockfish, 2 Calico Bass"
-seaforth,New Seaforth,1/2 Day Twilight,38,"75 Calico Bass Released, 22 Calico Bass, 8 Rockfish, 5 Sand Bass, 3 Sculpin"
-seaforth,Sea Watch,3/4 Day,22,"170 Calico Bass Released, 26 Rockfish, 22 Calico Bass, 2 Sheephead"
-hmlanding,Grande,Full Day,30,85 Bonito
-fisherman,Liberty,Full Day,8,40 Bonito (up to 15 pounds)
-pointloma,Mission Belle,Full Day,11,"11 Calico Bass, 5 Yellowtail, 1 Sheephead"
-seaforth,San Diego,Full Day,35,"24 Rockfish, 12 Bonito, 12 Calico Bass, 4 Barracuda, 1 Triggerfish, 1 Yellowtail"
-seaforth,Pacific Voyager,2 Day,20,33 Bluefin Tuna
-seaforth,Polaris Supreme,3 Day,14,102 Bluefin Tuna
+hmlanding,Horizon,2 Day,19,"217 Rockfish, 35 Red Rockfish, 20 Bluefin Tuna, 2 Sheephead"
