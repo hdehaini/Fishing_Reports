@@ -1,14 +1,29 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-pointloma,Daily Double,1/2 Day AM,6,"15 Calico Bass, 15 Rockfish, 12 Barred Sand Bass, 12 Barred Sand Bass Released"
+hmlanding,Premier,1/2 Day AM,13,101 Rockfish
 fisherman,Dolphin,1/2 Day AM,22,0
+pointloma,Daily Double,1/2 Day AM,6,"15 Calico Bass, 15 Rockfish, 12 Barred Sand Bass, 12 Barred Sand Bass Released"
 oceanside,Blue Horizon,1/2 Day AM,10,"60 Calico Bass Released, 20 Whitefish, 6 Calico Bass, 3 Sculpin, 1 Halibut, 1 Halibut Released"
+seaforth,New Seaforth,1/2 Day AM,21,"75 Calico Bass Released, 22 Calico Bass, 4 Rockfish, 1 Sculpin"
 fisherman,Dolphin,1/2 Day PM,45,0
+seaforth,New Seaforth,1/2 Day PM,52,"100 Calico Bass Released, 21 Calico Bass, 3 Rockfish, 3 Sculpin, 1 Whitefish"
+hmlanding,Premier,1/2 Day PM,23,"125 Calico Bass Released, 47 Calico Bass, 9 Rockfish, 5 Sheephead, 1 Sculpin, 1 Cabezon"
+seaforth,New Seaforth,1/2 Day Twilight,18,"50 Calico Bass Released, 13 Calico Bass, 13 Rockfish, 7 Whitefish, 3 Sculpin, 1 Sand Bass, 1 White Seabass Released"
+seaforth,Sea Watch,3/4 Day,9,"75 Calico Bass Released, 21 Calico Bass, 19 Rockfish"
 fisherman,Lucky B Sportfishing,Full Day,2,10 Yellowtail
+seaforth,San Diego,Full Day,16,"29 Rockfish, 17 Bonito, 17 Calico Bass, 6 Yellowtail, 1 Lingcod"
 fisherman,Tradition,1.5 Day,12,"55 Rockfish, 1 Bluefin Tuna"
-fisherman,Constitution,2 Day,19,0
-fisherman,Fortune,2 Day,19,31 Bluefin Tuna (up to 140 pounds)
+seaforth,Tribute,1.5 Day,31,0
+seaforth,Voyager,1.5 Day,16,6 Bluefin Tuna
+seaforth,Highliner,2 Day,18,"70 Rockfish, 50 Vermilion Rockfish, 15 Bluefin Tuna, 5 Lingcod"
 fisherman,Pacific Dawn,2 Day,14,9 Bluefin Tuna (up to 170 pounds)
+fisherman,Fortune,2 Day,19,31 Bluefin Tuna (up to 140 pounds)
+seaforth,Aztec,2 Day,26,17 Bluefin Tuna
+hmlanding,Old Glory,2 Day,25,"112 Rockfish, 8 Bluefin Tuna (up to 120 pounds), 7 Bonito"
+hmlanding,Horizon,2 Day,19,"217 Rockfish, 35 Red Rockfish, 20 Bluefin Tuna, 2 Sheephead"
+fisherman,Constitution,2 Day,19,0
+hmlanding,Excalibur,2.5 Day,16,32 Bluefin Tuna
 pointloma,New Lo-An,3 Day,18,64 Bluefin Tuna (up to 200 pounds)
 fisherman,Islander,3 Day,16,69 Bluefin Tuna (up to 185 pounds)
+hmlanding,Legend,3 Day,27,38 Bluefin Tuna
 fisherman,Pacific Queen,3 Day,31,31 Bluefin Tuna (up to 150 pounds)
 fisherman,Tomahawk,3 Day,14,49 Bluefin Tuna (up to 140 pounds)
