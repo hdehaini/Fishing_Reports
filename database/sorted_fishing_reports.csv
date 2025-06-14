@@ -1,5 +1,6 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 hmlanding,Alicia,1/2 Day AM,10,"35 Calico Bass Released, 25 Rockfish, 11 Calico Bass, 3 Barracuda Released"
+fisherman,Dolphin,1/2 Day AM,12,0
 pointloma,Point Loma,1/2 Day AM,12,"30 Rockfish, 12 Calico Bass, 1 Barred Sand Bass"
 pointloma,Daily Double,1/2 Day AM,14,"30 Barred Sand Bass, 8 Rockfish, 5 Whitefish, 4 Calico Bass"
 hmlanding,Premier,1/2 Day AM,12,"60 Sand Bass, 15 Rockfish"
@@ -9,8 +10,8 @@ oceanside,Southern Cal,1/2 Day AM,40,"100 Rockfish, 30 Sculpin, 20 Sanddab"
 seaforth,New Seaforth,1/2 Day AM,44,"100 Calico Bass Released, 50 Sand Bass Released, 49 Sand Bass, 45 Calico Bass, 7 Rockfish, 2 Halibut, 1 Sculpin"
 seaforth,New Seaforth,1/2 Day PM,50,"73 Calico Bass, 50 Calico Bass Released, 10 Rockfish, 9 Sand Bass, 3 Whitefish"
 seaforth,New Seaforth,1/2 Day Twilight,24,"68 Calico Bass, 40 Calico Bass Released, 31 Sand Bass, 15 Sand Bass Released, 8 Rockfish, 1 Halibut, 1 Sheephead"
-seaforth,Sea Watch,3/4 Day,18,"100 Calico Bass Released, 30 Calico Bass, 18 Sheephead, 15 Rockfish, 5 Sand Bass, 2 Sculpin"
 hmlanding,Malihini,3/4 Day,26,"101 Rockfish, 50 Calico Bass Released, 18 Calico Bass, 5 Red Rockfish"
+seaforth,Sea Watch,3/4 Day,18,"100 Calico Bass Released, 30 Calico Bass, 18 Sheephead, 15 Rockfish, 5 Sand Bass, 2 Sculpin"
 seaforth,El Gato Dos,3/4 Day,2,"10 Rockfish, 2 Yellowtail"
 seaforth,San Diego,Full Day,15,"60 Calico Bass, 50 Whitefish, 8 Sand Bass, 4 Sheephead, 2 Yellowtail, 1 Lingcod"
 seaforth,Highliner,Overnight,16,0
