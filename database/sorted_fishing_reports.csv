@@ -1,17 +1,18 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
+oceanside,Southern Cal,1/2 Day AM,28,"90 Calico Bass Released, 25 Whitefish, 13 Calico Bass, 3 Halibut Released, 1 Thresher Shark Released"
 seaforth,El Gato Dos,1/2 Day AM,6,"25 Calico Bass Released, 12 Vermilion Rockfish, 7 Calico Bass"
+fisherman,Dolphin,1/2 Day AM,21,"100 Calico Bass Released, 52 Calico Bass, 7 Rockfish, 6 Sheephead, 3 Sculpin, 2 Sand Bass, 1 Cabezon"
 seaforth,Sea Watch,1/2 Day AM,35,"100 Calico Bass Released, 36 Calico Bass, 6 Rockfish, 4 Whitefish, 1 Halibut"
 hmlanding,Premier,1/2 Day AM,36,"75 Rockfish, 72 Red Rockfish, 20 Calico Bass, 2 Sculpin, 2 Whitefish, 1 Sand Bass, 1 Sheephead, 1 Halibut"
-fisherman,Dolphin,1/2 Day AM,21,"100 Calico Bass Released, 52 Calico Bass, 7 Rockfish, 6 Sheephead, 3 Sculpin, 2 Sand Bass, 1 Cabezon"
-oceanside,Southern Cal,1/2 Day AM,28,"90 Calico Bass Released, 25 Whitefish, 13 Calico Bass, 3 Halibut Released, 1 Thresher Shark Released"
-seaforth,New Seaforth,1/2 Day PM,45,"100 Calico Bass Released, 97 Calico Bass, 5 Rockfish, 2 Barracuda, 1 Sand Bass, 1 Sculpin, 1 Sheephead"
 fisherman,Dolphin,1/2 Day PM,31,"131 Calico Bass, 100 Calico Bass Released, 10 Rockfish, 5 Sheephead, 1 Cabezon"
+pointloma,Point Loma,1/2 Day PM,12,60 Calico Bass
+seaforth,New Seaforth,1/2 Day PM,45,"100 Calico Bass Released, 97 Calico Bass, 5 Rockfish, 2 Barracuda, 1 Sand Bass, 1 Sculpin, 1 Sheephead"
 seaforth,Sea Watch,1/2 Day Twilight,40,"70 Calico Bass, 60 Calico Bass Released, 12 Sand Bass, 10 Rockfish"
 oceanside,Sea Star,3/4 Day,10,"138 Calico Bass Released, 57 Barracuda Released, 35 Calico Bass, 3 White Seabass Released, 3 Halibut Released, 3 Sand Bass Released"
 seaforth,San Diego,Full Day,30,"54 Whitefish, 20 Sculpin, 7 Calico Bass, 4 Yellowtail, 3 Sheephead, 1 Sand Bass"
 fisherman,Islander,Overnight,17,35 Bluefin Tuna (up to 130 pounds)
-seaforth,Cortez,1.5 Day,7,0
 fisherman,Pegasus,1.5 Day,12,24 Bluefin Tuna (up to 130 pounds)
+seaforth,Cortez,1.5 Day,7,0
 fisherman,Pacific Dawn,2.5 Day,15,42 Bluefin Tuna (up to 180 pounds)
 pointloma,New Lo-An,3 Day,17,102 Bluefin Tuna (up to 200 pounds)
 fisherman,Pacific Queen,3 Day,23,121 Bluefin Tuna (up to 150 pounds)
