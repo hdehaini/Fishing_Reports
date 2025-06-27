@@ -1,21 +1,10 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 seaforth,New Seaforth,1/2 Day AM,32,"160 Calico Bass, 4 Sheephead, 3 Whitefish"
-fisherman,Dolphin,1/2 Day AM,57,"117 Sand Bass, 100 Sand Bass Released"
-hmlanding,Premier,1/2 Day AM,34,"111 Sand Bass, 50 Sand Bass Released, 8 Rockfish, 1 Sheephead, 1 Cabezon"
 oceanside,Southern Cal,1/2 Day AM,27,"90 Calico Bass Released, 40 Sand Bass Released, 40 Barracuda Released, 28 Calico Bass, 10 Sand Bass, 5 Sheephead, 5 Whitefish, 3 Halibut Released, 2 Sheephead Released, 1 Halibut"
-hmlanding,Premier,1/2 Day PM,15,"75 Sand Bass, 75 Calico Bass Released, 50 Sand Bass Released, 5 Rockfish, 2 White Seabass Released"
 seaforth,New Seaforth,1/2 Day PM,47,"300 Calico Bass Released, 225 Calico Bass, 3 Rockfish, 1 Sheephead, 1 Yellowtail"
-fisherman,Dolphin,1/2 Day PM,48,"200 Calico Bass Released, 76 Calico Bass, 15 Rockfish, 4 Sheephead, 4 White Seabass Released, 2 Sculpin, 1 Cabezon"
 seaforth,New Seaforth,1/2 Day Twilight,19,"75 Calico Bass Released, 42 Calico Bass, 4 Rockfish, 3 Whitefish, 2 Sand Bass, 1 Halibut"
 seaforth,Sea Watch,3/4 Day,32,"180 Calico Bass Released, 121 Calico Bass, 39 Sand Bass, 18 Whitefish, 10 Rockfish, 3 Yellowtail"
-hmlanding,Malihini,3/4 Day,12,"150 Calico Bass Released, 54 Calico Bass, 6 Rockfish, 3 Red Rockfish, 2 Sand Bass"
 oceanside,Pronto,3/4 Day,2,"60 Calico Bass Released, 10 Calico Bass, 1 Sheephead, 1 Rockfish"
 seaforth,San Diego,Full Day,15,"67 Rockfish, 13 Bonito, 9 Calico Bass, 3 Sheephead, 2 Lingcod, 2 Yellowtail"
-fisherman,Liberty,Full Day,11,"55 Whitefish, 20 Rockfish, 17 Sculpin, 15 Calico Bass, 1 Halibut"
-hmlanding,Old Glory,1.5 Day,19,8 Bluefin Tuna
-hmlanding,Legend,2 Day,26,19 Bluefin Tuna
-fisherman,Pacific Dawn,2 Day,8,13 Bluefin Tuna
 oceanside,Blue Horizon,2 Day,12,"240 Rockfish, 35 Calico Bass Released, 8 Yellowtail, 6 Bonito"
 seaforth,Polaris Supreme,3 Day,24,"60 Rockfish, 39 Bluefin Tuna"
-fisherman,Pacific Queen,3 Day,20,"67 Bluefin Tuna, 2 Yellowtail"
-hmlanding,Spirit of Adventure,3 Day,24,36 Bluefin Tuna (up to 90 pounds)
