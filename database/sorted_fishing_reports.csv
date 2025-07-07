@@ -1,16 +1,17 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 seaforth,New Seaforth,1/2 Day AM,50,"100 Calico Bass Released, 35 Calico Bass, 4 Rockfish, 1 Sheephead"
-hmlanding,Premier,1/2 Day AM,45,"180 Sand Bass, 7 Rockfish, 5 Sculpin"
 pointloma,Daily Double,1/2 Day AM,28,"112 Barred Sand Bass, 1 Rockfish, 1 Halibut"
+hmlanding,Premier,1/2 Day AM,45,"180 Sand Bass, 7 Rockfish, 5 Sculpin"
 fisherman,Dolphin,1/2 Day AM,40,"160 Sand Bass, 150 Sand Bass Released"
-seaforth,New Seaforth,1/2 Day PM,52,208 Sand Bass
 fisherman,Dolphin,1/2 Day PM,46,"184 Sand Bass, 2 Halibut"
+seaforth,New Seaforth,1/2 Day PM,52,208 Sand Bass
 seaforth,New Seaforth,1/2 Day Twilight,53,"200 Calico Bass Released, 83 Calico Bass, 5 Rockfish, 1 Sheephead, 1 Yellowtail"
 hmlanding,Malihini,3/4 Day,24,"96 Sand Bass, 51 Rockfish, 48 Red Rockfish, 3 Whitefish, 1 Rock Sole"
-seaforth,San Diego,Full Day,34,9 Bluefin Tuna
 hmlanding,Grande,Full Day,41,6 Bluefin Tuna
+seaforth,San Diego,Full Day,34,9 Bluefin Tuna
 pointloma,Mission Belle,Full Day,30,3 Bluefin Tuna
 hmlanding,Old Glory,Overnight,30,39 Bluefin Tuna (up to 100 pounds)
+fisherman,Constitution,Overnight,20,30 Bluefin Tuna (up to 130 pounds)
 seaforth,Tribute,1.5 Day,30,"11 Bluefin Tuna, 3 Yellowtail"
 pointloma,El Capitan,2 Day,13,15 Bluefin Tuna
 hmlanding,Excalibur,3 Day,27,"62 Bluefin Tuna (up to 130 pounds), 7 Yellowtail"
