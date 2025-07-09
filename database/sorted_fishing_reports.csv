@@ -1,9 +1,6 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-oceanside,Southern Cal,1/2 Day AM,35,"115 Whitefish, 15 Rockfish, 1 Sheephead, 1 Sand Bass"
 seaforth,New Seaforth,1/2 Day AM,34,"136 Sand Bass, 100 Sand Bass Released, 31 Vermilion Rockfish, 10 Rockfish"
-oceanside,Blue Horizon,1/2 Day AM,9,"45 Whitefish, 16 Rockfish"
 fisherman,Dolphin,1/2 Day AM,28,"116 Sand Bass, 100 Sand Bass Released, 40 Rockfish, 10 Sheephead, 1 Lingcod"
-oceanside,Sea Star,1/2 Day AM,13,"20 Sculpin, 11 Whitefish, 5 Rockfish, 4 Sand Bass, 4 Calico Bass, 1 Cabezon, 1 Sheephead, 1 Thresher Shark Released"
 hmlanding,Premier,1/2 Day AM,15,"75 Sand Bass Released, 60 Sand Bass"
 pointloma,Daily Double,1/2 Day AM,10,"100 Barred Sand Bass Released, 40 Barred Sand Bass, 2 Rockfish"
 seaforth,New Seaforth,1/2 Day PM,45,"180 Sand Bass, 100 Sand Bass Released, 23 Vermilion Rockfish, 12 Rockfish"
@@ -11,10 +8,10 @@ seaforth,Voyager,1/2 Day PM,9,36 Sand Bass
 fisherman,Dolphin,1/2 Day PM,17,"100 Sand Bass Released, 60 Sand Bass, 3 Calico Bass, 2 Rockfish, 1 Sculpin"
 hmlanding,Premier,1/2 Day PM,20,"80 Sand Bass, 77 Sand Bass Released"
 seaforth,New Seaforth,1/2 Day Twilight,40,"106 Sand Bass, 1 Barracuda"
-pointloma,Mission Belle,Full Day,14,"24 Yellowtail, 13 Bluefin Tuna, 2 Bonito"
 seaforth,El Gato Dos,Full Day,5,10 Bluefin Tuna
-hmlanding,Grande,Full Day,31,12 Bluefin Tuna (up to 80 pounds)
 seaforth,San Diego,Full Day,35,66 Bluefin Tuna
+hmlanding,Grande,Full Day,31,12 Bluefin Tuna (up to 80 pounds)
+pointloma,Mission Belle,Full Day,14,"24 Yellowtail, 13 Bluefin Tuna, 2 Bonito"
 seaforth,Voyager,1.5 Day,13,16 Bluefin Tuna
 fisherman,Islander,2 Day,28,22 Bluefin Tuna
 hmlanding,Legend,2 Day,25,47 Bluefin Tuna
