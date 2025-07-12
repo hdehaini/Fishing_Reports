@@ -1,24 +1,25 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-seaforth,New Seaforth,1/2 Day AM,50,"200 Sand Bass, 4 Sculpin, 1 Barracuda, 1 Whitefish"
-fisherman,Dolphin,1/2 Day AM,31,124 Sand Bass
 pointloma,Daily Double,1/2 Day AM,23,92 Barred Sand Bass
+seaforth,New Seaforth,1/2 Day AM,50,"200 Sand Bass, 4 Sculpin, 1 Barracuda, 1 Whitefish"
 hmlanding,Premier,1/2 Day AM,55,"200 Sand Bass, 100 Sand Bass Released, 1 Halibut"
+fisherman,Dolphin,1/2 Day AM,31,124 Sand Bass
+pointloma,Daily Double,1/2 Day PM,29,116 Barred Sand Bass
+seaforth,New Seaforth,1/2 Day PM,50,200 Sand Bass
 hmlanding,Premier,1/2 Day PM,24,"150 Sand Bass Released, 96 Sand Bass"
 fisherman,Dolphin,1/2 Day PM,33,132 Sand Bass
-seaforth,New Seaforth,1/2 Day PM,50,200 Sand Bass
-pointloma,Daily Double,1/2 Day PM,29,116 Barred Sand Bass
 oceanside,Southern Cal,1/2 Day Twilight,31,"90 Rockfish, 70 Sculpin"
 seaforth,New Seaforth,1/2 Day Twilight,42,"168 Sand Bass, 1 Barracuda"
 oceanside,Pronto,3/4 Day,11,"110 Rockfish, 30 Calico Bass Released, 10 Calico Bass, 1 Whitefish"
 hmlanding,Grande,Full Day,40,31 Yellowtail
-seaforth,El Gato Dos,Full Day,4,4 Bluefin Tuna
-hmlanding,Alicia,Full Day,11,0
-seaforth,San Diego,Full Day,35,"10 Yellowtail, 1 Bluefin Tuna"
 seaforth,Sea Watch,Full Day,26,4 Bluefin Tuna
 pointloma,Mission Belle,Full Day,29,61 Yellowtail
+seaforth,San Diego,Full Day,35,"10 Yellowtail, 1 Bluefin Tuna"
+seaforth,El Gato Dos,Full Day,4,4 Bluefin Tuna
 hmlanding,Vendetta 2,Full Day,25,0
-hmlanding,Top Gun 80,Overnight,15,"8 Yellowtail, 2 Bluefin Tuna"
+hmlanding,Alicia,Full Day,11,0
+hmlanding,Producer,Overnight,29,"2 Bluefin Tuna, 2 Yellowtail"
 hmlanding,Old Glory,Overnight,36,"20 Bluefin Tuna, 2 Yellowtail"
+hmlanding,Top Gun 80,Overnight,15,"8 Yellowtail, 2 Bluefin Tuna"
 seaforth,Tribute,1.5 Day,31,"10 Yellowtail, 5 Bluefin Tuna"
 fisherman,Liberty,1.5 Day,25,"33 Bluefin Tuna, 3 Yellowtail"
 fisherman,Tradition,1.5 Day,16,"18 Yellowtail, 1 Bluefin Tuna"
