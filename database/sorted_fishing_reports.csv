@@ -1,6 +1,7 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 seaforth,New Seaforth,1/2 Day AM,49,"30 Calico Bass Released, 20 White Seabass Released, 10 Sand Bass, 9 Calico Bass, 5 Rockfish, 1 Sculpin"
 seaforth,New Seaforth,1/2 Day Twilight,51,"204 Sand Bass, 1 Calico Bass"
+seaforth,Voyager,1.5 Day,16,13 Bluefin Tuna
 hmlanding,Horizon,1.5 Day,27,16 Bluefin Tuna
 hmlanding,Ocean Odyssey,1.5 Day,29,0
 hmlanding,Sea Adventure 80,1.5 Day,27,4 Bluefin Tuna
@@ -9,3 +10,4 @@ hmlanding,Vendetta 2,1.5 Day,10,0
 hmlanding,Legend,2 Day,20,50 Bluefin Tuna (up to 200 pounds)
 hmlanding,Excalibur,2.5 Day,28,"29 Bluefin Tuna, 1 Yellowtail"
 hmlanding,Nautilus,2.5 Day,6,"12 Rockfish, 2 Yellowtail"
+seaforth,Polaris Supreme,3 Day,23,127 Bluefin Tuna
