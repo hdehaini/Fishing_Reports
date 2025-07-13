@@ -2,12 +2,13 @@ Source,Boat Name,Trip Type,Anglers,Fish Count
 seaforth,New Seaforth,1/2 Day AM,50,"200 Sand Bass, 1 Sculpin"
 fisherman,Dolphin,1/2 Day AM,55,193 Sand Bass
 pointloma,Point Loma,1/2 Day AM,12,48 Barred Sand Bass
-pointloma,Daily Double,1/2 Day AM,40,160 Barred Sand Bass
 hmlanding,Premier,1/2 Day AM,56,"200 Sand Bass, 1 Barracuda"
+pointloma,Daily Double,1/2 Day AM,40,160 Barred Sand Bass
 seaforth,New Seaforth,1/2 Day PM,52,"195 Sand Bass, 50 Calico Bass Released, 13 Calico Bass, 3 White Seabass Released, 1 Rockfish"
 fisherman,Dolphin,1/2 Day PM,56,205 Sand Bass
 hmlanding,Premier,1/2 Day PM,58,"230 Sand Bass, 100 Sand Bass Released"
 seaforth,New Seaforth,1/2 Day Twilight,73,292 Sand Bass
+fisherman,Dolphin,1/2 Day Twilight,39,156 Sand Bass
 oceanside,Pronto,3/4 Day,7,"70 Rockfish, 20 Calico Bass Released, 6 Calico Bass, 5 Whitefish"
 seaforth,Sea Watch,3/4 Day,15,"75 Calico Bass Released, 46 Sand Bass, 14 Calico Bass, 1 Sheephead"
 hmlanding,Malihini,3/4 Day,19,"150 Sand Bass Released, 76 Sand Bass, 38 Red Rockfish, 25 Calico Bass Released, 20 Rockfish, 8 Calico Bass, 1 Whitefish"
