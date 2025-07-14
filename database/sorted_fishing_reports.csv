@@ -1,21 +1,22 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 oceanside,Southern Cal,1/2 Day AM,40,"50 Rockfish, 30 Sanddab, 1 Whitefish, 1 Mako Shark"
-seaforth,New Seaforth,1/2 Day AM,49,"30 Calico Bass Released, 20 White Seabass Released, 10 Sand Bass, 9 Calico Bass, 5 Rockfish, 1 Sculpin"
 pointloma,Daily Double,1/2 Day AM,40,"20 Rockfish, 4 Barred Sand Bass, 1 Calico Bass"
+seaforth,New Seaforth,1/2 Day AM,49,"30 Calico Bass Released, 20 White Seabass Released, 10 Sand Bass, 9 Calico Bass, 5 Rockfish, 1 Sculpin"
 fisherman,Dolphin,1/2 Day AM,55,"26 Rockfish, 19 Sand Bass, 15 Calico Bass Released, 7 Sculpin, 6 Calico Bass"
 seaforth,New Seaforth,1/2 Day Twilight,51,"204 Sand Bass, 1 Calico Bass"
-pointloma,Mission Belle,3/4 Day,30,"6 Bluefin Tuna, 6 Yellowtail"
 hmlanding,Malihini,3/4 Day,25,"90 Rockfish, 48 Red Rockfish, 6 Whitefish, 4 Sand Bass, 3 Calico Bass Released, 1 Calico Bass, 1 Sculpin, 1 White Seabass"
+pointloma,Mission Belle,3/4 Day,30,"6 Bluefin Tuna, 6 Yellowtail"
+hmlanding,Grande,Full Day,41,"10 Yellowtail, 1 Bluefin Tuna"
 seaforth,Sea Watch,Full Day,25,"47 Yellowtail, 1 Bluefin Tuna"
 seaforth,El Gato Dos,Full Day,6,"4 Yellowtail, 3 Bonito, 1 Bluefin Tuna"
 hmlanding,Producer,Overnight,29,"8 Yellowtail, 4 Bluefin Tuna, 2 Bonito"
+hmlanding,Sea Adventure 80,1.5 Day,27,4 Bluefin Tuna
 hmlanding,Horizon,1.5 Day,27,16 Bluefin Tuna
 hmlanding,Ocean Odyssey,1.5 Day,29,0
-hmlanding,Sea Adventure 80,1.5 Day,27,4 Bluefin Tuna
-hmlanding,Vendetta 2,1.5 Day,10,"14 Bluefin Tuna, 4 Yellowtail, 1 Mako Shark"
 seaforth,Voyager,1.5 Day,16,13 Bluefin Tuna
-hmlanding,Legend,2 Day,20,50 Bluefin Tuna (up to 200 pounds)
+hmlanding,Vendetta 2,1.5 Day,10,"14 Bluefin Tuna, 4 Yellowtail, 1 Mako Shark"
 pointloma,New Lo-An,2 Day,25,54 Bluefin Tuna (up to 120 pounds)
+hmlanding,Legend,2 Day,20,50 Bluefin Tuna (up to 200 pounds)
 hmlanding,Excalibur,2.5 Day,28,"29 Bluefin Tuna, 1 Yellowtail"
 hmlanding,Nautilus,2.5 Day,6,"12 Rockfish, 2 Yellowtail"
 seaforth,Polaris Supreme,3 Day,23,127 Bluefin Tuna
