@@ -1,8 +1,8 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 oceanside,Southern Cal,1/2 Day AM,40,"100 Sculpin, 80 Rockfish"
-hmlanding,Malihini,1/2 Day AM,32,128 Sand Bass
-seaforth,New Seaforth,1/2 Day AM,46,"184 Sand Bass, 2 Sculpin"
 pointloma,Daily Double,1/2 Day AM,24,"96 Barred Sand Bass, 8 Rockfish, 3 Calico Bass, 1 Sculpin"
+seaforth,New Seaforth,1/2 Day AM,46,"184 Sand Bass, 2 Sculpin"
+hmlanding,Malihini,1/2 Day AM,32,128 Sand Bass
 hmlanding,Malihini,1/2 Day PM,19,76 Sand Bass
 seaforth,New Seaforth,1/2 Day PM,40,"63 Sand Bass, 1 Sculpin"
 oceanside,Blue Horizon,1/2 Day PM,11,"90 Calico Bass Released, 16 Calico Bass, 1 Mako Shark Released"
@@ -11,11 +11,12 @@ seaforth,Sea Watch,Full Day,10,1 Bluefin Tuna
 seaforth,El Gato Dos,Full Day,6,"14 Yellowtail, 1 Bonito"
 hmlanding,Grande,Overnight,30,"8 Yellowtail, 2 Bluefin Tuna"
 seaforth,Highliner,Overnight,14,"56 Sand Bass, 12 Whitefish, 4 Calico Bass, 2 Barracuda"
-hmlanding,Producer,Overnight,24,"4 Bluefin Tuna, 4 Yellowtail"
 hmlanding,Old Glory,Overnight,14,1 Bluefin Tuna
+hmlanding,Producer,Overnight,24,"4 Bluefin Tuna, 4 Yellowtail"
 seaforth,Voyager,1.5 Day,18,"24 Yellowtail, 1 Bluefin Tuna"
 seaforth,Pacifica,1.5 Day,22,44 Bluefin Tuna (up to 140 pounds)
 hmlanding,Legend,1.5 Day,30,17 Bluefin Tuna
+fisherman,Pacific Queen,2 Day,26,67 Bluefin Tuna (up to 180 pounds)
 seaforth,Aztec,2 Day,15,22 Bluefin Tuna
 seaforth,Pacific Voyager,2 Day,20,"80 Bluefin Tuna, 1 Halibut, 1 Yellowtail"
 hmlanding,Ocean Odyssey,2 Day,28,"49 Yellowtail, 21 Bluefin Tuna, 3 Bonito"
