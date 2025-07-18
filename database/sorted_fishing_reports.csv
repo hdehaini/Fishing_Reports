@@ -2,11 +2,12 @@ Source,Boat Name,Trip Type,Anglers,Fish Count
 pointloma,Daily Double,1/2 Day AM,21,"75 Mackerel, 19 Barred Sand Bass, 2 Sculpin"
 seaforth,New Seaforth,1/2 Day AM,50,"20 Vermilion Rockfish, 15 Rockfish, 6 Sand Bass, 1 Barracuda, 1 Calico Bass, 1 Sculpin"
 hmlanding,Malihini,1/2 Day AM,35,131 Sand Bass
+seaforth,New Seaforth,1/2 Day PM,32,"75 Calico Bass Released, 39 Calico Bass, 6 Sheephead, 3 Yellowtail, 1 Rockfish"
 seaforth,New Seaforth,1/2 Day Twilight,32,"150 Calico Bass Released, 33 Calico Bass, 8 Rockfish, 4 Whitefish"
-hmlanding,Grande,Full Day,38,"40 Yellowtail, 1 Bluefin Tuna"
 seaforth,El Gato Dos,Full Day,6,27 Yellowtail
-hmlanding,Vendetta 2,Full Day,16,"51 Yellowtail, 2 Bonito"
 pointloma,Mission Belle,Full Day,22,86 Yellowtail
+hmlanding,Grande,Full Day,38,"40 Yellowtail, 1 Bluefin Tuna"
+hmlanding,Vendetta 2,Full Day,16,"51 Yellowtail, 2 Bonito"
 seaforth,Pacifica,Overnight,27,"70 Yellowtail, 1 Bluefin Tuna"
 hmlanding,Producer,Overnight,17,"85 Yellowtail, 1 Bluefin Tuna"
 seaforth,Tribute,1.5 Day,30,31 Bluefin Tuna
