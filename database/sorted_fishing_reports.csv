@@ -1,12 +1,13 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
+oceanside,Southern Cal,1/2 Day AM,18,"75 Whitefish, 33 Rockfish, 5 Calico Bass Released, 1 Calico Bass, 1 Sheephead"
 seaforth,New Seaforth,1/2 Day AM,45,"100 Calico Bass Released, 33 Calico Bass, 10 Whitefish, 7 Rockfish, 3 Sand Bass, 2 Sheephead, 2 White Seabass, 1 Barracuda, 1 Bonito, 1 Yellowtail"
 hmlanding,Malihini,1/2 Day AM,44,"60 Rockfish, 40 Red Rockfish, 1 Sheephead"
-oceanside,Southern Cal,1/2 Day AM,18,"75 Whitefish, 33 Rockfish, 5 Calico Bass Released, 1 Calico Bass, 1 Sheephead"
 seaforth,New Seaforth,1/2 Day Twilight,25,"125 Calico Bass Released, 40 Barracuda Released, 20 Rockfish, 17 Calico Bass, 3 Sculpin, 1 Barracuda"
 seaforth,Sea Watch,Full Day,26,55 Yellowtail
+pointloma,Point Loma,Full Day,16,"45 Yellowtail, 8 Barracuda, 5 Calico Bass"
 hmlanding,Grande,Full Day,17,"80 Rockfish, 18 Calico Bass, 15 Yellowtail, 7 Barracuda"
 pointloma,Mission Belle,Full Day,29,"65 Yellowtail, 12 Barracuda"
-pointloma,Point Loma,Full Day,16,"45 Yellowtail, 8 Barracuda, 5 Calico Bass"
+hmlanding,Vendetta 2,Overnight,6,7 Bluefin Tuna
 seaforth,Apollo,1.5 Day,10,20 Bluefin Tuna
 hmlanding,Excalibur,1.5 Day,28,9 Bluefin Tuna
 hmlanding,Sea Adventure 80,1.5 Day,16,"75 Yellowtail, 26 Bluefin Tuna"
