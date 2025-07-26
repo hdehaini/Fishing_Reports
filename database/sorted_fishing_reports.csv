@@ -3,6 +3,7 @@ oceanside,Southern Cal,1/2 Day AM,11,"50 Rockfish, 25 Sculpin"
 oceanside,Blue Horizon,1/2 Day AM,21,"61 Rockfish, 7 Whitefish"
 fisherman,Dolphin,1/2 Day AM,49,"46 Rockfish, 14 Sand Bass, 10 Calico Bass, 2 Halibut, 1 Lingcod, 1 Sculpin"
 pointloma,Daily Double,1/2 Day AM,36,"31 Barred Sand Bass, 1 Sculpin"
+fisherman,Dolphin,1/2 Day PM,22,"48 Rockfish, 3 Sand Bass"
 seaforth,New Seaforth,1/2 Day Twilight,34,"15 Calico Bass, 7 Rockfish, 5 Bonito, 1 Lingcod, 1 Sand Bass"
 oceanside,Chubasco II,3/4 Day,11,"75 Rockfish, 2 Whitefish"
 seaforth,New Seaforth,Full Day,45,"24 Yellowtail, 9 Bluefin Tuna"
@@ -10,10 +11,10 @@ pointloma,Mission Belle,Full Day,21,39 Yellowtail
 seaforth,Sea Watch,Full Day,26,3 Bluefin Tuna
 hmlanding,Vendetta 2,Full Day,18,"54 Yellowtail, 10 Calico Bass"
 hmlanding,Old Glory,Overnight,26,"43 Yellowtail, 20 Bluefin Tuna"
-seaforth,Pacifica,1.5 Day,18,4 Bluefin Tuna
 hmlanding,Ocean Odyssey,1.5 Day,24,"51 Yellowtail, 5 Bluefin Tuna"
-seaforth,Tribute,2.5 Day,11,"35 Bluefin Tuna, 5 Yellowtail"
+seaforth,Pacifica,1.5 Day,18,4 Bluefin Tuna
 seaforth,Highliner,2.5 Day,13,12 Bluefin Tuna
+seaforth,Tribute,2.5 Day,11,"35 Bluefin Tuna, 5 Yellowtail"
 seaforth,Pacific Voyager,3 Day,14,"109 Yellowtail, 49 Bluefin Tuna"
 seaforth,Aztec,3 Day,17,"102 Bluefin Tuna, 76 Yellowtail"
 seaforth,Polaris Supreme,4 Day,24,"145 Yellowtail, 116 Bluefin Tuna"
