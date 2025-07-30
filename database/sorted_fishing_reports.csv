@@ -1,25 +1,26 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 oceanside,Southern Cal,1/2 Day AM,38,"150 Sculpin, 50 Rockfish"
-seaforth,New Seaforth,1/2 Day AM,24,"100 Barracuda Released, 60 Calico Bass Released, 18 Yellowtail, 13 Bonito, 2 Barracuda, 2 Calico Bass"
-fisherman,Dolphin,1/2 Day AM,33,"138 Rockfish, 66 Vermilion Rockfish, 3 Lingcod"
 pointloma,Daily Double,1/2 Day AM,32,"15 Rockfish, 6 Calico Bass, 1 Sheephead"
 hmlanding,Premier,1/2 Day AM,27,"80 Rockfish, 5 Calico Bass, 2 Lingcod, 2 Sheephead, 1 Sculpin"
+fisherman,Dolphin,1/2 Day AM,33,"138 Rockfish, 66 Vermilion Rockfish, 3 Lingcod"
+seaforth,New Seaforth,1/2 Day AM,24,"100 Barracuda Released, 60 Calico Bass Released, 18 Yellowtail, 13 Bonito, 2 Barracuda, 2 Calico Bass"
 seaforth,New Seaforth,1/2 Day PM,48,"80 Barracuda Released, 50 Calico Bass Released, 10 Yellowtail, 9 Calico Bass, 3 Barracuda, 2 Bonito, 1 Whitefish"
+fisherman,Dolphin,1/2 Day PM,31,"92 Rockfish, 62 Vermilion Rockfish, 2 Sheephead"
 hmlanding,Premier,1/2 Day PM,29,"75 Rockfish, 5 Calico Bass"
 seaforth,New Seaforth,1/2 Day Twilight,32,"100 Barracuda Released, 50 Calico Bass Released, 20 Rockfish, 15 Calico Bass, 1 Yellowtail"
 seaforth,El Gato Dos,3/4 Day,6,"12 Vermilion Rockfish, 5 Calico Bass, 1 Yellowtail"
-fisherman,Liberty,Full Day,34,"100 Whitefish, 40 Sculpin, 20 Rockfish, 11 Yellowtail"
 seaforth,San Diego,Full Day,33,1 Yellowtail
 seaforth,Sea Watch,Full Day,26,4 Yellowtail
 pointloma,Mission Belle,Full Day,28,41 Yellowtail
+fisherman,Liberty,Full Day,34,"100 Whitefish, 40 Sculpin, 20 Rockfish, 11 Yellowtail"
 seaforth,Pacifica,1.5 Day,29,36 Bluefin Tuna
 hmlanding,Sea Adventure 80,1.5 Day,28,"91 Yellowtail, 2 Bluefin Tuna"
-hmlanding,Legend,2 Day,19,17 Bluefin Tuna
 fisherman,Pacific Queen,2 Day,26,50 Bluefin Tuna (up to 100 pounds)
-hmlanding,Excalibur,2 Day,22,29 Bluefin Tuna (up to 270 pounds)
+hmlanding,Legend,2 Day,19,17 Bluefin Tuna
 seaforth,Voyager,2 Day,12,120 Yellowtail
 seaforth,Highliner,2 Day,22,33 Bluefin Tuna
-hmlanding,Patriot (SD),2.5 Day,7,27 Bluefin Tuna
+hmlanding,Excalibur,2 Day,22,29 Bluefin Tuna (up to 270 pounds)
 seaforth,Apollo,2.5 Day,15,44 Bluefin Tuna
+hmlanding,Patriot (SD),2.5 Day,7,27 Bluefin Tuna
 hmlanding,Spirit of Adventure,3 Day,25,65 Bluefin Tuna (up to 185 pounds)
 hmlanding,Ranger 85,3.5 Day,28,108 Bluefin Tuna
