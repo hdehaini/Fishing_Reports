@@ -1,20 +1,21 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-hmlanding,Premier,1/2 Day AM,25,"102 Rockfish, 11 Whitefish, 10 Sculpin, 2 Sheephead, 1 Lingcod"
-fisherman,Dolphin,1/2 Day AM,23,"58 Rockfish, 46 Vermilion Rockfish, 2 Lingcod"
 oceanside,Southern Cal,1/2 Day AM,39,"64 Sculpin, 56 Rockfish, 6 Whitefish"
 seaforth,New Seaforth,1/2 Day AM,50,"27 Bonito, 4 Barracuda, 3 Rockfish, 2 Calico Bass, 1 Sculpin, 1 Yellowtail"
+fisherman,Dolphin,1/2 Day AM,23,"58 Rockfish, 46 Vermilion Rockfish, 2 Lingcod"
+hmlanding,Premier,1/2 Day AM,25,"102 Rockfish, 11 Whitefish, 10 Sculpin, 2 Sheephead, 1 Lingcod"
+seaforth,New Seaforth,1/2 Day PM,51,"50 Barracuda Released, 50 Calico Bass Released, 20 Bonito, 14 Calico Bass, 5 Rockfish, 3 Barracuda, 3 Yellowtail, 1 Sand Bass, 1 Sheephead"
 fisherman,Dolphin,1/2 Day PM,11,"73 Rockfish, 22 Vermilion Rockfish, 2 Lingcod (up to 23 pounds), 1 Sheephead (up to 15 pounds)"
 seaforth,New Seaforth,1/2 Day Twilight,26,"22 Rockfish, 5 Bonito, 5 Calico Bass, 2 Sculpin, 1 Barracuda"
-seaforth,San Diego,Full Day,35,"75 Barracuda, 33 Bluefin Tuna, 5 Yellowtail"
-seaforth,Sea Watch,Full Day,25,3 Yellowtail
-fisherman,Liberty,Full Day,40,"93 Whitefish, 42 Yellowtail, 42 Sculpin, 12 Rockfish, 2 Calico Bass, 1 Sheephead"
-hmlanding,Vendetta 2,Full Day,15,"46 Yellowtail, 10 Red Rockfish, 5 Calico Bass, 2 Sculpin"
 pointloma,Mission Belle,Full Day,31,"52 Yellowtail, 5 Calico Bass"
+hmlanding,Vendetta 2,Full Day,15,"46 Yellowtail, 10 Red Rockfish, 5 Calico Bass, 2 Sculpin"
 seaforth,El Gato Dos,Full Day,3,15 Yellowtail
+seaforth,Sea Watch,Full Day,25,3 Yellowtail
+seaforth,San Diego,Full Day,35,"75 Barracuda, 33 Bluefin Tuna, 5 Yellowtail"
+fisherman,Liberty,Full Day,40,"93 Whitefish, 42 Yellowtail, 42 Sculpin, 12 Rockfish, 2 Calico Bass, 1 Sheephead"
 hmlanding,Producer,Overnight,10,4 Yellowtail
 seaforth,Tribute,1.5 Day,30,"3 Yellowtail, 2 Bluefin Tuna"
-seaforth,Pacific Voyager,2 Day,19,"23 Bluefin Tuna, 1 Yellowtail"
 fisherman,Constitution,2 Day,20,31 Bluefin Tuna (up to 160 pounds)
+seaforth,Pacific Voyager,2 Day,19,"23 Bluefin Tuna, 1 Yellowtail"
 hmlanding,Ocean Odyssey,2.5 Day,26,"260 Yellowtail, 2 Bluefin Tuna"
 hmlanding,Poseidon,2.5 Day,25,"21 Bluefin Tuna, 14 Yellowtail"
 fisherman,Fortune,3 Day,14,46 Bluefin Tuna
