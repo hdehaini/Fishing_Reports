@@ -5,15 +5,16 @@ hmlanding,Premier,1/2 Day AM,39,"68 Rockfish, 3 Sand Bass, 2 Sheephead, 1 Sculpi
 oceanside,Blue Horizon,1/2 Day AM,8,"54 Rockfish, 2 Calico Bass"
 oceanside,Southern Cal,1/2 Day AM,30,"80 Sculpin, 30 Rockfish"
 seaforth,New Seaforth,1/2 Day AM,48,"50 Barracuda Released, 50 Calico Bass Released, 8 Yellowtail, 7 Calico Bass, 6 Bonito, 3 Barracuda, 2 Rockfish, 2 Sheephead"
-fisherman,Dolphin,1/2 Day PM,38,"137 Rockfish, 4 Sheephead, 1 Sand Bass"
+hmlanding,Premier,1/2 Day PM,17,"120 Calico Bass Released, 45 Calico Bass, 31 Rockfish, 2 Sculpin"
 seaforth,New Seaforth,1/2 Day PM,47,"100 Calico Bass Released, 26 Calico Bass, 10 Yellowtail, 4 Whitefish, 3 Bonito"
+fisherman,Dolphin,1/2 Day PM,38,"137 Rockfish, 4 Sheephead, 1 Sand Bass"
 seaforth,New Seaforth,1/2 Day Twilight,18,"38 Rockfish, 22 Vermilion Rockfish, 14 Bonito, 5 Sculpin, 2 Calico Bass, 1 Yellowtail"
-pointloma,Mission Belle,Full Day,11,37 Yellowtail
 fisherman,Lucky B Sportfishing,Full Day,3,15 Yellowtail
+seaforth,San Diego,Full Day,35,"53 Yellowtail, 45 Barracuda, 29 Bluefin Tuna, 10 Calico Bass"
+seaforth,Sea Watch,Full Day,25,27 Yellowtail
 fisherman,Liberty,Full Day,37,"44 Whitefish, 38 Yellowtail, 20 Sculpin, 10 Barracuda, 7 Rockfish, 1 Bluefin Tuna"
 hmlanding,Malihini,Full Day,22,"101 Whitefish, 28 Barracuda, 12 Calico Bass, 10 Yellowtail, 3 Rockfish, 2 Bluefin Tuna, 1 Sheephead"
-seaforth,Sea Watch,Full Day,25,27 Yellowtail
-seaforth,San Diego,Full Day,35,"53 Yellowtail, 45 Barracuda, 29 Bluefin Tuna, 10 Calico Bass"
+pointloma,Mission Belle,Full Day,11,37 Yellowtail
 hmlanding,Old Glory,Overnight,32,0
 seaforth,Voyager,1.5 Day,8,16 Bluefin Tuna
 fisherman,Tradition,1.5 Day,10,"35 Barracuda, 7 Yellowtail, 5 Calico Bass"
