@@ -1,22 +1,24 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-hmlanding,Premier,1/2 Day AM,51,151 Sand Bass
+oceanside,Southern Cal,1/2 Day AM,45,"150 Sculpin, 60 Rockfish, 50 Sculpin Released"
 fisherman,Dolphin,1/2 Day AM,55,"208 Sand Bass, 45 Rockfish, 3 Lingcod"
+seaforth,New Seaforth,1/2 Day AM,28,83 Sand Bass
 pointloma,Point Loma,1/2 Day AM,29,"112 Barred Sand Bass, 22 Rockfish, 1 Sheephead"
 pointloma,Daily Double,1/2 Day AM,29,75 Barred Sand Bass
-oceanside,Southern Cal,1/2 Day AM,45,"150 Sculpin, 60 Rockfish, 50 Sculpin Released"
-seaforth,New Seaforth,1/2 Day AM,28,83 Sand Bass
+hmlanding,Premier,1/2 Day AM,51,151 Sand Bass
 hmlanding,Patriot (SD),1/2 Day PM,10,"27 Rockfish, 8 Whitefish"
 seaforth,New Seaforth,1/2 Day Twilight,31,"124 Sand Bass, 1 Sculpin"
 oceanside,Chubasco II,3/4 Day,18,"54 Rockfish, 10 Calico Bass Released, 1 Calico Bass"
-seaforth,San Diego,Full Day,35,125 Yellowtail
 seaforth,Sea Watch,Full Day,18,"35 Yellowtail, 22 Rockfish, 12 Calico Bass"
 seaforth,El Gato Dos,Full Day,6,"18 Yellowtail, 1 Bluefin Tuna"
+hmlanding,Malihini,Full Day,25,0
 pointloma,Mission Belle,Full Day,30,"67 Yellowtail, 10 Barracuda"
+seaforth,San Diego,Full Day,35,125 Yellowtail
 fisherman,Tradition,Overnight,22,97 Yellowtail
 pointloma,Oceanside 95,Overnight,24,"55 Bonito, 30 Calico Bass, 14 Yellowtail"
-seaforth,Pacifica,Overnight,17,"7 Bluefin Tuna, 2 Yellowtail"
-hmlanding,Producer,Overnight,29,8 Bluefin Tuna
 seaforth,Cortez,Overnight,17,1 Yellowtail
+hmlanding,Producer,Overnight,29,8 Bluefin Tuna
+seaforth,Pacifica,Overnight,17,"7 Bluefin Tuna, 2 Yellowtail"
+hmlanding,Daiwa Pacific,Overnight,22,0
 hmlanding,Sea Adventure 80,1.5 Day,18,30 Yellowtail
 seaforth,Voyager,2 Day,11,27 Bluefin Tuna (up to 150 pounds)
 seaforth,Pacific Voyager,3 Day,16,83 Bluefin Tuna (up to 150 pounds)
