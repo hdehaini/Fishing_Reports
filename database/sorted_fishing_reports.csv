@@ -1,32 +1,33 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 oceanside,Southern Cal,1/2 Day AM,38,"100 Sculpin, 70 Rockfish, 40 Sculpin Released"
 oceanside,Chubasco II,1/2 Day AM,24,"105 Rockfish, 15 Whitefish"
-pointloma,Daily Double,1/2 Day AM,36,144 Barred Sand Bass
 seaforth,New Seaforth,1/2 Day AM,49,"30 Calico Bass Released, 7 Calico Bass, 2 Sand Bass, 2 Vermilion Rockfish, 1 Rockfish, 1 Sculpin"
+pointloma,Daily Double,1/2 Day AM,36,144 Barred Sand Bass
 hmlanding,Premier,1/2 Day AM,47,"106 Sand Bass, 1 Barracuda, 1 Sculpin"
 seaforth,New Seaforth,1/2 Day PM,51,204 Sand Bass
+oceanside,Chubasco II,1/2 Day Twilight,14,"12 Calico Bass Released, 6 Sand Bass, 6 Rockfish, 4 Sand Bass Released, 3 Calico Bass, 2 Whitefish, 2 Sculpin"
 fisherman,Dolphin,1/2 Day Twilight,52,"208 Sand Bass, 45 Rockfish"
 hmlanding,Premier,1/2 Day Twilight,37,148 Sand Bass
 seaforth,New Seaforth,1/2 Day Twilight,50,"192 Sand Bass, 1 Sculpin"
-seaforth,San Diego,Full Day,32,41 Yellowtail
+fisherman,Dolphin,Full Day,20,23 Yellowtail
 hmlanding,Grande,Full Day,40,"90 Whitefish, 24 Yellowtail, 16 Rockfish"
-pointloma,Mission Belle,Full Day,27,"7 Yellowtail, 5 Rockfish"
+seaforth,San Diego,Full Day,32,41 Yellowtail
 hmlanding,Malihini,Full Day,18,"80 Whitefish, 11 Yellowtail, 8 Rockfish, 1 Sculpin, 1 Sheephead"
+pointloma,Mission Belle,Full Day,27,"7 Yellowtail, 5 Rockfish"
 seaforth,El Gato Dos,Full Day,3,10 Yellowtail
 seaforth,Sea Watch,Full Day,26,"24 Yellowtail, 9 Barracuda, 6 Calico Bass"
-fisherman,Dolphin,Full Day,20,23 Yellowtail
 fisherman,Pacific Queen,Overnight,33,10 Bluefin Tuna
-hmlanding,Producer,Overnight,29,5 Bluefin Tuna
 hmlanding,Patriot (SD),Overnight,12,"24 Rockfish, 5 Yellowtail"
 hmlanding,Old Glory,Overnight,19,10 Bluefin Tuna
+hmlanding,Producer,Overnight,29,5 Bluefin Tuna
 hmlanding,Horizon,1.5 Day,27,54 Bluefin Tuna
-seaforth,Tribute,2 Day,25,"23 Bluefin Tuna, 2 Yellowtail"
 fisherman,Fortune,2 Day,17,68 Bluefin Tuna
 fisherman,Liberty,2 Day,23,80 Bluefin Tuna
+seaforth,Tribute,2 Day,25,"23 Bluefin Tuna, 2 Yellowtail"
 seaforth,Highliner,2 Day,22,"55 Bluefin Tuna, 50 Barracuda, 9 Yellowtail"
 seaforth,Aztec,2 Day,25,100 Bluefin Tuna
-hmlanding,Ocean Odyssey,2.5 Day,19,"25 Yellowtail, 1 Bluefin Tuna"
 pointloma,El Capitan,2.5 Day,11,32 Bluefin Tuna (up to 80 pounds)
+hmlanding,Ocean Odyssey,2.5 Day,19,"25 Yellowtail, 1 Bluefin Tuna"
 pointloma,New Lo-An,2.5 Day,25,100 Bluefin Tuna (up to 200 pounds)
 hmlanding,Excalibur,3 Day,28,104 Bluefin Tuna
 fisherman,Pacific Dawn,3 Day,12,72 Bluefin Tuna
