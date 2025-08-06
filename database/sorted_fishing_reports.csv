@@ -1,17 +1,18 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-seaforth,New Seaforth,1/2 Day AM,24,"96 Sand Bass, 30 Barracuda Released, 24 Calico Bass, 1 Barracuda, 1 Rockfish, 1 Sculpin, 1 Sheephead"
-pointloma,Daily Double,1/2 Day AM,20,"53 Barred Sand Bass, 2 Sculpin"
-fisherman,Dolphin,1/2 Day AM,31,102 Sand Bass
 oceanside,Southern Cal,1/2 Day AM,19,"78 Rockfish, 10 Whitefish"
+seaforth,New Seaforth,1/2 Day AM,24,"96 Sand Bass, 30 Barracuda Released, 24 Calico Bass, 1 Barracuda, 1 Rockfish, 1 Sculpin, 1 Sheephead"
+fisherman,Dolphin,1/2 Day AM,31,102 Sand Bass
+pointloma,Daily Double,1/2 Day AM,20,"53 Barred Sand Bass, 2 Sculpin"
 seaforth,New Seaforth,1/2 Day PM,27,"50 Calico Bass Released, 28 Calico Bass, 3 Sand Bass, 1 Barracuda, 1 Bonito"
 seaforth,New Seaforth,1/2 Day Twilight,25,100 Sand Bass
 seaforth,San Diego,Full Day,35,129 Yellowtail
 seaforth,Sea Watch,Full Day,16,26 Yellowtail
-seaforth,Tribute,Overnight,30,4 Bluefin Tuna
 hmlanding,Old Glory,Overnight,14,28 Bluefin Tuna
+seaforth,Tribute,Overnight,30,4 Bluefin Tuna
 fisherman,Pacific Dawn,1.5 Day,17,15 Bluefin Tuna
 seaforth,Pacifica,2 Day,26,16 Bluefin Tuna
-hmlanding,Excalibur,2 Day,28,34 Bluefin Tuna (up to 150 pounds)
 fisherman,Fortune,2 Day,10,30 Bluefin Tuna
+hmlanding,Excalibur,2 Day,28,34 Bluefin Tuna (up to 150 pounds)
+seaforth,Highliner,2 Day,25,"121 Whitefish, 12 Sculpin, 6 Sheephead, 4 Bluefin Tuna, 1 Yellowtail"
 seaforth,Pacific Voyager,3 Day,15,75 Bluefin Tuna (up to 170 pounds)
 fisherman,Islander,3.5 Day,16,51 Bluefin Tuna
