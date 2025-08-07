@@ -1,26 +1,27 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 oceanside,Southern Cal,1/2 Day AM,36,"30 Whitefish, 10 Rockfish"
 seaforth,New Seaforth,1/2 Day AM,45,115 Sand Bass
-fisherman,Dolphin,1/2 Day AM,42,0
 pointloma,Daily Double,1/2 Day AM,12,"21 Barred Sand Bass, 3 Sculpin"
+fisherman,Dolphin,1/2 Day AM,42,0
 oceanside,Chubasco II,1/2 Day AM,12,"20 Calico Bass Released, 10 Calico Bass"
-fisherman,Dolphin,1/2 Day PM,20,"100 Calico Bass Released, 39 Calico Bass, 1 Yellowtail, 1 Bonito, 1 Sculpin, 1 Sheephead, 1 Whitefish, 1 Cabezon"
+seaforth,New Seaforth,1/2 Day PM,39,"10 Sand Bass, 5 Calico Bass, 4 Bonito, 1 Rockfish"
 pointloma,Daily Double,1/2 Day PM,12,"24 Sheephead, 10 Calico Bass, 6 Rockfish"
 hmlanding,Premier,1/2 Day PM,31,"30 Calico Bass, 7 Rockfish, 1 Halibut (up to 15 pounds)"
-seaforth,New Seaforth,1/2 Day PM,39,"10 Sand Bass, 5 Calico Bass, 4 Bonito, 1 Rockfish"
+fisherman,Dolphin,1/2 Day PM,20,"100 Calico Bass Released, 39 Calico Bass, 1 Yellowtail, 1 Bonito, 1 Sculpin, 1 Sheephead, 1 Whitefish, 1 Cabezon"
 seaforth,New Seaforth,1/2 Day Twilight,18,72 Sand Bass
 fisherman,Liberty,3/4 Day,40,"52 Whitefish, 32 Yellowtail, 4 Sculpin"
-seaforth,Sea Watch,Full Day,25,44 Yellowtail
 pointloma,Mission Belle,Full Day,31,41 Yellowtail
 pointloma,Point Loma,Full Day,16,"40 Yellowtail, 7 Barracuda"
 seaforth,San Diego,Full Day,35,85 Yellowtail
+seaforth,Sea Watch,Full Day,25,44 Yellowtail
 hmlanding,Producer,Overnight,20,"18 Bluefin Tuna, 2 Yellowtail"
-seaforth,Voyager,1.5 Day,15,7 Bluefin Tuna (up to 170 pounds)
 seaforth,Pacifica,1.5 Day,28,19 Bluefin Tuna
+seaforth,Voyager,1.5 Day,15,7 Bluefin Tuna (up to 170 pounds)
 seaforth,Polaris Supreme,2 Day,24,"96 Bluefin Tuna, 26 Yellowtail"
-hmlanding,Ocean Odyssey,2.5 Day,26,37 Bluefin Tuna
-seaforth,Aztec,2.5 Day,15,47 Bluefin Tuna
 seaforth,Apollo,2.5 Day,18,31 Bluefin Tuna
+hmlanding,Nautilus,2.5 Day,4,7 Bluefin Tuna
+seaforth,Aztec,2.5 Day,15,47 Bluefin Tuna
+hmlanding,Ocean Odyssey,2.5 Day,26,37 Bluefin Tuna
 pointloma,New Lo-An,3 Day,18,"40 Bluefin Tuna (up to 200 pounds), 1 Yellowtail"
 hmlanding,Grande,,30,"36 Yellowtail, 26 Whitefish, 2 Sculpin, 2 Calico Bass"
 hmlanding,Vendetta 2,,12,0
