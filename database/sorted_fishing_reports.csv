@@ -1,11 +1,12 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 oceanside,Southern Cal,1/2 Day AM,36,"30 Whitefish, 10 Rockfish"
+pointloma,Daily Double,1/2 Day AM,12,"21 Barred Sand Bass, 3 Sculpin"
 oceanside,Chubasco II,1/2 Day AM,12,"20 Calico Bass Released, 10 Calico Bass"
 fisherman,Dolphin,1/2 Day AM,42,0
 seaforth,New Seaforth,1/2 Day AM,45,115 Sand Bass
-seaforth,New Seaforth,1/2 Day PM,39,"10 Sand Bass, 5 Calico Bass, 4 Bonito, 1 Rockfish"
 hmlanding,Premier,1/2 Day PM,31,"30 Calico Bass, 7 Rockfish, 1 Halibut (up to 15 pounds)"
 fisherman,Dolphin,1/2 Day PM,20,"100 Calico Bass Released, 39 Calico Bass, 1 Yellowtail, 1 Bonito, 1 Sculpin, 1 Sheephead, 1 Whitefish, 1 Cabezon"
+seaforth,New Seaforth,1/2 Day PM,39,"10 Sand Bass, 5 Calico Bass, 4 Bonito, 1 Rockfish"
 seaforth,New Seaforth,1/2 Day Twilight,18,72 Sand Bass
 fisherman,Liberty,3/4 Day,40,"52 Whitefish, 32 Yellowtail, 4 Sculpin"
 seaforth,San Diego,Full Day,35,85 Yellowtail
