@@ -1,17 +1,19 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
+oceanside,Southern Cal,1/2 Day AM,20,"65 Whitefish, 30 Sand Bass Released, 30 Barracuda Released, 5 Rockfish, 3 Sand Bass, 2 Sheephead"
 seaforth,New Seaforth,1/2 Day AM,27,"100 Calico Bass Released, 17 Calico Bass, 3 Bonito, 3 Yellowtail, 1 Sculpin"
+oceanside,Pronto,1/2 Day AM,8,"55 Rockfish, 1 Lingcod"
 hmlanding,Premier,1/2 Day AM,15,"60 Sand Bass, 5 Sheephead, 2 Calico Bass"
 seaforth,New Seaforth,1/2 Day PM,46,"150 Calico Bass Released, 100 Barracuda Released, 43 Calico Bass, 3 Barracuda, 2 Yellowtail, 1 Bonito, 1 Rockfish, 1 Sand Bass"
 seaforth,New Seaforth,1/2 Day Twilight,29,"40 Calico Bass Released, 25 Rockfish, 20 Barracuda Released, 10 Calico Bass, 4 Yellowtail, 1 Barracuda"
 seaforth,San Diego,Full Day,33,45 Yellowtail
 seaforth,Sea Watch,Full Day,25,"31 Yellowtail, 5 Bluefin Tuna"
-pointloma,Mission Belle,Full Day,30,55 Yellowtail
 fisherman,Liberty,Full Day,39,"100 Rockfish, 25 Yellowtail, 1 Barracuda"
+pointloma,Mission Belle,Full Day,30,55 Yellowtail
 hmlanding,Old Glory,Overnight,25,3 Yellowtail
-seaforth,Highliner,1.5 Day,20,"72 Yellowtail, 4 Sculpin, 1 Halibut"
-hmlanding,Excalibur,1.5 Day,20,34 Yellowtail
-hmlanding,Lucky Charm,1.5 Day,10,"150 Rockfish, 20 Red Rockfish, 3 Bluefin Tuna"
 hmlanding,Sea Adventure 80,1.5 Day,23,0
-hmlanding,Producer,2.5 Day,28,"120 Whitefish, 50 Red Rockfish, 5 Bluefin Tuna (up to 200 pounds), 2 Yellowtail, 2 Bonito"
+hmlanding,Lucky Charm,1.5 Day,10,"150 Rockfish, 20 Red Rockfish, 3 Bluefin Tuna"
+hmlanding,Excalibur,1.5 Day,20,34 Yellowtail
+seaforth,Highliner,1.5 Day,20,"72 Yellowtail, 4 Sculpin, 1 Halibut"
 hmlanding,Relentless,2.5 Day,10,0
+hmlanding,Producer,2.5 Day,28,"120 Whitefish, 50 Red Rockfish, 5 Bluefin Tuna (up to 200 pounds), 2 Yellowtail, 2 Bonito"
 hmlanding,Malihini,,36,"26 Yellowtail, 6 Calico Bass, 5 Sculpin, 4 Whitefish, 2 Sand Bass, 2 Red Rockfish, 1 Rockfish, 1 Lingcod"
