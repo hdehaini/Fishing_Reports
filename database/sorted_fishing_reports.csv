@@ -10,15 +10,16 @@ seaforth,New Seaforth,1/2 Day PM,24,"35 Calico Bass, 6 Whitefish, 4 Sheephead, 2
 seaforth,New Seaforth,1/2 Day Twilight,21,"50 Calico Bass Released, 15 Rockfish, 8 Sand Bass, 7 Calico Bass, 5 Sand Bass Released, 2 Yellowtail"
 hmlanding,Malihini,Full Day,30,"13 Yellowtail, 7 Bluefin Tuna"
 pointloma,Mission Belle,Full Day,16,"29 Yellowtail, 15 Bluefin Tuna"
+seaforth,Aztec,Overnight,28,"50 Yellowtail, 33 Bluefin Tuna"
 hmlanding,Old Glory,Overnight,15,30 Bluefin Tuna
 hmlanding,Producer,Overnight,14,"10 Yellowtail, 5 Bluefin Tuna"
-seaforth,Aztec,Overnight,28,"50 Yellowtail, 33 Bluefin Tuna"
-hmlanding,Poseidon,1.5 Day,24,2 Bluefin Tuna
-fisherman,Tomahawk,1.5 Day,23,7 Bluefin Tuna (up to 190 pounds)
-seaforth,Voyager,1.5 Day,10,9 Bluefin Tuna
 pointloma,El Capitan,1.5 Day,18,"20 Yellowtail, 14 Bluefin Tuna, 1 Dorado, 1 Bonito"
-seaforth,Apollo,2 Day,14,"98 Yellowtail, 55 Calico Bass, 50 Barracuda, 9 Bluefin Tuna"
+seaforth,Voyager,1.5 Day,10,9 Bluefin Tuna
+hmlanding,Spirit of Adventure,1.5 Day,22,0
+fisherman,Tomahawk,1.5 Day,23,7 Bluefin Tuna (up to 190 pounds)
+hmlanding,Poseidon,1.5 Day,24,2 Bluefin Tuna
 fisherman,Constitution,2 Day,20,0
+seaforth,Apollo,2 Day,14,"98 Yellowtail, 55 Calico Bass, 50 Barracuda, 9 Bluefin Tuna"
 hmlanding,Relentless,2.5 Day,18,0
 seaforth,Pacific Voyager,3 Day,15,"52 Yellowtail, 24 Bluefin Tuna"
 pointloma,New Lo-An,3 Day,18,"108 Bluefin Tuna (up to 150 pounds), 90 Sheephead, 7 Yellowtail"
