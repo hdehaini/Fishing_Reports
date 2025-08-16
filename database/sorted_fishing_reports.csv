@@ -1,20 +1,21 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 oceanside,Southern Cal,1/2 Day AM,19,"75 Rockfish, 55 Sculpin"
-seaforth,Voyager,1/2 Day AM,9,"75 Calico Bass Released, 21 Calico Bass, 1 Yellowtail"
 hmlanding,Premier,1/2 Day AM,22,"88 Sand Bass, 75 Sand Bass Released, 6 Calico Bass, 1 Sheephead, 1 Rockfish"
 seaforth,New Seaforth,1/2 Day AM,40,"13 Calico Bass, 6 Sheephead, 2 Rockfish, 2 Whitefish, 2 Yellowtail"
-hmlanding,Premier,1/2 Day PM,21,"100 Calico Bass Released, 25 Calico Bass, 17 Rockfish, 1 Lingcod, 1 Sculpin"
+seaforth,Voyager,1/2 Day AM,9,"75 Calico Bass Released, 21 Calico Bass, 1 Yellowtail"
 seaforth,New Seaforth,1/2 Day PM,35,"47 Calico Bass, 10 Rockfish, 10 Sheephead, 3 Whitefish, 1 Yellowtail"
+hmlanding,Premier,1/2 Day PM,21,"100 Calico Bass Released, 25 Calico Bass, 17 Rockfish, 1 Lingcod, 1 Sculpin"
 seaforth,New Seaforth,1/2 Day Twilight,30,"100 Calico Bass Released, 25 Rockfish, 20 Calico Bass, 10 Sand Bass Released, 6 Sand Bass, 2 Yellowtail"
-oceanside,Chubasco II,1/2 Day Twilight,19,"50 Bonito, 21 Calico Bass, 20 Calico Bass Released, 12 Sand Bass Released, 5 Sand Bass, 5 Rockfish, 3 Sculpin, 2 Whitefish, 1 Sheephead"
 hmlanding,Alicia,1/2 Day Twilight,9,"35 Spotted Sand Bass, 35 Spotted Sand Bass Released, 10 Sand Bass, 10 Calico Bass, 10 Sand Bass Released, 10 Calico Bass Released, 8 Halibut, 8 Halibut Released"
+oceanside,Chubasco II,1/2 Day Twilight,19,"50 Bonito, 21 Calico Bass, 20 Calico Bass Released, 12 Sand Bass Released, 5 Sand Bass, 5 Rockfish, 3 Sculpin, 2 Whitefish, 1 Sheephead"
+hmlanding,Premier,1/2 Day Twilight,12,"35 Sand Bass, 13 Calico Bass"
 hmlanding,Malihini,3/4 Day,35,"80 Rockfish, 53 Red Rockfish, 5 Sheephead, 4 Calico Bass, 3 Whitefish"
 oceanside,Chubasco II,3/4 Day,10,"75 Rockfish, 35 Calico Bass Released, 15 Calico Bass"
 fisherman,Dolphin,Full Day,26,"42 Rockfish, 30 Yellowtail, 17 Calico Bass, 6 Barracuda, 1 Bluefin Tuna"
-fisherman,Lucky B Sportfishing,Full Day,4,8 Bluefin Tuna
+pointloma,Point Loma,Full Day,18,"35 Whitefish, 5 Yellowtail, 2 Sheephead, 2 Lingcod, 1 Calico Bass, 1 Barred Sand Bass"
 hmlanding,Nautilus,Full Day,2,5 Yellowtail
 pointloma,Mission Belle,Full Day,23,0
-pointloma,Point Loma,Full Day,18,"35 Whitefish, 5 Yellowtail, 2 Sheephead, 2 Lingcod, 1 Calico Bass, 1 Barred Sand Bass"
+fisherman,Lucky B Sportfishing,Full Day,4,8 Bluefin Tuna
 fisherman,Liberty,Overnight,34,"32 Bluefin Tuna, 15 Yellowtail"
 hmlanding,Producer,Overnight,29,42 Bluefin Tuna
 seaforth,Apollo,Overnight,22,3 Bluefin Tuna
