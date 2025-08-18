@@ -2,6 +2,7 @@ Source,Boat Name,Trip Type,Anglers,Fish Count
 seaforth,New Seaforth,1/2 Day AM,52,"100 Calico Bass Released, 33 Calico Bass, 7 Yellowtail, 2 Sand Bass, 2 Whitefish, 1 Sheephead, 1 Vermilion Rockfish"
 pointloma,Daily Double,1/2 Day AM,31,"27 Calico Bass, 18 Rockfish, 8 Barred Sand Bass, 5 Sheephead, 4 Whitefish"
 hmlanding,Premier,1/2 Day AM,53,"51 Rockfish, 34 Sand Bass"
+fisherman,Dolphin,1/2 Day AM,55,"34 Rockfish, 33 Sand Bass, 7 Sheephead, 5 Sculpin"
 seaforth,New Seaforth,1/2 Day PM,52,"150 Calico Bass Released, 47 Calico Bass, 9 Bonito, 7 Sheephead, 2 Yellowtail"
 seaforth,New Seaforth,1/2 Day Twilight,52,"80 Calico Bass Released, 45 Rockfish, 10 Sculpin, 5 Calico Bass, 4 Sand Bass, 3 Bonito, 3 Whitefish, 3 Yellowtail, 1 Sheephead"
 hmlanding,Premier,1/2 Day Twilight,36,"53 Sand Bass, 10 Whitefish, 2 Sculpin"
@@ -9,10 +10,10 @@ oceanside,Chubasco II,3/4 Day,15,"76 Rockfish, 40 Calico Bass Released, 15 Bonit
 pointloma,Mission Belle,3/4 Day,26,"7 Yellowtail, 1 Bluefin Tuna"
 hmlanding,Producer,Overnight,29,0
 hmlanding,Old Glory,Overnight,36,"49 Bluefin Tuna, 1 Yellowtail"
-pointloma,Oceanside 95,1.5 Day,18,"36 Bluefin Tuna, 1 Yellowtail"
 hmlanding,Daiwa Pacific,1.5 Day,21,0
 seaforth,Pacifica,1.5 Day,28,31 Bluefin Tuna
 seaforth,Highliner,1.5 Day,22,"44 Bluefin Tuna, 3 Yellowtail"
+pointloma,Oceanside 95,1.5 Day,18,"36 Bluefin Tuna, 1 Yellowtail"
 seaforth,Tribute,2 Day,19,66 Bluefin Tuna
 pointloma,El Capitan,2 Day,18,50 Bluefin Tuna (up to 100 pounds)
 hmlanding,Horizon,2 Day,27,80 Bluefin Tuna
