@@ -1,12 +1,13 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-oceanside,Chubasco II,1/2 Day AM,9,"45 Sculpin, 40 Rockfish"
-seaforth,New Seaforth,1/2 Day AM,49,"100 Calico Bass Released, 30 Bonito, 27 Calico Bass, 13 Sheephead, 10 Whitefish, 5 Sand Bass, 2 Sculpin, 2 Yellowtail, 1 Barracuda, 1 Vermilion Rockfish"
 hmlanding,Premier,1/2 Day AM,12,"34 Sand Bass, 6 Calico Bass, 3 Rockfish"
+seaforth,New Seaforth,1/2 Day AM,49,"100 Calico Bass Released, 30 Bonito, 27 Calico Bass, 13 Sheephead, 10 Whitefish, 5 Sand Bass, 2 Sculpin, 2 Yellowtail, 1 Barracuda, 1 Vermilion Rockfish"
+oceanside,Chubasco II,1/2 Day AM,9,"45 Sculpin, 40 Rockfish"
 seaforth,New Seaforth,1/2 Day PM,7,"30 Calico Bass Released, 13 Calico Bass, 1 Rockfish, 1 Whitefish, 1 Yellowtail"
 seaforth,New Seaforth,1/2 Day Twilight,51,"80 Calico Bass Released, 35 Rockfish, 20 Barracuda Released, 12 Calico Bass, 7 Vermilion Rockfish, 1 Barracuda, 1 Sand Bass"
+pointloma,Point Loma,Full Day,15,"5 Yellowtail, 1 Bluefin Tuna"
 fisherman,Liberty,Full Day,24,"28 Bluefin Tuna, 13 Yellowtail"
-hmlanding,Producer,Overnight,27,45 Yellowtail
 hmlanding,Old Glory,Overnight,30,"49 Bluefin Tuna, 2 Yellowtail"
+hmlanding,Producer,Overnight,27,45 Yellowtail
 hmlanding,Patriot (SD),1.5 Day,9,"11 Yellowtail, 6 Bluefin Tuna"
 fisherman,Pacific Dawn,2 Day,18,"22 Bluefin Tuna, 3 Yellowtail"
 hmlanding,Ocean Odyssey,2.5 Day,23,92 Bluefin Tuna
