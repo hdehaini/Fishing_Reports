@@ -77,7 +77,9 @@ $(document).ready(function () {
   }
 
   // History: populate date selector and enable loading previous days
-  const historyUrl = "database/reports_history.csv";
+  // Use absolute URL to avoid base-path/CORS issues on mobile
+  const historyUrl =
+    "https://hdehaini.github.io/Fishing_Reports/database/reports_history.csv";
   const dateSelect = document.getElementById("reportDateSelect");
 
   function parseCsv(text) {
@@ -145,7 +147,8 @@ $(document).ready(function () {
       const fish = stripOuterQuotes(r[5]);
       table.row.add([r[1], r[2], r[3], r[4], fish]);
     });
-    table.draw();
+    // Ensure trip-type sort is applied after data replacement
+    table.order([[2, "asc"]]).draw();
     // Rebuild filters from new data
     buildTripTypeFilters();
     buildFishFilters();
@@ -166,8 +169,18 @@ $(document).ready(function () {
         loadDateIntoTable(rows, dateSelect.value);
       });
     })
-    .catch(() => {
+    .catch((err) => {
       // If history CSV unavailable, keep current page data
+      if (dateSelect) {
+        dateSelect.innerHTML = "";
+        const opt = document.createElement("option");
+        opt.value = "";
+        opt.textContent = "No history available";
+        opt.disabled = true;
+        opt.selected = true;
+        dateSelect.appendChild(opt);
+      }
+      console.warn("History CSV fetch failed:", err);
     });
 
   // Build Fish Species filter checkboxes dynamically from Fish Count text
