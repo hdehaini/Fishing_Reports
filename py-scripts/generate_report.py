@@ -3,6 +3,9 @@ from datetime import datetime
 import pandas as pd
 import pytz
 
+# Project root: one level up from this file's directory
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
 
 def ensure_directory_exists(filename):
     """Ensure the directory exists. If not, create it."""
@@ -12,9 +15,13 @@ def ensure_directory_exists(filename):
 
 
 def save_to_csv(df, filename):
-    ensure_directory_exists(filename)  # Ensure the directory exists
-    df.to_csv(filename, index=False)
-    print(f"Saved sorted data to {filename}")
+    # Resolve to project root if relative path provided
+    full_path = (
+        filename if os.path.isabs(filename) else os.path.join(PROJECT_ROOT, filename)
+    )
+    ensure_directory_exists(full_path)
+    df.to_csv(full_path, index=False)
+    print(f"Saved sorted data to {full_path}")
 
 
 def append_averages_to_csv(averages, filename):
@@ -31,7 +38,12 @@ def append_averages_to_csv(averages, filename):
         print(f"Current time: {current_time}")
         # Check if the CSV file exists and has entries
         try:
-            df = pd.read_csv(filename)
+            full_path = (
+                filename
+                if os.path.isabs(filename)
+                else os.path.join(PROJECT_ROOT, filename)
+            )
+            df = pd.read_csv(full_path)
             if not df.empty:
                 last_entry_date = pd.to_datetime(df["Date"].iloc[-1]).date()
                 # Check if the last entry is today's date
@@ -47,7 +59,14 @@ def append_averages_to_csv(averages, filename):
         data = {"Date": today}
         data.update(averages)
         df = pd.DataFrame([data])
-        with open(filename, "a") as f:
+        # Ensure output directory and write/append at project root
+        full_path = (
+            filename
+            if os.path.isabs(filename)
+            else os.path.join(PROJECT_ROOT, filename)
+        )
+        ensure_directory_exists(full_path)
+        with open(full_path, "a") as f:
             df.to_csv(f, header=f.tell() == 0, index=False)
         print("Averages recorded.")
     else:
@@ -57,9 +76,12 @@ def append_averages_to_csv(averages, filename):
 
 
 def generate_html(df, averages, title_date, template_path, output_path):
-    # Assuming the script is run from within the py-scripts directory, adjust accordingly if not
-    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    full_template_path = os.path.join(project_root, template_path)
+    # Resolve template and output paths relative to project root
+    full_template_path = (
+        template_path
+        if os.path.isabs(template_path)
+        else os.path.join(PROJECT_ROOT, template_path)
+    )
 
     try:
         with open(full_template_path, "r") as file:
@@ -101,5 +123,49 @@ def generate_html(df, averages, title_date, template_path, output_path):
     # Insert the date into the template
     html_content = html_content.replace("<!--DATE-->", title_date)
 
-    with open(output_path, "w") as file:
+    full_output_path = (
+        output_path
+        if os.path.isabs(output_path)
+        else os.path.join(PROJECT_ROOT, output_path)
+    )
+    ensure_directory_exists(full_output_path)
+    with open(full_output_path, "w") as file:
         file.write(html_content)
+    print(f"Generated HTML report at {full_output_path}")
+
+
+def append_reports_history(df: pd.DataFrame, report_date, filename: str):
+    """Append the day's full report rows to a history CSV as normalized records.
+
+    - report_date: datetime.date object representing the report day
+    - filename: relative or absolute path to CSV (columns: Date, Source, Boat Name, Trip Type, Anglers, Fish Count)
+    """
+    full_path = (
+        filename if os.path.isabs(filename) else os.path.join(PROJECT_ROOT, filename)
+    )
+    ensure_directory_exists(full_path)
+
+    # Normalize data
+    out_df = df.copy()
+    out_df.insert(0, "Date", pd.to_datetime(report_date).date().isoformat())
+
+    # Keep only expected columns (if present)
+    expected_cols = [
+        "Date",
+        "Source",
+        "Boat Name",
+        "Trip Type",
+        "Anglers",
+        "Fish Count",
+    ]
+    out_df = out_df[[c for c in expected_cols if c in out_df.columns]]
+
+    # If file exists, drop any existing rows for this date to avoid duplication
+    try:
+        existing = pd.read_csv(full_path)
+        existing = existing[existing["Date"] != report_date.isoformat()]
+        combined = pd.concat([existing, out_df], ignore_index=True)
+        combined.to_csv(full_path, index=False)
+    except FileNotFoundError:
+        out_df.to_csv(full_path, index=False)
+    print(f"Appended {len(out_df)} rows to {full_path}")
