@@ -19,41 +19,19 @@
     </div>
 
     <div class="filter-section">
+        <div class="filter-group date-filter">
+            <label for="reportDateSelect">View reports for date:</label>
+            <select id="reportDateSelect" class="date-select"></select>
+        </div>
         <div class="filter-group">
-            <label class="trip-filter">Filter by Trip Type:</label>
+            <span class="trip-filter">Filter by Trip Type:</span>
             <div id="tripTypeFilter" class="filter-options">
-                <label><input type="checkbox" value="1/2 Day AM"> 1/2 Day AM</label>
-                <label><input type="checkbox" value="1/2 Day PM"> 1/2 Day PM</label>
-                <label><input type="checkbox" value="1/2 Day Twilight"> 1/2 Day Twilight</label>
-                <label><input type="checkbox" value="3/4 Day"> 3/4 Day</label>
-                <label><input type="checkbox" value="Full Day"> Full Day</label>
-                <label><input type="checkbox" value="Overnight"> Overnight</label>
-                <label><input type="checkbox" value="1.5 Day"> 1.5 Day</label>
-                <label><input type="checkbox" value="2 Day"> 2 Day</label>
-                <label><input type="checkbox" value="2.5 Day"> 2.5 Day</label>
-                <label><input type="checkbox" value="3 Day"> 3 Day</label>
-                <label><input type="checkbox" value="3.5 Day"> 3.5 Day</label>
-                <label><input type="checkbox" value="4 Day"> 4 Day</label>
-                <!-- Add more options as needed -->
             </div>
         </div>
         
         <div class="filter-group">
-            <label class="fish-count-filter">Filter by Fish Count:</label>
+            <span class="fish-count-filter">Filter by Fish Count:</span>
             <div id="fishCountFilter" class="filter-options">
-                <label><input type="checkbox" value="Yellowtail"> Yellowtail</label>
-                <label><input type="checkbox" value="Bluefin Tuna"> Bluefin Tuna</label>
-                <label><input type="checkbox" value="Yellowfin Tuna"> Yellowfin Tuna</label>
-                <label><input type="checkbox" value="Dorado"> Dorado</label>
-                <label><input type="checkbox" value="Rockfish"> Rockfish</label>
-                <label><input type="checkbox" value="Sanddab"> Sanddab</label>
-                <label><input type="checkbox" value="Calico Bass"> Calico Bass</label>
-                <label><input type="checkbox" value="Sand Bass"> Sand Bass</label>
-                <label><input type="checkbox" value="Halibut"> Halibut</label>
-                <label><input type="checkbox" value="Lingcod"> Lingcod</label>
-                <label><input type="checkbox" value="Barracuda"> Barracuda</label>
-                <label><input type="checkbox" value="Sculpin"> Sculpin</label>
-                <!-- Add more options as needed -->
             </div>
         </div>
     </div>
@@ -73,9 +51,7 @@
         </tbody>
     </table>
 
-    <!-- <div class="navbar">
-        <a class="chartLink" href="/webpages/charts.html">Charts</a>
-    </div> -->
+    
 
     <div class="filter-group">
         <label><input type="checkbox" name="fishType" value="Yellowtail" checked> Yellowtail</label>

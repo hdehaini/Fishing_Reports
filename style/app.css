@@ -166,6 +166,64 @@ table.dataTable tbody td {
     margin-right: 10px;
 }
 
+/* Date selector styling */
+.date-filter {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.date-filter label {
+    margin: 0;
+}
+
+.date-select,
+.date-filter select.date-select,
+#reportDateSelect.date-select {
+    appearance: none !important;
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    padding: 8px 36px 8px 12px !important;
+    border: 2px solid #415a77 !important;
+    border-radius: 6px !important;
+    background: rgba(255, 255, 255, 0.95) url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="%23415a77" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>') no-repeat right 8px center !important;
+    background-size: 18px !important;
+    color: #1b263b !important;
+    font-size: 0.95em !important;
+    min-width: 220px !important;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1) !important;
+    height: 38px !important;
+    line-height: 22px !important;
+}
+
+.date-select:hover,
+.date-filter select.date-select:hover,
+#reportDateSelect.date-select:hover {
+    border-color: #2a6f97 !important;
+}
+
+.date-select:focus,
+.date-filter select.date-select:focus,
+#reportDateSelect.date-select:focus {
+    outline: none !important;
+    box-shadow: 0 0 0 3px rgba(42, 111, 151, 0.25) !important;
+    border-color: #2a6f97 !important;
+}
+
+/* Hide default dropdown arrow in old IE/Edge */
+select.date-select::-ms-expand { display: none; }
+
+@media (max-width: 768px) {
+    .date-filter {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    .date-select {
+        min-width: 0;
+        width: 100%;
+    }
+}
+
 .navbar {
     position: fixed;  /* Fixes the navbar at the top of the viewport */
     bottom: 0;           /* Aligns the navbar at the very top */
