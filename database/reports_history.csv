@@ -99,12 +99,6 @@ Date,Source,Boat Name,Trip Type,Anglers,Fish Count
 2025-08-30,fisherman,Tradition,Overnight,18,0
 2025-08-30,seaforth,Pacifica,1.5 Day,10,"6 Bluefin Tuna, 1 Yellowtail"
 2025-08-30,hmlanding,Patriot (SD),1.5 Day,12,6 Yellowtail
-2025-09-01,pointloma,El Capitan,2.5 Day,18,"27 Yellowtail (up to 48 pounds), 7 Calico Bass"
-2025-09-01,hmlanding,Excalibur,2.5 Day,23,"45 Whitefish, 38 Bluefin Tuna, 20 Sheephead, 2 Cabezon"
-2025-09-01,hmlanding,Horizon,2.5 Day,25,"17 Bluefin Tuna, 10 Bonito"
-2025-09-01,pointloma,Oceanside 95,2.5 Day,11,44 Bluefin Tuna (up to 160 pounds)
-2025-09-01,hmlanding,Spirit of Adventure,2.5 Day,25,46 Bluefin Tuna
-2025-09-01,hmlanding,Ranger 85,3 Day,23,94 Bluefin Tuna
 2025-08-31,fisherman,Dolphin,1/2 Day AM,56,"75 Calico Bass Released, 54 Rockfish, 15 Calico Bass, 15 Sculpin, 12 Sheephead, 2 Halibut"
 2025-08-31,seaforth,New Seaforth,1/2 Day AM,48,"50 Calico Bass Released, 30 Calico Bass, 11 Sand Bass, 1 Halibut, 1 Rockfish, 1 Yellowtail"
 2025-08-31,oceanside,Sea Star,1/2 Day AM,10,"14 Calico Bass Released, 9 Rockfish, 5 Whitefish, 4 Sculpin Released, 3 Sand Bass, 2 Calico Bass, 1 Rubberlip Seaperch Released, 1 Black Seabass Released"
@@ -121,3 +115,9 @@ Date,Source,Boat Name,Trip Type,Anglers,Fish Count
 2025-08-31,fisherman,Tomahawk,1.5 Day,29,9 Bluefin Tuna
 2025-08-31,seaforth,Aztec,2 Day,20,21 Bluefin Tuna
 2025-08-31,seaforth,Highliner,2 Day,24,39 Bluefin Tuna
+2025-09-01,pointloma,El Capitan,2.5 Day,18,"27 Yellowtail (up to 48 pounds), 7 Calico Bass"
+2025-09-01,hmlanding,Excalibur,2.5 Day,23,"45 Whitefish, 38 Bluefin Tuna, 20 Sheephead, 2 Cabezon"
+2025-09-01,hmlanding,Horizon,2.5 Day,25,"17 Bluefin Tuna, 10 Bonito"
+2025-09-01,pointloma,Oceanside 95,2.5 Day,11,44 Bluefin Tuna (up to 160 pounds)
+2025-09-01,hmlanding,Spirit of Adventure,2.5 Day,25,46 Bluefin Tuna
+2025-09-01,hmlanding,Ranger 85,3 Day,23,94 Bluefin Tuna
