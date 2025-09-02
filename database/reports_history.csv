@@ -115,6 +115,7 @@ Date,Source,Boat Name,Trip Type,Anglers,Fish Count
 2025-08-31,fisherman,Tomahawk,1.5 Day,29,9 Bluefin Tuna
 2025-08-31,seaforth,Aztec,2 Day,20,21 Bluefin Tuna
 2025-08-31,seaforth,Highliner,2 Day,24,39 Bluefin Tuna
+2025-09-01,pointloma,Daily Double,1/2 Day AM,20,"37 Rockfish, 8 Calico Bass, 7 Whitefish, 3 Sculpin"
 2025-09-01,seaforth,New Seaforth,1/2 Day AM,51,"100 Calico Bass Released, 50 Sand Bass Released, 18 Calico Bass, 12 Sand Bass, 8 Sheephead, 5 Rockfish, 1 Halibut, 1 Sculpin"
 2025-09-01,hmlanding,Premier,1/2 Day AM,41,"81 Rockfish, 60 Calico Bass Released, 12 Sand Bass, 7 Sculpin, 6 Calico Bass, 2 Sheephead, 1 Whitefish, 1 Halibut"
 2025-09-01,seaforth,New Seaforth,1/2 Day PM,51,"50 Calico Bass Released, 19 Calico Bass, 3 Sheephead, 1 Bonito, 1 Rockfish, 1 Sand Bass"
@@ -122,6 +123,7 @@ Date,Source,Boat Name,Trip Type,Anglers,Fish Count
 2025-09-01,seaforth,New Seaforth,1/2 Day Twilight,48,"40 Calico Bass Released, 34 Rockfish, 22 Sculpin, 19 Calico Bass, 4 Sand Bass"
 2025-09-01,hmlanding,Malihini,3/4 Day,20,"175 Calico Bass Released, 41 Rockfish, 40 Red Rockfish, 25 Calico Bass, 5 Whitefish, 5 Sculpin, 3 Sheephead, 2 Cabezon"
 2025-09-01,hmlanding,Grande,Full Day Coronado Islands,41,"138 Rockfish, 47 Yellowtail, 43 Calico Bass, 27 Barracuda"
+2025-09-01,pointloma,Mission Belle,Full Day,30,48 Yellowtail
 2025-09-01,seaforth,San Diego,Full Day Offshore,23,3 Bluefin Tuna
 2025-09-01,seaforth,Sea Watch,Full Day Offshore,25,1 Bluefin Tuna
 2025-09-01,hmlanding,Old Glory,Overnight,32,3 Bluefin Tuna
@@ -130,8 +132,10 @@ Date,Source,Boat Name,Trip Type,Anglers,Fish Count
 2025-09-01,seaforth,Cortez,1.5 Day,15,2 Bluefin Tuna
 2025-09-01,seaforth,Pacifica,1.5 Day,28,11 Bluefin Tuna
 2025-09-01,hmlanding,Patriot (SD),1.5 Day,6,1 Yellowtail
+2025-09-01,pointloma,El Capitan,2.5 Day,18,"27 Yellowtail (up to 48 pounds), 7 Calico Bass"
 2025-09-01,hmlanding,Excalibur,2.5 Day,23,"45 Whitefish, 38 Bluefin Tuna, 20 Sheephead, 2 Cabezon"
 2025-09-01,hmlanding,Horizon,2.5 Day,25,"17 Bluefin Tuna, 10 Bonito"
 2025-09-01,hmlanding,Nautilus,2.5 Day,5,"4 Yellowtail, 3 Bluefin Tuna (up to 160 pounds)"
+2025-09-01,pointloma,Oceanside 95,2.5 Day,11,44 Bluefin Tuna (up to 160 pounds)
 2025-09-01,hmlanding,Spirit of Adventure,2.5 Day,25,46 Bluefin Tuna
 2025-09-01,hmlanding,Ranger 85,3 Day,23,94 Bluefin Tuna
