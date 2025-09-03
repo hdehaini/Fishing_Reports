@@ -2,8 +2,10 @@ Source,Boat Name,Trip Type,Anglers,Fish Count
 fisherman,Dolphin,1/2 Day AM,11,"43 Rockfish, 9 Sheephead, 8 Sculpin, 6 Sand Bass, 2 Cabezon"
 seaforth,New Seaforth,1/2 Day AM,19,"14 Bonito, 8 Yellowtail, 5 Calico Bass, 2 Sand Bass, 1 Mako Shark, 1 Sheephead"
 hmlanding,Premier,1/2 Day AM,12,"60 Sculpin, 2 Whitefish, 2 Rock Sole, 1 Sheephead"
+fisherman,Bight 28 (SD),3/4 Day,2,"4 Yellowtail, 1 Bluefin Tuna"
 hmlanding,Grande,Full Day Offshore,13,"20 Yellowfin Tuna, 1 Bluefin Tuna"
 fisherman,Liberty,Full Day,25,"8 Yellowfin Tuna, 1 Bluefin Tuna"
 seaforth,San Diego,Full Day Offshore,34,"20 Yellowfin Tuna, 1 Yellowtail"
 hmlanding,Horizon,1.5 Day,27,3 Yellowfin Tuna
+fisherman,Fortune,3 Day,10,28 Bluefin Tuna
 hmlanding,Legend,3 Day,21,61 Bluefin Tuna
