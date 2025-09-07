@@ -1,26 +1,2 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-oceanside,Blue Horizon,1/2 Day AM,7,"100 Calico Bass Released, 22 Rockfish, 17 Sculpin, 3 Calico Bass"
-pointloma,Daily Double,1/2 Day AM,33,"87 Sculpin, 27 Rockfish, 3 Barred Sand Bass"
-fisherman,Dolphin,1/2 Day AM,47,"31 Sculpin, 12 Sand Bass, 10 Whitefish, 9 Rockfish"
-seaforth,New Seaforth,1/2 Day AM,52,"16 Bonito, 7 Calico Bass, 3 Sheephead, 2 Yellowtail, 1 Sand Bass, 1 Whitefish"
-oceanside,Southern Cal,1/2 Day AM,38,140 Rockfish
-pointloma,Daily Double,1/2 Day PM,32,"66 Sculpin, 3 Barred Sand Bass, 1 Halibut"
-fisherman,Dolphin,1/2 Day PM,38,"35 Rockfish, 8 Whitefish, 7 Sculpin, 2 Sand Bass, 2 Sheephead, 1 Calico Bass"
-seaforth,New Seaforth,1/2 Day PM,52,"40 Calico Bass Released, 14 Calico Bass, 9 Yellowtail, 6 Bonito, 2 Sculpin, 1 Rockfish, 1 Sand Bass, 1 Whitefish"
-seaforth,New Seaforth,1/2 Day Twilight,32,"37 Rockfish, 35 Sculpin, 15 Bonito, 8 Calico Bass, 2 Sand Bass, 2 Sheephead"
-oceanside,Chubasco II,3/4 Day,30,"280 Rockfish, 35 Calico Bass Released, 12 Sculpin, 8 Whitefish, 2 Calico Bass"
-hmlanding,Malihini,3/4 Day,31,"62 Red Rockfish, 36 Rockfish, 30 Calico Bass Released, 15 Barracuda Released, 5 Sculpin, 4 Calico Bass, 2 Whitefish, 1 Sheephead, 1 Rock Sole"
-hmlanding,Alicia,Full Day,9,"2 Yellowtail, 1 Bluefin Tuna"
-fisherman,Lucky B Sportfishing,Full Day,3,6 Bluefin Tuna
-pointloma,Mission Belle,Full Day,31,"52 Whitefish, 17 Calico Bass, 15 Rockfish, 9 Yellowtail, 7 Red Rockfish"
-hmlanding,Premier,Full Day,21,0
-seaforth,San Diego,Full Day Coronado Islands,12,34 Yellowtail
-seaforth,Sea Watch,Full Day Offshore,24,"4 Yellowfin Tuna, 1 Dorado"
-hmlanding,Vendetta 2,Full Day,23,0
-hmlanding,Grande,Overnight,25,"12 Yellowtail, 11 Yellowfin Tuna, 1 Bluefin Tuna, 1 Dorado"
-hmlanding,Nautilus,Overnight,5,2 Bluefin Tuna
-hmlanding,Old Glory,Overnight,35,1 Bluefin Tuna
-hmlanding,Producer,Overnight,18,"4 Bluefin Tuna, 2 Yellowfin Tuna, 1 Bonito, 1 Dorado"
-fisherman,Tradition,Overnight,29,"2 Bluefin Tuna, 1 Dorado"
-fisherman,Tomahawk,1.5 Day,30,23 Yellowfin Tuna
-seaforth,Voyager,1.5 Day,12,"15 Yellowtail, 6 Yellowfin Tuna"
+hmlanding,Excalibur,2.5 Day,27,"43 Bluefin Tuna, 20 Whitefish, 3 Yellowtail"
