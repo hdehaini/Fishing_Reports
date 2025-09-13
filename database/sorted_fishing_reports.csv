@@ -1,25 +1,2 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-oceanside,Chubasco II,1/2 Day AM,5,"50 Rockfish, 14 Whitefish, 6 Bonito"
-pointloma,Daily Double,1/2 Day AM,24,"60 Rockfish, 6 Sheephead, 3 Whitefish, 3 Sculpin, 1 Calico Bass"
-fisherman,Dolphin,1/2 Day AM,25,"121 Rockfish, 20 Sheephead, 14 Sculpin, 4 Sand Bass, 1 Calico Bass"
-hmlanding,Premier,1/2 Day AM,27,"81 Rockfish, 2 Sculpin, 1 Lingcod"
-oceanside,Southern Cal,1/2 Day AM,21,"35 Calico Bass Released, 10 Bonito, 5 Calico Bass, 3 Sheephead"
-pointloma,Daily Double,1/2 Day PM,15,"25 Calico Bass, 7 Sheephead, 5 Rockfish, 1 Sculpin"
-fisherman,Dolphin,1/2 Day PM,24,"76 Rockfish, 9 Sheephead, 8 Sculpin, 2 Calico Bass, 1 Sand Bass"
-hmlanding,Premier,1/2 Day PM,28,"63 Rockfish, 11 Calico Bass, 3 Sculpin, 1 Sheephead"
-seaforth,New Seaforth,1/2 Day Twilight,23,"55 Rockfish, 20 Calico Bass Released, 9 Sculpin, 3 Calico Bass"
-hmlanding,Grande,Full Day Coronado Islands,27,"48 Rockfish, 3 Yellowtail, 2 Bluefin Tuna"
-hmlanding,Malihini,Full Day Coronado Islands,17,"85 Whitefish, 77 Rockfish, 4 Lingcod, 2 Bluefin Tuna, 2 Sculpin"
-pointloma,Mission Belle,Full Day,11,"50 Whitefish, 6 Red Rockfish, 1 Calico Bass, 1 Yellowtail, 1 Sheephead"
-hmlanding,Nautilus,Full Day,5,60 Rockfish
-seaforth,New Seaforth,Full Day Offshore,23,"3 Yellowfin Tuna, 2 Bluefin Tuna"
-seaforth,San Diego,Full Day Coronado Islands,14,3 Yellowtail
-seaforth,Sea Watch,Full Day Offshore,22,3 Bluefin Tuna
-hmlanding,Tradition,Full Day Offshore,21,"150 Rockfish, 18 Sculpin, 1 Lingcod, 1 Sheephead"
-hmlanding,Vendetta 2,Full Day,21,0
-hmlanding,Old Glory,Overnight,13,"52 Calico Bass, 6 Whitefish, 4 Sheephead"
-hmlanding,Producer,Overnight,19,13 Bluefin Tuna
-hmlanding,Ocean Odyssey,1.5 Day,28,29 Bluefin Tuna
-seaforth,Pacifica,1.5 Day,29,46 Bluefin Tuna
-seaforth,Aztec,2 Day,16,64 Bluefin Tuna
-hmlanding,Relentless,3.5 Day,10,0
+pointloma,New Lo-An,Overnight,13,78 Bluefin Tuna (up to 150 pounds)
