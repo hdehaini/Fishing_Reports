@@ -1,6 +1,7 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 fisherman,Dolphin,1/2 Day AM,15,"63 Rockfish, 12 Sheephead, 2 Lingcod"
 seaforth,New Seaforth,1/2 Day AM,25,"7 Calico Bass, 6 Bonito, 2 Yellowtail, 1 Halibut, 1 Sculpin, 1 Sheephead, 1 Whitefish"
+hmlanding,Grande,Full Day Coronado Islands,24,"161 Rockfish, 13 Yellowtail"
 fisherman,Fortune,1.5 Day,15,30 Bluefin Tuna
 seaforth,Highliner,1.5 Day,10,20 Bluefin Tuna
 fisherman,Liberty,2 Day,11,44 Bluefin Tuna
