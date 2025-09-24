@@ -1,19 +1,2 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-fisherman,Dolphin,1/2 Day AM,24,"124 Rockfish, 68 Sculpin, 28 Sheephead, 10 Sand Bass, 6 Calico Bass, 4 Cabezon"
-seaforth,New Seaforth,1/2 Day AM,47,"15 Bonito, 5 Vermilion Rockfish, 2 Rockfish, 1 Halibut, 1 Sand Bass, 1 Yellowtail"
-oceanside,Southern Cal,1/2 Day AM,14,"105 Rockfish, 2 Sculpin"
-fisherman,Dolphin,1/2 Day PM,22,"52 Rockfish, 39 Sculpin, 12 Sheephead, 2 Sand Bass"
-seaforth,New Seaforth,1/2 Day PM,34,"25 Calico Bass Released, 4 Calico Bass, 4 Sculpin, 1 Sheephead, 1 Yellowtail"
-fisherman,Liberty,Full Day,37,4 Bluefin Tuna
-seaforth,San Diego,Full Day Offshore,33,20 Bluefin Tuna
-seaforth,Sea Watch,Full Day Offshore,25,3 Bluefin Tuna
-hmlanding,Old Glory,Overnight,24,26 Bluefin Tuna (up to 100 pounds)
-seaforth,Apollo,1.5 Day,22,25 Bluefin Tuna
-hmlanding,Excalibur,1.5 Day,28,53 Bluefin Tuna
-hmlanding,Sea Adventure 80,1.5 Day,17,"35 Bonito, 34 Bluefin Tuna, 6 Yellowtail"
-seaforth,Tribute,1.5 Day,29,30 Bluefin Tuna
-seaforth,Highliner,2 Day,20,80 Bluefin Tuna
-hmlanding,Producer,2 Day,20,80 Bluefin Tuna
-seaforth,Pacific Voyager,3 Day,13,"78 Bluefin Tuna, 1 Yellowtail"
-hmlanding,Poseidon,3.5 Day,20,"120 Bluefin Tuna, 1 Yellowtail"
-hmlanding,Top Gun 80,3.5 Day,18,84 Bluefin Tuna
+hmlanding,Ranger 85,2.5 Day,28,"65 Bluefin Tuna, 9 Bonito"
