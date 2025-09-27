@@ -1,28 +1,2 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-seaforth,New Seaforth,1/2 Day AM,40,"9 Rockfish, 7 Whitefish, 6 Yellowtail, 3 Sculpin, 1 Halibut, 1 Lingcod, 1 Sand Bass, 1 Sheephead"
-hmlanding,Premier,1/2 Day AM,26,"64 Sculpin, 44 Rockfish, 1 Cabezon, 1 Sand Bass"
-oceanside,Southern Cal,1/2 Day AM,19,"85 Rockfish, 40 Sculpin, 12 Whitefish"
-seaforth,New Seaforth,1/2 Day PM,27,"19 Bonito, 11 Rockfish, 7 Whitefish, 2 Calico Bass, 1 Halibut, 1 Sculpin, 1 Sheephead"
-hmlanding,Alicia,1/2 Day Twilight,10,"56 Rock Crab, 32 Spiny Lobster Released, 14 Spiny Lobster"
-oceanside,Chubasco II,1/2 Day Twilight,26,"45 Sculpin, 5 Bonito, 5 Rockfish, 3 Calico Bass, 2 Sheephead"
-seaforth,New Seaforth,1/2 Day Twilight,22,110 Bonito
-fisherman,Dolphin,Full Day,14,1 Bluefin Tuna
-seaforth,El Gato Dos,Full Day Offshore,6,1 Yellowfin Tuna
-fisherman,Lucky B Sportfishing,Full Day,2,4 Bluefin Tuna (up to 120 pounds)
-pointloma,Mission Belle,Full Day,15,1 Bluefin Tuna
-seaforth,San Diego,Full Day Offshore,13,"3 Bluefin Tuna, 2 Yellowtail"
-seaforth,Sea Watch,Full Day Offshore,15,0
-seaforth,Aztec,Overnight,28,56 Bluefin Tuna
-hmlanding,Old Glory,Overnight,30,"54 Yellowfin Tuna, 10 Skipjack Tuna"
-hmlanding,Producer,Overnight,29,"24 Yellowtail, 9 Yellowfin Tuna, 1 Skipjack Tuna"
-seaforth,Tribute,Overnight,19,91 Yellowfin Tuna
-hmlanding,Ocean Odyssey,1.5 Day,29,0
-fisherman,Tomahawk,1.5 Day,11,55 Yellowfin Tuna
-fisherman,Fortune,2 Day,13,"54 Yellowfin Tuna, 7 Yellowtail, 2 Dorado, 1 Bluefin Tuna"
-seaforth,Highliner,2 Day,8,"19 Yellowfin Tuna, 2 Bluefin Tuna, 1 Skipjack Tuna"
-fisherman,Islander,2 Day,28,176 Yellowfin Tuna
-seaforth,Voyager,2 Day,8,"55 Yellowfin Tuna, 16 Skipjack Tuna"
-hmlanding,Excalibur,2.5 Day,25,"101 Yellowfin Tuna, 5 Skipjack Tuna"
-hmlanding,Poseidon,2.5 Day,18,"180 Yellowfin Tuna, 3 Yellowtail, 2 Bluefin Tuna, 1 Dorado"
-seaforth,Pacific Voyager,3 Day,15,"225 Yellowfin Tuna, 18 Skipjack Tuna, 12 Bluefin Tuna, 11 Yellowtail, 4 Dorado"
-hmlanding,Horizon,4 Day,27,162 Bluefin Tuna
+hmlanding,Nautilus,1.5 Day,6,"30 Yellowfin Tuna, 2 Skipjack Tuna"
