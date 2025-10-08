@@ -1,5 +1,6 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 oceanside,Blue Horizon,1/2 Day AM,11,"38 Whitefish, 11 Sculpin, 7 Calico Bass, 1 Sand Bass, 1 Sheephead"
+pointloma,Daily Double,1/2 Day AM,13,90 Rockfish
 fisherman,Dolphin,1/2 Day AM,26,"164 Rockfish, 1 Lingcod (up to 23 pounds)"
 seaforth,New Seaforth,1/2 Day AM,23,230 Rockfish
 oceanside,Southern Cal,1/2 Day AM,16,60 Rockfish
@@ -7,7 +8,6 @@ fisherman,Dolphin,1/2 Day PM,19,"39 Sculpin, 3 Whitefish, 3 Sheephead, 1 Sand Ba
 seaforth,New Seaforth,1/2 Day PM,4,"6 Whitefish, 3 Sheephead"
 hmlanding,Premier,1/2 Day PM,20,112 Rockfish
 hmlanding,Alicia,1/2 Day Twilight,10,"42 Rock Crab, 29 Spiny Lobster Released, 10 Spiny Lobster"
-pointloma,Daily Double,1/2 Day Twilight,13,90 Rockfish
 seaforth,El Gato Dos,Full Day Offshore,3,0
 seaforth,San Diego,Full Day Offshore,22,0
 seaforth,Cortez,1.5 Day,14,"15 Yellowtail, 8 Yellowfin Tuna, 5 Skipjack Tuna"
