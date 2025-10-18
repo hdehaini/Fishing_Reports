@@ -1,20 +1,2 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-pointloma,Daily Double,1/2 Day AM,25,101 Rockfish
-fisherman,Dolphin,1/2 Day AM,20,163 Rockfish
-seaforth,New Seaforth,1/2 Day AM,38,"206 Rockfish, 1 Bluefin Tuna (up to 80 pounds)"
-oceanside,Southern Cal,1/2 Day AM,15,70 Rockfish
-fisherman,Dolphin,1/2 Day PM,26,"59 Sculpin, 10 Sheephead, 6 Sand Bass, 4 Calico Bass"
-seaforth,New Seaforth,1/2 Day PM,5,50 Rockfish
-hmlanding,Alicia,1/2 Day Twilight,10,"17 Spiny Lobster, 16 Spiny Lobster Released, 15 Rock Crab"
-seaforth,El Gato Dos,3/4 Day,5,19 Rockfish
-fisherman,Lucky B Sportfishing,Full Day,4,4 Bluefin Tuna (up to 100 pounds)
-seaforth,San Diego,Full Day Offshore,26,"7 Bluefin Tuna, 6 Dorado"
-hmlanding,Producer,Overnight,25,"12 Bluefin Tuna, 2 Dorado Released"
-seaforth,Tribute,Overnight,19,20 Bluefin Tuna
-hmlanding,Ocean Odyssey,1.5 Day,11,7 Bluefin Tuna
-seaforth,Voyager,1.5 Day,12,24 Bluefin Tuna
-hmlanding,Ranger 85,2.5 Day,16,"38 Bluefin Tuna, 4 Yellowfin Tuna"
-seaforth,Aztec,3 Day,25,"120 Rockfish, 96 Vermilion Rockfish, 36 Bluefin Tuna, 2 Sheephead"
-fisherman,Islander,3 Day,17,"40 Bluefin Tuna (up to 150 pounds), 34 Yellowtail, 12 Yellowfin Tuna, 1 Dorado"
-hmlanding,Legend,3.5 Day,25,"38 Yellowfin Tuna, 35 Bluefin Tuna, 6 Yellowtail, 2 Dorado"
-seaforth,Pacific Voyager,4 Day,12,"61 Bluefin Tuna, 7 Yellowtail, 2 Yellowfin Tuna"
+hmlanding,Horizon,3.5 Day,19,"220 Rockfish, 80 Bluefin Tuna, 28 Yellowfin Tuna, 4 Yellowtail"
