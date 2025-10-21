@@ -1,11 +1,4 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-fisherman,Dolphin,1/2 Day AM,15,150 Rockfish
-seaforth,Sea Watch,1/2 Day PM,12,"21 Whitefish, 7 Calico Bass Released, 5 Calico Bass, 5 Sculpin, 1 Bonito, 1 Sheephead"
-seaforth,El Gato Dos,Full Day Offshore,5,2 Yellowtail
-seaforth,San Diego,Full Day Offshore,36,"4 Bluefin Tuna, 1 Yellowfin Tuna"
-seaforth,Apollo,2 Day,19,76 Bluefin Tuna
-fisherman,Tomahawk,2.5 Day,25,100 Bluefin Tuna
-fisherman,Pacific Queen,3 Day,16,96 Bluefin Tuna
-seaforth,Pacific Voyager,3 Day,11,"80 Yellowtail, 66 Bluefin Tuna"
-seaforth,Pacifica,3 Day,22,"132 Bluefin Tuna, 9 Yellowtail"
-seaforth,Cortez,3.5 Day,8,"25 Yellowtail, 15 Bluefin Tuna, 8 Yellowfin Tuna, 3 Dorado"
+hmlanding,Alicia,1/2 Day Twilight,10,"27 Spiny Lobster Released, 17 Spiny Lobster, 3 Rock Crab"
+hmlanding,Legend,1.5 Day,26,52 Bluefin Tuna
+hmlanding,Ranger 85,3.5 Day,24,"144 Bluefin Tuna, 100 Red Rockfish, 2 Yellowfin Tuna, 2 Bonito, 1 Dorado"
