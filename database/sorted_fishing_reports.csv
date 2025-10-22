@@ -1,10 +1,2 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-fisherman,Dolphin,1/2 Day AM,17,126 Rockfish
-seaforth,New Seaforth,1/2 Day AM,15,150 Rockfish
-oceanside,Southern Cal,1/2 Day AM,14,80 Rockfish
-fisherman,Dolphin,1/2 Day PM,17,"100 Sculpin, 10 Sand Bass, 1 Calico Bass"
-seaforth,El Gato Dos,Full Day Offshore,3,6 Bluefin Tuna
-seaforth,San Diego,Full Day Offshore,34,0
-seaforth,Highliner,1.5 Day,26,"100 Rockfish, 52 Vermilion Rockfish, 43 Bluefin Tuna"
-seaforth,Tribute,1.5 Day,26,52 Bluefin Tuna
-seaforth,Voyager,2 Day,9,36 Bluefin Tuna
+hmlanding,Top Gun 80,3.5 Day,12,"75 Yellowtail (up to 30 pounds), 72 Bluefin Tuna"
