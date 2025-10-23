@@ -1,14 +1,2 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-pointloma,Daily Double,1/2 Day AM,13,130 Rockfish
-seaforth,New Seaforth,1/2 Day AM,21,172 Rockfish
-oceanside,Sea Star,1/2 Day AM,4,32 Rockfish
-oceanside,Southern Cal,1/2 Day AM,16,80 Rockfish
-fisherman,Dolphin,1/2 Day PM,14,"32 Sculpin, 10 Sheephead, 6 Sand Bass"
-hmlanding,Premier,1/2 Day PM,11,"35 Sculpin, 2 Calico Bass, 2 Sand Bass, 1 Sheephead"
-hmlanding,Alicia,1/2 Day Twilight,10,"22 Spiny Lobster Released, 16 Spiny Lobster, 10 Rock Crab"
-seaforth,El Gato Dos,Full Day Offshore,2,"4 Bluefin Tuna (up to 110 pounds), 1 Dorado"
-hmlanding,Grande,Full Day Offshore,20,"2 Bluefin Tuna, 2 Yellowfin Tuna"
-seaforth,San Diego,Full Day Offshore,30,"8 Yellowfin Tuna, 1 Bluefin Tuna"
-seaforth,Apollo,2.5 Day,20,"80 Bluefin Tuna, 2 Yellowtail"
-hmlanding,Top Gun 80,3.5 Day,12,"75 Yellowtail (up to 30 pounds), 72 Bluefin Tuna"
-seaforth,Polaris Supreme,4 Day,22,"132 Bluefin Tuna, 120 Rockfish, 21 Lingcod, 10 Yellowfin Tuna, 7 Dorado"
+hmlanding,Legend,2 Day,30,114 Bluefin Tuna
