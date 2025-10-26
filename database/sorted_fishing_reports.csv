@@ -1,11 +1,9 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-oceanside,Chubasco II,1/2 Day AM,13,"130 Rockfish, 2 Whitefish"
-fisherman,Dolphin,1/2 Day AM,18,86 Rockfish
-seaforth,New Seaforth,1/2 Day AM,36,285 Rockfish
-fisherman,Dolphin,1/2 Day PM,36,"52 Sculpin, 9 Sand Bass, 6 Sheephead"
-oceanside,Southern Cal,1/2 Day Twilight,32,150 Rockfish
-seaforth,El Gato Dos,Full Day Offshore,3,4 Bluefin Tuna
-seaforth,San Diego,Full Day Offshore,32,8 Yellowtail
-seaforth,Sea Watch,Full Day Offshore,18,2 Bluefin Tuna
-seaforth,Apollo,3 Day,11,"66 Bluefin Tuna, 13 Yellowtail, 6 Yellowfin Tuna"
-seaforth,Polaris Supreme,3 Day,23,"138 Bluefin Tuna, 6 Yellowfin Tuna"
+hmlanding,Reel Champion,1/2 Day Twilight,6,"30 Spiny Lobster Released, 20 Spiny Lobster"
+pointloma,Oceanside 95,1.5 Day,28,56 Bluefin Tuna
+hmlanding,Sea Adventure 80,1.5 Day,17,"25 Bonito, 15 Bluefin Tuna, 3 Yellowtail"
+hmlanding,Vendetta 2,1.5 Day,14,"68 Yellowtail, 4 Yellowfin Tuna"
+hmlanding,Old Glory,2 Day,17,"68 Bluefin Tuna, 12 Bonito, 2 Yellowtail, 1 Sheephead"
+hmlanding,Ocean Odyssey,2.5 Day,21,"84 Bluefin Tuna, 65 Yellowtail, 9 Yellowfin Tuna"
+hmlanding,Excalibur,3 Day,27,"162 Bluefin Tuna, 20 Yellowtail, 2 Yellowfin Tuna"
+hmlanding,Legend,3 Day,30,180 Bluefin Tuna

@@ -1086,14 +1086,6 @@ Date,Source,Boat Name,Trip Type,Anglers,Fish Count
 2025-10-24,fisherman,Pacific Queen,2 Day,23,"92 Bluefin Tuna, 52 Yellowtail, 1 Yellowfin Tuna"
 2025-10-24,fisherman,Tomahawk,2 Day,14,56 Bluefin Tuna
 2025-10-24,seaforth,Cortez,2.5 Day,13,52 Bluefin Tuna
-2025-10-26,hmlanding,Reel Champion,1/2 Day Twilight,6,"30 Spiny Lobster Released, 20 Spiny Lobster"
-2025-10-26,pointloma,Oceanside 95,1.5 Day,28,56 Bluefin Tuna
-2025-10-26,hmlanding,Sea Adventure 80,1.5 Day,17,"25 Bonito, 15 Bluefin Tuna, 3 Yellowtail"
-2025-10-26,hmlanding,Vendetta 2,1.5 Day,14,"68 Yellowtail, 4 Yellowfin Tuna"
-2025-10-26,hmlanding,Old Glory,2 Day,17,"68 Bluefin Tuna, 12 Bonito, 2 Yellowtail, 1 Sheephead"
-2025-10-26,hmlanding,Ocean Odyssey,2.5 Day,21,"84 Bluefin Tuna, 65 Yellowtail, 9 Yellowfin Tuna"
-2025-10-26,hmlanding,Excalibur,3 Day,27,"162 Bluefin Tuna, 20 Yellowtail, 2 Yellowfin Tuna"
-2025-10-26,hmlanding,Legend,3 Day,30,180 Bluefin Tuna
 2025-10-25,oceanside,Chubasco II,1/2 Day AM,13,"130 Rockfish, 2 Whitefish"
 2025-10-25,fisherman,Dolphin,1/2 Day AM,18,86 Rockfish
 2025-10-25,seaforth,New Seaforth,1/2 Day AM,36,285 Rockfish
@@ -1104,3 +1096,11 @@ Date,Source,Boat Name,Trip Type,Anglers,Fish Count
 2025-10-25,seaforth,Sea Watch,Full Day Offshore,18,2 Bluefin Tuna
 2025-10-25,seaforth,Apollo,3 Day,11,"66 Bluefin Tuna, 13 Yellowtail, 6 Yellowfin Tuna"
 2025-10-25,seaforth,Polaris Supreme,3 Day,23,"138 Bluefin Tuna, 6 Yellowfin Tuna"
+2025-10-26,hmlanding,Reel Champion,1/2 Day Twilight,6,"30 Spiny Lobster Released, 20 Spiny Lobster"
+2025-10-26,pointloma,Oceanside 95,1.5 Day,28,56 Bluefin Tuna
+2025-10-26,hmlanding,Sea Adventure 80,1.5 Day,17,"25 Bonito, 15 Bluefin Tuna, 3 Yellowtail"
+2025-10-26,hmlanding,Vendetta 2,1.5 Day,14,"68 Yellowtail, 4 Yellowfin Tuna"
+2025-10-26,hmlanding,Old Glory,2 Day,17,"68 Bluefin Tuna, 12 Bonito, 2 Yellowtail, 1 Sheephead"
+2025-10-26,hmlanding,Ocean Odyssey,2.5 Day,21,"84 Bluefin Tuna, 65 Yellowtail, 9 Yellowfin Tuna"
+2025-10-26,hmlanding,Excalibur,3 Day,27,"162 Bluefin Tuna, 20 Yellowtail, 2 Yellowfin Tuna"
+2025-10-26,hmlanding,Legend,3 Day,30,180 Bluefin Tuna
