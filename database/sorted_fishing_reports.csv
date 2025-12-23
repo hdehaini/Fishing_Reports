@@ -1,9 +1,11 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 oceanside,Chubasco II,1/2 Day AM,17,98 Rockfish
 pointloma,Daily Double,1/2 Day AM,33,"136 Bonito, 22 Rockfish"
+fisherman,Dolphin,1/2 Day AM,56,"280 Bonito, 63 Rockfish"
 seaforth,New Seaforth,1/2 Day AM,50,250 Bonito
 hmlanding,Premier,1/2 Day AM,42,210 Bonito
 oceanside,Sea Star,1/2 Day AM,20,"83 Whitefish, 35 Mackerel Released, 12 Calico Bass Released, 7 Sheephead, 2 Bonito, 2 Sand Bass Released, 1 Sand Bass, 1 Sculpin Released"
 oceanside,Southern Cal,1/2 Day AM,22,"50 Whitefish, 35 Sheephead Released, 35 Calico Bass Released, 15 Bonito, 14 Sheephead, 5 Calico Bass, 2 Sculpin, 1 Halibut Released"
+fisherman,Dolphin,1/2 Day PM,55,"56 Bonito, 39 Sheephead, 29 Sculpin"
 seaforth,New Seaforth,1/2 Day PM,51,127 Bonito
 hmlanding,Malihini,3/4 Day,15,"75 Bonito, 15 Rockfish"
