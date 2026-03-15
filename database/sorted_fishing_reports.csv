@@ -1,4 +1,5 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
+fisherman,Dolphin,1/2 Day AM,37,"35 Sand Bass, 22 Sculpin, 1 Sheephead"
 pointloma,Point Loma,1/2 Day AM,28,"40 Whitefish, 10 Sculpin, 4 Sheephead, 1 Barred Sand Bass"
 hmlanding,Premier,1/2 Day AM,48,"75 Sculpin, 24 Sand Bass, 1 Calico Bass"
 oceanside,Pronto,1/2 Day AM,11,"33 Whitefish, 5 Calico Bass Released"
@@ -6,4 +7,5 @@ seaforth,Sea Watch,1/2 Day AM,34,"137 Whitefish, 6 Sheephead, 4 Sculpin"
 seaforth,Voyager,1/2 Day AM,8,"37 Whitefish, 1 Bonito"
 fisherman,Liberty,Full Day,38,89 Yellowtail
 pointloma,Mission Belle,Full Day,21,"77 Yellowtail, 8 Red Rockfish, 7 Bocaccio, 1 Lingcod"
+seaforth,San Diego,Full Day Coronado Islands,31,"50 Rockfish, 29 Yellowtail"
 hmlanding,Producer,Overnight,22,"25 Whitefish, 22 Sculpin, 10 Yellowtail, 3 Calico Bass, 2 Sheephead, 2 Lingcod, 1 Halibut"
