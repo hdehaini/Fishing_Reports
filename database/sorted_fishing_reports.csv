@@ -1,15 +1,9 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-fisherman,Dolphin,1/2 Day AM,17,"33 Sand Bass, 21 Sculpin, 1 Calico Bass"
 seaforth,New Seaforth,1/2 Day AM,14,"55 Whitefish, 5 Sheephead, 3 Sculpin"
-pointloma,Point Loma,1/2 Day AM,14,"43 Whitefish, 6 Sculpin, 6 Sheephead, 5 Barred Sand Bass, 1 Calico Bass"
 hmlanding,Premier,1/2 Day AM,39,"74 Sculpin, 54 Sand Bass, 1 Calico Bass"
 oceanside,Southern Cal,1/2 Day AM,22,"40 Sculpin, 25 Sanddab, 20 Sculpin Released"
-fisherman,Dolphin,1/2 Day PM,17,"12 Sand Bass, 4 Sculpin"
 seaforth,New Seaforth,1/2 Day PM,23,"85 Whitefish, 12 Sheephead, 5 Sculpin, 2 Calico Bass, 2 Sand Bass"
 hmlanding,Nautilus,1/2 Day Twilight,3,30 Rockfish
-fisherman,Liberty,Full Day,41,"10 Rockfish, 7 Yellowtail"
-pointloma,Mission Belle,Full Day,30,"16 Yellowtail, 8 Rockfish, 1 Lingcod"
 seaforth,San Diego,Full Day Coronado Islands,33,"39 Yellowtail, 1 Halibut"
 seaforth,Sea Watch,Full Day Coronado Islands,21,"10 Yellowtail, 2 Lingcod"
-fisherman,Tomahawk,2.5 Day,14,"59 Lingcod, 56 Bluefin Tuna, 28 Vermilion Rockfish, 1 Dorado, 1 Yellowtail"
 seaforth,Polaris Supreme,3 Day,24,"144 Bluefin Tuna, 107 Yellowtail, 30 Vermilion Rockfish, 27 Lingcod"
