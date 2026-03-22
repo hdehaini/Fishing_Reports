@@ -1,16 +1,2 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-oceanside,Blue Horizon,1/2 Day AM,10,"26 Calico Bass Released, 22 Whitefish, 9 Sheephead, 4 Calico Bass, 3 Sheephead Released, 2 Sand Bass Released, 1 Sand Bass"
-fisherman,Dolphin,1/2 Day AM,55,"46 Sand Bass, 34 Sculpin, 8 Calico Bass, 1 Halibut, 1 Sheephead"
-seaforth,New Seaforth,1/2 Day AM,47,"21 Whitefish, 5 Calico Bass, 4 Sculpin, 4 Sheephead, 3 Sand Bass, 2 Bonito"
-pointloma,Point Loma,1/2 Day AM,30,"40 Barred Sand Bass, 7 Calico Bass, 7 Sculpin, 2 Whitefish"
-hmlanding,Premier,1/2 Day AM,55,"63 Sculpin, 46 Sand Bass, 6 Calico Bass, 1 Perch, 1 Sheephead"
-fisherman,Dolphin,1/2 Day PM,24,"45 Sand Bass, 44 Sculpin"
-seaforth,New Seaforth,1/2 Day PM,34,"7 Calico Bass, 2 Sculpin, 2 Yellowtail, 1 Barracuda, 1 Whitefish"
-hmlanding,Premier,1/2 Day PM,30,"62 Sand Bass, 27 Sculpin, 5 Calico Bass"
-oceanside,Chubasco II,1/2 Day Twilight,23,"125 Calico Bass Released, 35 Sculpin, 12 Calico Bass, 12 Sand Bass Released, 4 Sand Bass, 2 Sheephead"
-fisherman,Freeman 34,Full Day,5,"3 Yellowtail, 3 Bonito, 1 Halibut"
-hmlanding,Grande,Full Day Coronado Islands,40,"29 Yellowtail, 25 Rockfish, 3 Lingcod"
-fisherman,Liberty,Full Day Coronado Islands,41,20 Yellowtail
-pointloma,Mission Belle,Full Day,29,"26 Yellowtail, 3 Red Rockfish, 1 Lingcod, 1 Sheephead"
-seaforth,San Diego,Full Day Coronado Islands,34,18 Yellowtail
-seaforth,Sea Watch,Full Day Coronado Islands,26,10 Yellowtail
+hmlanding,Nautilus,Full Day,5,"2 Yellowtail, 2 Sculpin"
