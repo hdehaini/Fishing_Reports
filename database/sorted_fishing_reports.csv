@@ -1,4 +1,9 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 seaforth,New Seaforth,1/2 Day AM,19,"7 Sheephead, 5 Calico Bass, 3 Sand Bass, 1 Bonito, 1 Whitefish"
+hmlanding,Premier,1/2 Day AM,27,"62 Sculpin, 21 Sand Bass, 5 Calico Bass"
+fisherman,Dolphin,1/2 Day PM,24,"8 Sculpin, 8 Calico Bass, 7 Sheephead, 5 Whitefish"
 seaforth,New Seaforth,1/2 Day PM,19,"3 Calico Bass, 3 Sheephead, 1 Sculpin, 1 Whitefish"
+hmlanding,Premier,1/2 Day PM,14,"16 Sculpin, 15 Sand Bass, 1 Calico Bass"
+hmlanding,Grande,Full Day Coronado Islands,30,"24 Yellowtail, 4 Calico Bass, 3 Sand Bass, 3 Bonito, 1 Lingcod, 1 Rockfish"
+fisherman,Liberty,Full Day,41,30 Yellowtail
 seaforth,San Diego,Full Day Coronado Islands,32,23 Yellowtail
