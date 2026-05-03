@@ -1,20 +1,2 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-fisherman,Dolphin,1/2 Day AM,53,"136 Rockfish, 29 Sculpin, 26 Whitefish, 1 Sheephead"
-seaforth,New Seaforth,1/2 Day AM,53,"90 Rockfish, 53 Vermilion Rockfish, 1 Lingcod, 1 Sculpin, 1 Sheephead, 1 Whitefish"
-hmlanding,Premier,1/2 Day AM,51,"146 Rockfish, 1 Sculpin"
-oceanside,Southern Cal,1/2 Day AM,20,"80 Sanddab, 78 Sculpin, 27 Rockfish, 1 Whitefish"
-fisherman,Dolphin,1/2 Day PM,54,"133 Rockfish, 27 Sculpin, 9 Whitefish, 6 Sheephead, 2 Calico Bass"
-seaforth,New Seaforth,1/2 Day PM,55,"20 Rockfish, 1 Halibut, 1 Sand Bass"
-pointloma,Point Loma,1/2 Day PM,9,"14 Red Rockfish, 8 Sculpin, 5 Barred Sand Bass, 5 Calico Bass, 2 Rockfish, 1 Whitefish"
-hmlanding,Premier,1/2 Day PM,33,"123 Rockfish, 7 Sculpin, 1 Sand Bass"
-hmlanding,Tradition,1/2 Day PM,11,"22 Red Rockfish, 19 Whitefish, 14 Rockfish"
-oceanside,Chubasco II,1/2 Day Twilight,20,"30 Calico Bass Released, 16 Sculpin, 11 Rockfish, 8 Sand Bass, 2 Calico Bass, 2 Whitefish, 2 Sheephead"
-seaforth,New Seaforth,1/2 Day Twilight,31,"20 Rockfish, 5 Sculpin, 3 Calico Bass, 2 Sand Bass"
-hmlanding,Patriot (SD),3/4 Day,12,87 Rockfish
-oceanside,Pronto,3/4 Day,6,"60 Rockfish, 20 Calico Bass Released, 8 Calico Bass"
-seaforth,Sea Watch,3/4 Day,15,"32 Rockfish, 30 Vermilion Rockfish, 9 Whitefish, 3 Sculpin, 1 Sheephead"
-hmlanding,Grande,Full Day Coronado Islands,40,"120 Whitefish, 30 Red Rockfish, 25 Rockfish, 3 Calico Bass, 2 Yellowtail, 2 Sheephead"
-pointloma,Mission Belle,Full Day Coronado Islands,31,"88 Whitefish, 38 Rockfish, 3 Yellowtail"
-seaforth,San Diego,Full Day Coronado Islands,36,"70 Whitefish, 25 Rockfish, 10 Yellowtail"
-fisherman,Pegasus,Overnight,21,42 Bluefin Tuna
-hmlanding,Producer,Overnight,29,"13 Bluefin Tuna, 2 Bonito"
+hmlanding,Old Glory,1.5 Day,30,"60 Bluefin Tuna, 1 Bonito"
