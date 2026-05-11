@@ -1,9 +1,14 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 pointloma,Daily Double,1/2 Day AM,5,"25 Calico Bass Released, 20 Rockfish, 5 Calico Bass, 4 Sheephead, 2 Whitefish, 1 Cabezon"
 fisherman,Dolphin,1/2 Day AM,21,"77 Rockfish, 15 Calico Bass, 9 Sheephead, 5 Sculpin, 4 Sand Bass, 1 Lingcod"
+seaforth,New Seaforth,1/2 Day AM,19,"48 Rockfish, 24 Vermilion Rockfish, 4 Whitefish, 1 Calico Bass, 1 Sculpin"
 hmlanding,Premier,1/2 Day AM,21,197 Rockfish
 fisherman,Dolphin,1/2 Day PM,0,"85 Rockfish, 10 Sculpin, 5 Calico Bass, 3 Sheephead, 1 Sand Bass"
+seaforth,New Seaforth,1/2 Day PM,26,"100 Calico Bass Released, 21 Calico Bass, 5 Bonito, 1 Sculpin"
 hmlanding,Premier,1/2 Day PM,22,"52 Rockfish, 42 Red Rockfish, 25 Calico Bass Released, 7 Calico Bass, 4 Sculpin, 2 Sand Bass, 1 Lingcod"
+seaforth,New Seaforth,1/2 Day Twilight,18,"38 Rockfish, 25 Calico Bass Released, 11 Sculpin, 3 Calico Bass, 2 Sand Bass"
 hmlanding,Old Glory,1.5 Day,29,20 Bluefin Tuna
+seaforth,Tribute,1.5 Day,30,15 Bluefin Tuna
 hmlanding,Legend,2 Day,26,"60 Bonito, 31 Bluefin Tuna"
 pointloma,New Lo-An,2 Day,25,45 Bluefin Tuna (up to 150 pounds)
+seaforth,Voyager,2 Day,12,"30 Bluefin Tuna, 3 Bonito"
