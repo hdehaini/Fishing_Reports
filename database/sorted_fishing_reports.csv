@@ -1,4 +1,22 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
+pointloma,Daily Double,1/2 Day AM,17,"43 Calico Bass, 12 Rockfish, 1 Barred Sand Bass, 1 Sculpin, 1 Sheephead"
 fisherman,Dolphin,1/2 Day AM,40,"55 Rockfish, 24 Calico Bass, 4 Sculpin, 2 Sheephead, 2 Sand Bass"
+seaforth,New Seaforth,1/2 Day AM,53,"85 Rockfish, 41 Vermilion Rockfish, 30 Whitefish, 2 Sculpin, 1 Sheephead"
+hmlanding,Premier,1/2 Day AM,46,"60 Calico Bass Released, 18 Rockfish, 13 Sand Bass, 11 Calico Bass, 4 Sculpin"
+oceanside,Southern Cal,1/2 Day AM,31,"205 Rockfish, 5 Whitefish"
 fisherman,Dolphin,1/2 Day PM,52,"51 Calico Bass, 35 Calico Bass Released, 26 Rockfish, 4 Sand Bass, 1 Sculpin"
+hmlanding,Premier,1/2 Day PM,38,"100 Calico Bass Released, 77 Calico Bass, 5 Rockfish, 1 Sculpin"
+seaforth,New Seaforth,1/2 Day Twilight,29,"100 Calico Bass Released, 25 Rockfish, 11 Calico Bass, 7 Sculpin, 4 Sand Bass, 1 Barracuda"
+oceanside,Chubasco II,3/4 Day,9,"53 Rockfish, 15 Sanddab, 4 Whitefish"
+hmlanding,Grande,Full Day Coronado Islands,25,"62 Yellowtail, 12 Sand Bass, 7 Barracuda, 6 Calico Bass, 2 Red Rockfish, 1 Lingcod"
+pointloma,Mission Belle,Full Day Coronado Islands,17,"23 Yellowtail, 4 Calico Bass"
+seaforth,San Diego,Full Day Coronado Islands,36,95 Yellowtail
+seaforth,Aztec,1.5 Day,27,51 Bluefin Tuna
+hmlanding,Old Glory,1.5 Day,29,"23 Bluefin Tuna, 5 Yellowtail"
+pointloma,New Lo-An,2 Day,26,"104 Red Rockfish, 104 Bluefin Tuna, 21 Lingcod"
+hmlanding,Producer,2 Day,23,25 Bluefin Tuna
+seaforth,Voyager,2 Day,12,"48 Bluefin Tuna, 12 Sheephead, 8 Yellowtail, 1 Bonito"
+hmlanding,Excalibur,2.5 Day,28,"94 Bluefin Tuna, 3 Bonito, 1 Yellowtail"
+hmlanding,Legend,3 Day,25,148 Bluefin Tuna
 fisherman,Pacific Queen,3 Day,28,"168 Bluefin Tuna, 32 Yellowtail"
+seaforth,Pacific Voyager,3 Day,18,"108 Bluefin Tuna, 59 Yellowtail, 51 Rockfish, 39 Lingcod"
