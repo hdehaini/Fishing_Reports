@@ -1,16 +1,4 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-oceanside,Chubasco II,1/2 Day AM,18,70 Rockfish
-fisherman,Dolphin,1/2 Day AM,13,"50 Calico Bass Released, 36 Calico Bass, 4 Rockfish, 3 Sheephead, 1 Sculpin, 1 Yellowtail"
-seaforth,El Gato Dos,1/2 Day AM,4,"33 Rockfish, 7 Vermilion Rockfish"
-fisherman,Dolphin,1/2 Day PM,28,"100 Calico Bass Released, 100 Barracuda Released, 42 Calico Bass, 12 Rockfish, 7 Sheephead, 4 Barracuda"
-seaforth,New Seaforth,1/2 Day PM,37,"100 Calico Bass Released, 73 Calico Bass, 21 Rockfish, 2 Sculpin"
-hmlanding,Grande,Full Day Coronado Islands,29,"16 Yellowtail, 1 Calico Bass, 1 Red Rockfish, 1 Sculpin"
-pointloma,Mission Belle,Full Day Coronado Islands,26,"14 Yellowtail, 6 Calico Bass"
-seaforth,San Diego,Full Day Coronado Islands,34,"35 Yellowtail, 12 Barracuda"
-fisherman,Pacific Dawn,1.5 Day,10,6 Bluefin Tuna
-hmlanding,Producer,1.5 Day,23,"58 Bonito, 32 Bluefin Tuna, 2 Yellowtail"
-seaforth,Voyager,1.5 Day,8,"22 Bonito, 16 Bluefin Tuna"
-fisherman,Constitution,2 Day,11,27 Bluefin Tuna
-hmlanding,Legend,2 Day,22,58 Bluefin Tuna
-pointloma,New Lo-An,2 Day,25,"250 Rockfish, 100 Bluefin Tuna"
-seaforth,Pacific Voyager,2 Day,16,64 Bluefin Tuna
+seaforth,New Seaforth,1/2 Day AM,33,"50 Calico Bass, 7 Rockfish, 4 Sheephead, 3 Sand Bass, 1 Barracuda"
+seaforth,New Seaforth,1/2 Day Twilight,10,"50 Calico Bass Released, 32 Calico Bass, 20 Rockfish, 1 Sculpin, 1 Sheephead"
+seaforth,Tribute,1.5 Day,17,"34 Bluefin Tuna, 12 Bonito"
