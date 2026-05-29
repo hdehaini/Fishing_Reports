@@ -1,4 +1,5 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
+fisherman,Dolphin,1/2 Day AM,22,"46 Rockfish, 4 Sheephead"
 seaforth,New Seaforth,1/2 Day AM,40,"35 Calico Bass, 1 Rockfish, 1 Yellowtail"
 oceanside,Southern Cal,1/2 Day AM,19,"80 Sculpin, 40 Rockfish, 3 Whitefish, 1 Sheephead"
 seaforth,New Seaforth,1/2 Day Twilight,21,"75 Calico Bass Released, 50 Barracuda Released, 27 Calico Bass, 10 White Seabass Released, 5 Barracuda, 4 Rockfish, 3 White Seabass"
@@ -9,4 +10,5 @@ hmlanding,Reel Champion,3/4 Day,4,"32 Rockfish, 8 Red Rockfish"
 seaforth,Sea Watch,3/4 Day,9,"45 Calico Bass, 5 Bonito, 3 Sheephead, 1 Barracuda, 1 White Seabass, 1 Yellowtail"
 pointloma,Mission Belle,Full Day Coronado Islands,14,"34 Red Rockfish, 31 Whitefish, 28 Rockfish, 3 Sheephead"
 seaforth,San Diego,Full Day Offshore,23,"110 Bonito, 11 Yellowtail"
+fisherman,Pacific Queen,Overnight,28,0
 seaforth,Polaris Supreme,3 Day,18,"25 Bluefin Tuna (up to 160 pounds), 22 Calico Bass, 5 Yellowtail, 3 Bonito"
