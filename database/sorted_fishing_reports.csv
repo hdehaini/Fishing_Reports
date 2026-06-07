@@ -1,21 +1,2 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-oceanside,Blue Horizon,1/2 Day AM,13,"170 Calico Bass Released, 5 Calico Bass, 5 Whitefish, 1 Sheephead"
-pointloma,Daily Double,1/2 Day AM,28,"90 Calico Bass Released, 36 Calico Bass, 3 Rockfish, 2 Barred Sand Bass, 1 White Seabass"
-fisherman,Dolphin,1/2 Day AM,57,"86 Rockfish, 75 Calico Bass Released, 26 Calico Bass, 7 Sculpin, 3 Sheephead, 1 Sand Bass, 1 Cabezon"
-seaforth,New Seaforth,1/2 Day AM,52,"24 Calico Bass, 14 Bonito, 10 Rockfish, 2 Barracuda, 1 Sand Bass, 1 White Seabass, 1 Whitefish"
-hmlanding,Premier,1/2 Day AM,49,"90 Calico Bass Released, 72 Rockfish, 31 Calico Bass, 2 Cabezon, 2 Sheephead"
-oceanside,Southern Cal,1/2 Day AM,31,"120 Sculpin, 105 Rockfish, 30 Sanddab, 1 Whitefish"
-fisherman,Dolphin,1/2 Day PM,35,"100 Calico Bass Released, 47 Calico Bass, 42 Rockfish, 9 White Seabass Released, 7 Sheephead, 1 White Seabass (up to 34.5 pounds)"
-seaforth,New Seaforth,1/2 Day PM,51,"27 Calico Bass, 4 Rockfish, 1 Whitefish"
-hmlanding,Premier,1/2 Day PM,26,"85 Calico Bass Released, 38 Calico Bass, 13 Rockfish, 3 Sheephead, 3 Sculpin"
-seaforth,New Seaforth,1/2 Day Twilight,43,"100 Calico Bass Released, 34 Calico Bass, 15 Rockfish, 1 Barracuda"
-oceanside,Chubasco II,3/4 Day,30,"290 Rockfish, 40 Calico Bass Released, 2 Sand Bass, 1 Calico Bass"
-hmlanding,Malihini,3/4 Day,15,"120 Calico Bass Released, 30 Calico Bass, 30 Red Rockfish, 10 Whitefish, 2 Rockfish, 1 Sheephead"
-seaforth,El Gato Dos,Full Day Offshore,5,14 Yellowtail
-hmlanding,Grande,Full Day Coronado Islands,27,"25 Yellowtail, 5 Rockfish, 3 Calico Bass, 1 Sculpin, 1 Whitefish, 1 Lingcod"
-seaforth,San Diego,Full Day Coronado Islands,25,"39 Yellowtail, 5 Barracuda, 5 Calico Bass, 1 White Seabass"
-seaforth,Sea Watch,Full Day Coronado Islands,26,"120 Whitefish, 18 Sculpin, 12 Rockfish, 9 Yellowtail, 5 Calico Bass"
-hmlanding,Producer,Overnight,16,"70 Yellowtail, 22 Bonito, 1 Dorado"
-seaforth,Tribute,1.5 Day,22,"25 Yellowtail, 1 Bluefin Tuna, 1 Dorado"
-seaforth,Pacific Voyager,2 Day,20,"147 Rockfish, 32 Calico Bass, 16 Yellowtail, 4 Bonito, 3 Barracuda"
-seaforth,Polaris Supreme,3 Day,24,45 Yellowtail
+hmlanding,Nautilus,1.5 Day,6,11 Yellowtail
