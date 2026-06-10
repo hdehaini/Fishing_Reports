@@ -1,12 +1,7 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 pointloma,Daily Double,1/2 Day AM,19,"76 Calico Bass, 12 Barred Sand Bass, 2 Rockfish, 2 Sheephead"
-seaforth,New Seaforth,1/2 Day AM,29,"100 Calico Bass Released, 53 Calico Bass, 10 Rockfish, 4 Barracuda, 1 Sand Bass"
-seaforth,New Seaforth,1/2 Day PM,30,"150 Calico Bass Released, 89 Calico Bass"
-hmlanding,Premier,1/2 Day PM,25,"175 Calico Bass Released, 125 Calico Bass, 12 Barracuda, 1 Halibut"
-hmlanding,Malihini,3/4 Day,20,0
+fisherman,Dolphin,1/2 Day AM,19,"75 Calico Bass Released, 48 Calico Bass, 39 Rockfish, 6 Sand Bass, 1 Sheephead"
+oceanside,Southern Cal,1/2 Day AM,23,"200 Calico Bass Released, 18 Calico Bass"
+fisherman,Dolphin,1/2 Day PM,19,"60 Calico Bass Released, 24 Calico Bass, 14 Sheephead, 10 Rockfish, 1 Barracuda"
 pointloma,Got Bait,Full Day,4,10 Yellowtail
 pointloma,Mission Belle,Full Day Coronado Islands,21,105 Yellowtail
-seaforth,San Diego,Full Day Coronado Islands,36,98 Yellowtail
-hmlanding,Excalibur,2 Day,26,"250 Rockfish, 75 Red Rockfish, 26 Yellowtail, 18 Bonito"
-seaforth,Pacific Voyager,2 Day,10,"60 Yellowtail, 2 Dorado, 1 Bluefin Tuna"
-seaforth,Polaris Supreme,3 Day,19,"154 Yellowtail, 1 Dorado"
