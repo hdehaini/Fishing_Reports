@@ -1,14 +1,2 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-fisherman,Dolphin,1/2 Day AM,52,"25 Barracuda Released, 17 Rockfish, 12 Calico Bass, 6 Sand Bass, 5 Sculpin, 4 Sheephead, 2 Barracuda, 1 Halibut"
-seaforth,Sea Watch,1/2 Day AM,36,"24 Barracuda, 22 Calico Bass, 18 Yellowtail, 9 Rockfish, 5 Sheephead, 1 Halibut"
-fisherman,Dolphin,1/2 Day PM,45,"16 Barracuda, 15 Rockfish, 14 Yellowtail, 9 Calico Bass, 9 Sand Bass, 1 Sculpin"
-seaforth,Sea Watch,1/2 Day PM,39,"50 Calico Bass Released, 22 Calico Bass, 19 Barracuda, 19 Yellowtail, 16 Bonito"
-seaforth,New Seaforth,1/2 Day Twilight,50,"50 Barracuda Released, 40 Calico Bass Released, 15 Barracuda, 10 Yellowtail, 8 Calico Bass"
-pointloma,Got Bait,Full Day Coronado Islands,5,22 Yellowtail
-hmlanding,Grande,Full Day Coronado Islands,31,"45 Yellowtail, 22 Calico Bass, 11 Barracuda, 1 Sand Bass"
-pointloma,Mission Belle,Full Day Coronado Islands,27,"67 Yellowtail, 6 Calico Bass, 2 Halibut"
-seaforth,San Diego,Full Day Coronado Islands,35,85 Yellowtail
-seaforth,Tribute,1.5 Day,30,"39 Yellowtail, 14 Bluefin Tuna (up to 80 pounds), 1 Bonito"
-seaforth,Cortez,2.5 Day,19,"100 Rockfish, 10 Bluefin Tuna, 10 Yellowtail"
-fisherman,Poseidon,2.5 Day,21,"71 Vermilion Rockfish, 60 Rockfish, 16 Bluefin Tuna, 7 Yellowtail, 6 Bonito"
-seaforth,Voyager,2.5 Day,11,"70 Yellowtail, 26 Bluefin Tuna"
+fisherman,Pegasus,2 Day,16,"23 Yellowtail, 21 Bluefin Tuna"
