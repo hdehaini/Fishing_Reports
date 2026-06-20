@@ -1,25 +1,2 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-fisherman,Dolphin,1/2 Day AM,53,"164 Rockfish, 86 Vermilion Rockfish, 6 Sheephead, 5 Lingcod, 1 Cabezon"
-seaforth,New Seaforth,1/2 Day AM,53,"20 Calico Bass, 5 Sheephead, 3 Barracuda, 3 Rockfish, 2 Bonito, 2 Sand Bass, 2 Sculpin, 1 Whitefish"
-hmlanding,Premier,1/2 Day AM,55,"103 Rockfish, 7 Sculpin, 6 Sand Bass, 1 Calico Bass"
-fisherman,Dolphin,1/2 Day PM,32,"111 Rockfish, 6 Sculpin, 4 Sheephead, 4 Sand Bass, 3 Calico Bass"
-seaforth,New Seaforth,1/2 Day PM,54,"48 Calico Bass, 4 White Seabass, 1 Rockfish, 1 Sand Bass"
-hmlanding,Premier,1/2 Day PM,23,"73 Rockfish, 25 Calico Bass Released, 5 Sculpin, 1 Calico Bass"
-oceanside,Blue Horizon,1/2 Day Twilight,8,"60 Calico Bass Released, 18 Calico Bass, 3 Leopard Shark Released, 2 Halibut, 1 Sheephead, 1 Sand Bass"
-seaforth,New Seaforth,1/2 Day Twilight,50,"100 Calico Bass Released, 12 Calico Bass, 2 Barracuda, 1 Rockfish, 1 Sand Bass, 1 Sheephead"
-oceanside,Chubasco II,3/4 Day,18,"95 Rockfish, 1 Whitefish"
-seaforth,Sea Watch,3/4 Day,33,"49 Calico Bass, 8 Sheephead, 7 Rockfish, 5 Barracuda, 2 Sand Bass, 1 Sculpin, 1 White Seabass, 1 Whitefish, 1 Yellowtail"
-seaforth,El Gato Dos,Full Day Offshore,4,7 Yellowtail
-pointloma,Got Bait,Full Day Coronado Islands,4,10 Yellowtail
-hmlanding,Grande,Full Day Coronado Islands,40,"17 Yellowtail, 13 Calico Bass, 4 Barracuda, 3 Rockfish, 3 Sculpin, 3 Whitefish"
-pointloma,Mission Belle,Full Day Coronado Islands,31,"80 Whitefish, 23 Yellowtail, 3 Sheephead"
-hmlanding,Nautilus,Full Day,6,"10 Rockfish, 4 Calico Bass, 3 Yellowtail, 1 Barracuda"
-pointloma,Point Loma,Full Day Coronado Islands,20,"28 Calico Bass, 6 Whitefish, 6 Sculpin, 5 Rockfish, 5 Barracuda, 2 Yellowtail"
-seaforth,San Diego,Full Day Coronado Islands,36,"19 Yellowtail, 10 Calico Bass, 10 Rockfish, 8 Barracuda"
-seaforth,Pacifica,Overnight,28,23 Yellowtail
-fisherman,Poseidon,Overnight,23,"151 Rockfish, 71 Vermilion Rockfish, 24 Yellowtail, 12 Bluefin Tuna, 5 Bonito, 1 Yellowfin Tuna"
-seaforth,Apollo,1.5 Day,13,"19 Calico Bass, 19 Whitefish, 12 Sheephead, 8 Yellowtail, 7 Barracuda, 6 Sand Bass, 4 Bonito"
-fisherman,Pacific Queen,1.5 Day,30,49 Yellowtail
-fisherman,Pegasus,1.5 Day,16,"23 Yellowtail, 2 Dorado"
-fisherman,Constitution,2 Day,18,"72 Vermilion Rockfish, 40 Rockfish, 19 Yellowtail, 2 Bluefin Tuna (up to 80 pounds)"
-oceanside,Effishency,4 Hour,3,"6 Vermilion Rockfish, 1 Calico Bass, 1 Yellowtail"
+hmlanding,Premier,1/2 Day AM,53,"140 Rockfish, 3 Sheephead, 2 Sculpin, 1 Lingcod, 1 Calico Bass"
