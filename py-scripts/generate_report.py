@@ -30,49 +30,27 @@ def append_averages_to_csv(averages, filename):
 
     now = datetime.now(local_tz)
     today = now.date()
-    current_time = now.time()
-    start_time = datetime.strptime("20:00", "%H:%M").time()
-    end_time = datetime.strptime("23:59", "%H:%M").time()
+    full_path = (
+        filename if os.path.isabs(filename) else os.path.join(PROJECT_ROOT, filename)
+    )
 
-    if start_time <= current_time <= end_time:
-        print(f"Current time: {current_time}")
-        # Check if the CSV file exists and has entries
-        try:
-            full_path = (
-                filename
-                if os.path.isabs(filename)
-                else os.path.join(PROJECT_ROOT, filename)
-            )
-            df = pd.read_csv(full_path)
-            if not df.empty:
-                last_entry_date = pd.to_datetime(df["Date"].iloc[-1]).date()
-                # Check if the last entry is today's date
-                if last_entry_date == today:
-                    print(
-                        f"Daily average already recorded for {today}. No action taken."
-                    )
-                    return
-        except FileNotFoundError:
-            # File doesn't exist yet, so we'll create it with the new entry
-            df = pd.DataFrame()
+    try:
+        existing = pd.read_csv(full_path)
+    except FileNotFoundError:
+        existing = pd.DataFrame()
 
-        data = {"Date": today}
-        data.update(averages)
-        df = pd.DataFrame([data])
-        # Ensure output directory and write/append at project root
-        full_path = (
-            filename
-            if os.path.isabs(filename)
-            else os.path.join(PROJECT_ROOT, filename)
-        )
-        ensure_directory_exists(full_path)
-        with open(full_path, "a") as f:
-            df.to_csv(f, header=f.tell() == 0, index=False)
-        print("Averages recorded.")
-    else:
-        print(
-            f"Current time {current_time} is outside the recording window ({start_time} - {end_time}). No action taken."
-        )
+    data = {"Date": today.isoformat()}
+    data.update(averages)
+    new_row = pd.DataFrame([data])
+
+    if not existing.empty and "Date" in existing.columns:
+        existing["Date"] = existing["Date"].astype(str)
+        existing = existing[existing["Date"] != today.isoformat()]
+
+    combined = pd.concat([existing, new_row], ignore_index=True)
+    ensure_directory_exists(full_path)
+    combined.to_csv(full_path, index=False)
+    print(f"Averages recorded for {today}.")
 
 
 def generate_html(df, averages, title_date, template_path, output_path):
