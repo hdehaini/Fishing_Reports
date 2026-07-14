@@ -1,21 +1,2 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-pointloma,Daily Double,1/2 Day AM,40,"40 Calico Bass, 6 Barred Sand Bass, 5 Rockfish, 4 Sheephead, 1 Barracuda"
-fisherman,Dolphin,1/2 Day AM,48,"49 Rockfish, 10 Sand Bass, 8 Calico Bass, 8 Bonito, 6 Sheephead, 6 Sculpin, 5 Barracuda, 1 Yellowtail"
-seaforth,New Seaforth,1/2 Day AM,36,"100 Calico Bass Released, 60 Barracuda, 15 Calico Bass, 6 Rockfish, 4 Sheephead, 2 Yellowtail, 1 Bonito, 1 Sand Bass, 1 White Seabass"
-hmlanding,Premier,1/2 Day AM,26,"35 Calico Bass, 11 Rockfish, 6 Sheephead, 6 Barracuda, 1 Sculpin"
-oceanside,Sea Star,1/2 Day AM,4,"42 Calico Bass Released, 12 Bonito, 10 Barracuda Released, 8 Calico Bass, 2 Black Seabass Released"
-oceanside,Southern Cal,1/2 Day AM,24,"100 Calico Bass Released, 26 Calico Bass, 10 Bonito, 1 Whitefish, 1 Halibut Released"
-pointloma,Daily Double,1/2 Day PM,25,"52 Calico Bass, 3 Barracuda, 3 Bonito, 2 Barred Sand Bass, 2 Sheephead, 2 Rockfish"
-fisherman,Dolphin,1/2 Day PM,28,"40 Calico Bass Released, 20 Calico Bass, 15 Rockfish, 11 Barracuda, 6 Sheephead, 6 Sand Bass, 6 Bonito, 1 Yellowtail"
-seaforth,New Seaforth,1/2 Day PM,58,"250 Barracuda, 100 Calico Bass Released, 42 Calico Bass, 16 Yellowtail, 7 Sheephead, 4 Rockfish, 1 White Seabass"
-hmlanding,Premier,1/2 Day PM,15,"107 Barracuda, 9 Yellowtail, 9 Bonito, 4 Calico Bass"
-seaforth,New Seaforth,1/2 Day Twilight,55,"100 Calico Bass Released, 41 Calico Bass, 14 Rockfish, 5 Bonito, 3 Sculpin, 2 Yellowtail"
-seaforth,Sea Watch,3/4 Day,29,"207 Barracuda, 100 Calico Bass Released, 26 Calico Bass, 12 Rockfish, 7 Bonito, 6 Yellowtail, 5 Sheephead"
-seaforth,El Gato Dos,Full Day Offshore,6,"30 Yellowtail, 10 Dorado"
-pointloma,Got Bait,Full Day,2,4 Bluefin Tuna (up to 200 pounds)
-hmlanding,Grande,Full Day Offshore,30,"42 Dorado, 30 Yellowtail, 6 Bluefin Tuna, 4 Yellowfin Tuna"
-hmlanding,Malihini,Full Day,19,"50 Barracuda, 36 Rockfish, 29 Red Rockfish, 27 Sheephead, 20 Whitefish, 15 Calico Bass, 9 Sand Bass"
-seaforth,San Diego,Full Day Coronado Islands,24,"120 Whitefish, 41 Yellowtail, 11 Sheephead, 6 Calico Bass, 3 Barracuda"
-hmlanding,Nautilus,1.5 Day,6,3 Bluefin Tuna
-seaforth,Apollo,2 Day,18,"64 Calico Bass, 31 Sheephead, 27 Bluefin Tuna (up to 200 pounds), 3 Yellowtail"
-seaforth,Pacifica,2.5 Day,23,"77 Bluefin Tuna (up to 200 pounds), 45 Vermilion Rockfish, 1 Lingcod"
+hmlanding,Premier,1/2 Day AM,38,"80 Calico Bass Released, 15 Calico Bass, 10 Rockfish, 9 Bonito, 7 Barracuda, 7 Sand Bass, 2 Sculpin"
