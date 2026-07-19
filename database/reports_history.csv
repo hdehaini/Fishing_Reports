@@ -3862,8 +3862,10 @@ Date,Source,Boat Name,Trip Type,Anglers,Fish Count
 2026-07-18,seaforth,San Diego,Full Day Coronado Islands,25,"175 Rockfish, 15 Yellowtail, 3 Lingcod, 1 Halibut"
 2026-07-18,seaforth,Voyager,Full Day Offshore,15,"3 Yellowtail, 1 Bluefin Tuna"
 2026-07-18,hmlanding,Daiwa Pacific,Overnight,18,"9 Yellowtail, 2 Yellowfin Tuna"
+2026-07-18,hmlanding,Daiwa Pacific,Overnight,18,0
 2026-07-18,hmlanding,Producer,Overnight,29,"3 Yellowtail, 2 Yellowfin Tuna"
 2026-07-18,hmlanding,Sea Adventure 80,Overnight,28,"8 Yellowfin Tuna, 1 Bluefin Tuna"
+2026-07-18,hmlanding,Tradition,Overnight,20,0
 2026-07-18,seaforth,Pacific Voyager,2 Day,17,"70 Yellowtail, 68 Bluefin Tuna, 7 Yellowfin Tuna"
 2026-07-18,hmlanding,Excalibur,3 Day,13,"78 Bluefin Tuna, 10 Yellowfin Tuna, 5 Yellowtail, 1 Dorado"
 2026-07-18,hmlanding,Spirit of Adventure,3 Day,26,"156 Bluefin Tuna, 150 Rockfish, 25 Yellowtail, 6 Dorado"
