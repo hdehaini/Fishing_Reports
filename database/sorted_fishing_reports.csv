@@ -1,6 +1,7 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 fisherman,Dolphin,1/2 Day AM,52,"150 Bonito, 12 Calico Bass, 7 Rockfish, 6 Sheephead, 2 Sculpin, 2 Sand Bass, 1 Yellowtail, 1 Barracuda"
 seaforth,New Seaforth,1/2 Day AM,54,"75 Calico Bass Released, 7 Rockfish, 4 Sheephead, 4 Whitefish, 3 Sculpin, 2 Bonito, 2 Vermilion Rockfish, 1 Calico Bass, 1 Sand Bass"
+hmlanding,Premier,1/2 Day AM,52,"71 Calico Bass, 50 Calico Bass Released, 12 Barracuda, 11 Sand Bass, 10 Rockfish"
 hmlanding,Premier,1/2 Day AM,52,0
 oceanside,Southern Cal,1/2 Day AM,40,"50 Calico Bass Released, 20 Bonito, 11 Calico Bass, 1 Rockfish, 1 Yellowtail"
 fisherman,Dolphin,1/2 Day PM,40,"69 Bonito, 58 Calico Bass, 37 Rockfish, 3 Sheephead, 2 Yellowtail (up to 25 pounds)"
