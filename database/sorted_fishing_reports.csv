@@ -1,6 +1,7 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 seaforth,New Seaforth,1/2 Day AM,55,"100 Calico Bass Released, 21 Calico Bass, 3 Rockfish, 1 Sand Bass, 1 Yellowtail"
 hmlanding,Premier,1/2 Day AM,45,"75 Calico Bass Released, 71 Calico Bass, 1 Halibut"
+oceanside,Southern Cal,1/2 Day AM,43,"60 Calico Bass Released, 20 Barracuda Released, 9 Calico Bass, 1 Yellowtail"
 seaforth,New Seaforth,1/2 Day Twilight,32,"75 Calico Bass Released, 20 Bonito, 7 Calico Bass, 6 Yellowtail, 1 Barracuda"
 oceanside,Chubasco II,3/4 Day,29,"40 Calico Bass Released, 22 Calico Bass, 12 Sand Bass Released, 8 Sand Bass, 4 Rockfish, 3 Yellowtail, 1 Leopard Shark"
 hmlanding,Malihini,3/4 Day,36,"150 Calico Bass Released, 71 Calico Bass, 15 Bonito, 9 Red Rockfish, 7 Barracuda, 6 Sand Bass, 4 Sheephead, 1 Whitefish, 1 Sculpin"
@@ -8,6 +9,7 @@ hmlanding,Daiwa Pacific,Full Day,12,"60 Yellowfin Tuna, 7 Dorado, 6 Yellowtail, 
 hmlanding,Grande,Full Day Offshore,41,"105 Yellowfin Tuna, 8 Skipjack Tuna, 6 Yellowtail"
 hmlanding,Vendetta 2,Full Day,20,99 Yellowtail
 hmlanding,Old Glory,Overnight,24,"73 Yellowfin Tuna, 2 Dorado, 1 Skipjack Tuna"
+seaforth,Pacifica,Overnight,28,4 Dorado
 hmlanding,Producer,Overnight,29,"42 Yellowfin Tuna, 10 Skipjack Tuna, 2 Yellowtail, 1 Dorado, 1 Bluefin Tuna"
 seaforth,Voyager,Overnight,7,"7 Yellowfin Tuna, 2 Skipjack Tuna"
 hmlanding,Legend,1.5 Day,29,"43 Yellowfin Tuna, 17 Yellowtail, 5 Dorado, 4 Skipjack Tuna"
