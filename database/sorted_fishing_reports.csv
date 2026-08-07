@@ -2,8 +2,10 @@ Source,Boat Name,Trip Type,Anglers,Fish Count
 oceanside,Blue Horizon,1/2 Day AM,5,"21 Yellowtail, 7 Calico Bass, 2 Sand Bass, 1 Sheephead"
 seaforth,New Seaforth,1/2 Day AM,50,"100 Calico Bass Released, 16 Calico Bass, 9 Sheephead, 6 Bonito, 3 Rockfish, 2 Yellowtail, 1 Sand Bass"
 hmlanding,Premier,1/2 Day AM,52,"57 Sand Bass, 4 Sculpin, 1 Bonito, 1 Halibut"
+seaforth,New Seaforth,1/2 Day Twilight,33,"11 Sculpin, 10 Calico Bass, 8 Rockfish, 8 Yellowtail, 5 Bonito, 5 Sand Bass, 1 Barracuda, 1 Sheephead"
 hmlanding,Producer,Overnight,29,"75 Yellowfin Tuna, 33 Skipjack Tuna, 1 Bluefin Tuna, 1 Dorado"
 hmlanding,Ocean Odyssey,1.5 Day,29,145 Yellowfin Tuna
+seaforth,Pacifica,1.5 Day,21,"30 Yellowfin Tuna, 4 Dorado"
 hmlanding,Excalibur,2 Day,27,"48 Bluefin Tuna, 15 Yellowfin Tuna"
 fisherman,Liberty,2 Day,21,"84 Bluefin Tuna, 7 Yellowfin Tuna, 2 Dorado, 1 Yellowtail"
 fisherman,Tomahawk,2 Day,14,"56 Bluefin Tuna, 1 Yellowfin Tuna, 1 Dorado"
