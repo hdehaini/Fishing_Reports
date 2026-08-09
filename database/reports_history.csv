@@ -4392,11 +4392,6 @@ Date,Source,Boat Name,Trip Type,Anglers,Fish Count
 2026-08-07,fisherman,Constitution,2.5 Day,21,"49 Bluefin Tuna (up to 120 pounds), 4 Yellowfin Tuna"
 2026-08-07,hmlanding,Ranger 85,2.5 Day,13,"52 Bluefin Tuna, 8 Yellowfin Tuna, 4 Dorado, 1 Yellowtail"
 2026-08-07,fisherman,Islander,3 Day,26,"119 Bluefin Tuna (up to 100 pounds), 33 Yellowtail, 16 Dorado"
-2026-08-09,fisherman,Constitution,2 Day,22,"88 Bluefin Tuna (up to 40 pounds), 15 Yellowfin Tuna Released, 3 Dorado, 2 Yellowfin Tuna"
-2026-08-09,fisherman,Fortune,2 Day,19,"76 Bluefin Tuna, 10 Yellowtail"
-2026-08-09,fisherman,Liberty,2 Day,21,"84 Bluefin Tuna, 4 Dorado"
-2026-08-09,fisherman,Pegasus,2.5 Day,10,"40 Bluefin Tuna, 27 Yellowtail, 19 Dorado, 12 Yellowfin Tuna"
-2026-08-09,fisherman,Poseidon,3 Day,21,84 Bluefin Tuna (up to 180 pounds)
 2026-08-08,pointloma,Daily Double,1/2 Day AM,30,"30 Calico Bass Released, 15 Rockfish, 15 Barracuda Released, 3 Calico Bass, 3 Whitefish, 1 Sheephead"
 2026-08-08,seaforth,New Seaforth,1/2 Day AM,52,"18 Yellowtail, 17 Bonito, 11 Calico Bass, 5 Rockfish, 4 Sand Bass, 2 Whitefish"
 2026-08-08,seaforth,New Seaforth,1/2 Day PM,56,"11 Yellowtail, 4 Calico Bass, 1 Sheephead"
@@ -4409,3 +4404,8 @@ Date,Source,Boat Name,Trip Type,Anglers,Fish Count
 2026-08-08,seaforth,Pacific Voyager,2 Day,14,"56 Bluefin Tuna, 3 Yellowtail"
 2026-08-08,pointloma,New Lo-An,3 Day,20,"120 Bluefin Tuna, 55 Bonito, 26 Yellowfin Tuna, 13 Dorado, 9 Yellowtail"
 2026-08-08,seaforth,Polaris Supreme,3 Day,18,"108 Bluefin Tuna, 64 Yellowtail"
+2026-08-09,fisherman,Constitution,2 Day,22,"88 Bluefin Tuna (up to 40 pounds), 15 Yellowfin Tuna Released, 3 Dorado, 2 Yellowfin Tuna"
+2026-08-09,fisherman,Fortune,2 Day,19,"76 Bluefin Tuna, 10 Yellowtail"
+2026-08-09,fisherman,Liberty,2 Day,21,"84 Bluefin Tuna, 4 Dorado"
+2026-08-09,fisherman,Pegasus,2.5 Day,10,"40 Bluefin Tuna, 27 Yellowtail, 19 Dorado, 12 Yellowfin Tuna"
+2026-08-09,fisherman,Poseidon,3 Day,21,84 Bluefin Tuna (up to 180 pounds)
