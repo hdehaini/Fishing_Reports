@@ -1,11 +1,6 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-pointloma,Daily Double,1/2 Day AM,30,"30 Calico Bass Released, 15 Rockfish, 15 Barracuda Released, 3 Calico Bass, 3 Whitefish, 1 Sheephead"
-hmlanding,Premier,1/2 Day AM,56,"100 Calico Bass Released, 89 Bonito, 73 Calico Bass, 2 Barracuda, 2 Sculpin"
-hmlanding,Premier,1/2 Day PM,18,"65 Calico Bass Released, 31 Calico Bass, 17 Rockfish, 5 Bonito, 2 Barracuda, 2 Sculpin"
-hmlanding,Grande,Full Day Coronado Islands,41,"52 Whitefish, 13 Bonito, 11 Sculpin, 10 Red Rockfish, 5 Rockfish, 2 Sheephead"
-pointloma,Mission Belle,Full Day,26,"55 Whitefish, 24 Yellowtail, 8 Rockfish, 1 Bonito, 1 Barracuda, 1 Sheephead"
-pointloma,Point Loma,Full Day,18,"27 Calico Bass, 16 Bonito, 11 Whitefish, 4 Sculpin, 1 Lingcod"
-hmlanding,Daiwa Pacific,Overnight,22,"3 Yellowfin Tuna, 1 Yellowtail"
-hmlanding,Horizon,Overnight,29,"22 Yellowfin Tuna, 5 Skipjack Tuna"
-hmlanding,Producer,Overnight,29,"60 Yellowfin Tuna, 52 Skipjack Tuna"
-pointloma,New Lo-An,3 Day,20,"120 Bluefin Tuna, 55 Bonito, 26 Yellowfin Tuna, 13 Dorado, 9 Yellowtail"
+fisherman,Constitution,2 Day,22,"88 Bluefin Tuna (up to 40 pounds), 15 Yellowfin Tuna Released, 3 Dorado, 2 Yellowfin Tuna"
+fisherman,Fortune,2 Day,19,"76 Bluefin Tuna, 10 Yellowtail"
+fisherman,Liberty,2 Day,21,"84 Bluefin Tuna, 4 Dorado"
+fisherman,Pegasus,2.5 Day,10,"40 Bluefin Tuna, 27 Yellowtail, 19 Dorado, 12 Yellowfin Tuna"
+fisherman,Poseidon,3 Day,21,84 Bluefin Tuna (up to 180 pounds)
