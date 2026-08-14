@@ -1,9 +1,12 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 fisherman,Dolphin,1/2 Day AM,31,"10 Rockfish, 8 Sheephead, 6 Calico Bass, 2 Yellowtail"
 hmlanding,Premier,1/2 Day AM,50,"70 Calico Bass Released, 32 Rockfish, 21 Calico Bass, 15 Bonito, 8 Sand Bass, 7 Sculpin, 2 Sheephead, 1 Barracuda, 1 Yellowtail"
+seaforth,New Seaforth,1/2 Day Twilight,27,"54 Rockfish, 50 Calico Bass Released, 7 Calico Bass, 3 Bonito, 1 Lingcod, 1 Sheephead"
 hmlanding,Ocean Odyssey,1.5 Day,30,30 Yellowtail
+seaforth,Pacifica,1.5 Day,28,"140 Yellowfin Tuna, 2 Dorado, 2 Yellowtail"
 hmlanding,Relentless,1.5 Day,15,0
 fisherman,Pegasus,2 Day,18,"84 Dorado, 19 Yellowfin Tuna, 17 Yellowtail, 4 Bluefin Tuna"
 fisherman,Tomahawk,2 Day,28,39 Yellowtail (up to 35 pounds)
 hmlanding,Patriot (SD),2.5 Day,12,"22 Whitefish, 20 Bluefin Tuna, 12 Yellowtail, 5 Dorado"
+seaforth,Polaris Supreme,3 Day,20,"50 Yellowtail, 34 Dorado, 25 Bluefin Tuna"
 fisherman,Poseidon,3.5 Day,19,"109 Yellowtail, 19 Bluefin Tuna, 12 Dorado, 1 Yellowfin Tuna"
