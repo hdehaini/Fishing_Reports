@@ -4705,10 +4705,6 @@ Date,Source,Boat Name,Trip Type,Anglers,Fish Count
 2026-08-19,seaforth,Polaris Supreme,2 Day,24,141 Yellowtail
 2026-08-19,seaforth,Cortez,2.5 Day,12,"12 Skipjack Tuna, 12 Yellowfin Tuna, 11 Yellowtail, 10 Calico Bass, 3 Dorado"
 2026-08-19,seaforth,Pacific Voyager,3 Day,15,81 Yellowtail
-2026-08-21,hmlanding,Premier,1/2 Day AM,21,"71 Bonito, 10 Yellowtail"
-2026-08-21,hmlanding,Patriot (SD),1/2 Day Twilight,11,99 Rockfish
-2026-08-21,hmlanding,Little G,1.5 Day,6,"28 Whitefish, 15 Yellowtail, 2 Bluefin Tuna"
-2026-08-21,hmlanding,Sea Adventure 80,1.5 Day,20,"52 Yellowtail, 15 Bonito, 6 Bluefin Tuna, 5 Yellowfin Tuna, 1 Skipjack Tuna"
 2026-08-20,seaforth,New Seaforth,1/2 Day AM,33,"98 Barracuda, 34 Bonito, 3 Calico Bass, 2 Sheephead, 1 Sculpin, 1 Yellowtail"
 2026-08-20,oceanside,Sea Star,1/2 Day AM,6,"47 Calico Bass Released, 30 Calico Bass, 1 Bonito, 1 Sheephead"
 2026-08-20,oceanside,Southern Cal,1/2 Day AM,29,"30 Calico Bass Released, 20 Sand Bass Released, 7 Sand Bass, 6 Calico Bass, 5 Bonito, 1 Rockfish"
@@ -4721,3 +4717,11 @@ Date,Source,Boat Name,Trip Type,Anglers,Fish Count
 2026-08-20,seaforth,San Diego,Full Day Offshore,36,"2 Dorado, 1 Skipjack Tuna"
 2026-08-20,seaforth,Voyager,1.5 Day,7,35 Yellowtail
 2026-08-20,seaforth,Apollo,2 Day,15,"44 Yellowtail, 3 Dorado, 2 Yellowfin Tuna"
+2026-08-21,pointloma,Daily Double,1/2 Day AM,15,"75 Sculpin, 24 Bonito, 18 Rockfish"
+2026-08-21,hmlanding,Premier,1/2 Day AM,21,"71 Bonito, 10 Yellowtail"
+2026-08-21,hmlanding,Patriot (SD),1/2 Day Twilight,11,99 Rockfish
+2026-08-21,fisherman,Liberty,1.5 Day,21,"41 Yellowtail (up to 30 pounds), 2 Sheephead, 1 White Seabass"
+2026-08-21,hmlanding,Little G,1.5 Day,6,"28 Whitefish, 15 Yellowtail, 2 Bluefin Tuna"
+2026-08-21,fisherman,Pegasus,1.5 Day,19,"45 Dorado, 5 Yellowfin Tuna, 1 Yellowtail"
+2026-08-21,hmlanding,Sea Adventure 80,1.5 Day,20,"52 Yellowtail, 15 Bonito, 6 Bluefin Tuna, 5 Yellowfin Tuna, 1 Skipjack Tuna"
+2026-08-21,fisherman,Islander,2 Day,28,"52 Yellowtail, 2 Bluefin Tuna"
