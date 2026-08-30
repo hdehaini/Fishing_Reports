@@ -1,4 +1,8 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
+seaforth,New Seaforth,1/2 Day AM,55,"53 Bonito, 21 Yellowtail, 5 Vermilion Rockfish, 4 Calico Bass, 3 Barracuda, 1 Sand Bass"
+hmlanding,Premier,1/2 Day AM,54,"62 Bonito, 15 Yellowtail, 7 Calico Bass"
+seaforth,New Seaforth,1/2 Day Twilight,53,"32 Bonito, 5 Barracuda, 4 Calico Bass, 2 Rockfish, 1 Yellowtail"
+seaforth,Pacifica,Full Day Offshore,28,"62 Yellowfin Tuna, 31 Dorado"
 hmlanding,Nautilus,1.75 Day,4,"55 Yellowfin Tuna, 6 Bullet Tuna, 3 Dorado, 2 Skipjack Tuna, 1 Mako Shark"
 hmlanding,Ocean Odyssey,2.5 Day,25,"44 Bluefin Tuna, 11 Yellowtail"
 hmlanding,Sea Adventure 80,2.5 Day,28,"50 Bluefin Tuna, 44 Yellowfin Tuna, 33 Dorado, 1 Yellowtail"
