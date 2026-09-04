@@ -1,20 +1,4 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-oceanside,Chubasco II,1/2 Day AM,9,"45 Bonito, 12 Calico Bass Released, 3 Sand Bass, 1 Calico Bass"
-pointloma,Daily Double,1/2 Day AM,21,"27 Bonito, 16 Yellowtail, 13 Barred Sand Bass, 4 Rockfish, 3 Calico Bass, 2 Sheephead, 1 Sculpin"
-fisherman,Liberty,1/2 Day AM,20,"23 Bonito, 5 Sand Bass, 1 Halibut, 1 Yellowtail"
-seaforth,New Seaforth,1/2 Day AM,31,"46 Bonito, 28 Calico Bass, 6 Barracuda, 5 Yellowtail, 1 Rockfish"
-hmlanding,Premier,1/2 Day AM,22,"32 Bonito, 14 Calico Bass, 10 Yellowtail, 9 Sand Bass, 5 Barracuda, 2 Sheephead"
-oceanside,Southern Cal,1/2 Day AM,29,"35 Calico Bass Released, 30 Bonito, 20 Sand Bass Released, 8 Calico Bass, 2 Sand Bass, 1 Yellowtail, 1 Sheephead"
-fisherman,Liberty,1/2 Day PM,22,"16 Bonito, 14 Rockfish, 5 Sand Bass, 4 Yellowtail, 2 Calico Bass, 2 Sculpin"
-seaforth,New Seaforth,1/2 Day PM,30,"65 Bonito, 49 Calico Bass, 10 Barracuda, 8 Yellowtail, 1 Sand Bass, 1 Sheephead"
-seaforth,New Seaforth,1/2 Day Twilight,13,"17 Bonito, 13 Calico Bass, 2 Barracuda, 1 Rockfish, 1 Sand Bass, 1 Sculpin"
-fisherman,Dolphin,Full Day,20,"33 Bonito, 21 Calico Bass, 18 Yellowtail, 7 Rockfish, 1 Sheephead"
-hmlanding,Grande,Full Day Offshore,41,"24 Yellowfin Tuna, 2 Bonito, 1 Skipjack Tuna"
-pointloma,Mission Belle,Full Day Coronado Islands,29,"32 Barred Sand Bass, 26 Yellowtail, 19 Bonito, 18 Calico Bass"
-seaforth,San Diego,Full Day,27,"58 Bonito, 30 Sand Bass, 21 Yellowtail, 7 Barracuda"
-seaforth,Sea Watch,Full Day,19,"92 Bonito, 9 Yellowtail, 7 Calico Bass, 6 Sand Bass"
-hmlanding,Producer,Overnight,29,41 Yellowfin Tuna
-fisherman,Pegasus,2 Day,9,"32 Bluefin Tuna, 30 Yellowtail, 10 Dorado, 9 Yellowfin Tuna"
-seaforth,Voyager,2 Day,12,"87 Bonito, 35 Yellowtail, 2 Halibut"
-fisherman,Islander,3 Day,10,"57 Bluefin Tuna, 3 Dorado"
-seaforth,Pacifica,3 Day,20,"111 Bluefin Tuna, 35 Yellowtail"
+hmlanding,Little G,2.5 Day,6,0
+hmlanding,Ranger 85,3.5 Day,25,"110 Bluefin Tuna, 18 Calico Bass, 5 Dorado, 5 Yellowtail"
+hmlanding,Top Gun 80,5 Day,18,0
