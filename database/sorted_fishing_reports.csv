@@ -1,8 +1,10 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
 seaforth,New Seaforth,1/2 Day AM,52,"75 Bonito, 50 Barracuda, 22 Calico Bass, 2 Yellowtail"
+seaforth,New Seaforth,1/2 Day Twilight,54,"160 Bonito, 20 Calico Bass, 3 Rockfish, 1 Sand Bass, 1 Whitefish"
 fisherman,Fortune,2 Day,12,35 Bluefin Tuna
 hmlanding,Little G,2 Day,6,"24 Bluefin Tuna, 5 Whitefish, 1 Striped Marlin Released"
 hmlanding,Horizon,2.5 Day,24,"96 Bluefin Tuna, 3 Dorado"
+seaforth,Tribute,2.5 Day,28,71 Bluefin Tuna
 fisherman,Islander,3 Day,22,85 Bluefin Tuna
 hmlanding,Legend,3 Day,27,"162 Bluefin Tuna, 47 Yellowtail, 7 Dorado, 4 Yellowfin Tuna"
 fisherman,Pacific Queen,3 Day,25,"150 Bluefin Tuna, 22 Yellowtail, 11 Dorado, 3 Yellowfin Tuna"
