@@ -1,24 +1,2 @@
 Source,Boat Name,Trip Type,Anglers,Fish Count
-seaforth,New Seaforth,1/2 Day AM,39,"195 Bonito, 16 Calico Bass, 4 Barracuda"
-hmlanding,Premier,1/2 Day AM,15,"75 Bonito, 1 Barracuda, 1 Yellowtail"
-seaforth,New Seaforth,1/2 Day PM,39,"57 Bonito, 10 Calico Bass, 4 Rockfish, 1 Yellowtail"
-seaforth,New Seaforth,1/2 Day Twilight,55,"190 Bonito, 4 Sand Bass, 3 Calico Bass"
-fisherman,Dolphin,3/4 Day,17,"85 Bonito, 46 Calico Bass, 30 Barracuda, 18 Rockfish, 6 Sheephead, 3 Sand Bass, 3 Yellowtail"
-hmlanding,Grande,Full Day Offshore,23,55 Yellowfin Tuna
-fisherman,Liberty,Full Day,41,"127 Bonito, 38 Rockfish, 10 Sculpin, 5 Sheephead, 4 Barracuda, 3 Calico Bass, 1 Yellowtail"
-pointloma,Point Loma,Full Day,17,"60 Bonito, 18 Barred Sand Bass, 14 Calico Bass, 5 Yellowtail, 4 Barracuda, 4 Sheephead, 1 Rockfish, 1 Lingcod"
-seaforth,San Diego,Full Day,15,26 Bonito
-hmlanding,Old Glory,Overnight,13,65 Yellowfin Tuna
-hmlanding,Producer,Overnight,19,"95 Yellowfin Tuna, 25 Skipjack Tuna"
-seaforth,Cortez,1.5 Day,15,"75 Calico Bass, 15 Yellowtail"
-fisherman,Pegasus,1.5 Day,13,"7 Bluefin Tuna, 1 Dorado"
-hmlanding,Excalibur,2 Day,24,0
-seaforth,Highliner,2 Day,21,"150 Yellowfin Tuna, 46 Bluefin Tuna, 2 Dorado, 1 Yellowtail"
-fisherman,Pacific Dawn,2 Day,14,34 Bluefin Tuna
-seaforth,Pacific Voyager,2 Day,13,"61 Bonito, 42 Barracuda, 22 Yellowtail"
-seaforth,Polaris Supreme,2 Day,23,"46 Bluefin Tuna, 20 Yellowtail"
-hmlanding,Sea Adventure 80,2 Day,22,"67 Yellowfin Tuna, 6 Bluefin Tuna"
-fisherman,Tomahawk,2 Day,28,44 Bluefin Tuna
-seaforth,Apollo,3 Day,14,"39 Bluefin Tuna, 8 Yellowtail, 7 Yellowfin Tuna, 3 Dorado"
-hmlanding,Top Gun 80,3.5 Day,17,0
-hmlanding,Spirit of Adventure,8 Day,20,0
+hmlanding,Ranger 85,2 Day,17,"11 Bluefin Tuna, 1 Yellowfin Tuna"
